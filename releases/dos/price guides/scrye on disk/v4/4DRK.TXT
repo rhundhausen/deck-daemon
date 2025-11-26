@@ -1,0 +1,125 @@
+		THE DARK						
+
+		CARD NAME	 COLOR 	 TYPE 	 RARITY 	 HIGH 	 MEDIAN 	 LOW 
+
+D	480	 Amnesia 	 U 	 Sor 	 U2 	$4.00 	$3.75 	$2.00 
+D	481	 Angry Mob 	 W 	 Sum 	 U2 	$5.13 	$4.25 	$3.13 
+D	482	 Apprentice Wizard 	 U 	 Sum 	 U1 	$6.00 	$5.00 	$4.00 
+D	483	 Ashes to Ashes 	 B 	 Sor 	 C3 	$1.00 	$0.50 	$0.25 
+D	484	 Ball Lightning 	 R 	 Sum 	 U1 	$8.00 	$8.00 	$6.63 
+D	485	 Banshee 	 B 	 Sum 	 U2 	$4.00 	$3.00 	$1.50 
+D	486	 Barl's Cage 	 A 	 Art 	 U1 	$7.00 	$6.00 	$6.00 
+D	487	 Blood Moon 	 R 	 E 	 U1 	$8.00 	$7.00 	$6.00 
+D	488	 Blood of the Martyr 	 W 	 Ins 	 U2 	$4.00 	$3.00 	$1.50 
+D	489	 Bog Imp 	 B 	 Sum 	 C3 	$1.00 	$0.50 	$0.25 
+D	490	 Bog Rats 	 B 	 Sum 	 C3 	$1.00 	$0.50 	$0.25 
+D	491	 Bone Flute 	 A 	 Art 	 U2 	$3.00 	$2.00 	$1.50 
+D	492	 Book of Rass 	 A 	 Art 	 U2 	$3.00 	$2.00 	$1.50 
+D	493	 BrainWash 	 W 	 E 	 C3 	$1.00 	$0.40 	$0.25 
+D	494	 Brothers of Fire 	 R 	 Sum 	 U2 	$4.00 	$2.50 	$2.00 
+D	495	 Carnivorous Plant 	 G 	 Sum 	 C3 	$1.00 	$0.50 	$0.25 
+D	496	 Cave People 	 R 	 Sum 	 U2 	$3.50 	$3.00 	$2.00 
+D	497	 City of Shadows 	 Be 	 L 	 U1 	$6.25 	$5.00 	$3.50 
+D	498	 Cleansing 	 W 	 Sor 	 U1 	$7.00 	$6.00 	$6.00 
+D	499	 Coal Golem 	 A 	 Art 	 U2 	$3.50 	$3.00 	$2.00 
+D	500	 Curse Artifact 	 B 	 E 	 U2 	$3.00 	$2.00 	$1.75 
+D	501	 Dance of Many 	 U 	 E 	 U1 	$6.50 	$6.00 	$5.00 
+D	502	 Dark Heart of the Wood 	 Gld 	 Sum 	 C3 	$1.00 	$0.50 	$0.25 
+D	503	 Dark Sphere 	 A 	 Art 	 U2 	$4.00 	$4.00 	$2.00 
+D	504	 Deep Water 	 U 	 E 	 C3 	$1.00 	$0.30 	$0.25 
+D	505	 Diabolic Machine 	 A 	 Art 	 U2 	$4.00 	$3.00 	$2.38 
+D	506	 Drowned 	 U 	 Sum 	 C3 	$1.00 	$0.30 	$0.25 
+D	507	 Dust to Dust 	 W 	 Sor 	 C3 	$1.00 	$0.45 	$0.25 
+D	508	 Eater of the Dead 	 B 	 Sum 	 U2 	$4.25 	$4.00 	$3.75 
+D	509	 Electric Eel 	 U 	 Sum 	 U2 	$3.00 	$2.25 	$1.88 
+D	510	 Elves of Deep Shadows 	 G 	 Sum 	 U2 	$3.00 	$3.00 	$2.00 
+D	511	 Erosion 	 U 	 E 	 C3 	$1.00 	$0.30 	$0.25 
+D	512	 Eternal Flame 	 R 	 Sor 	 U1 	$5.00 	$5.00 	$4.75 
+D	513	 Exorcist 	 W 	 Sum 	 U1 	$8.50 	$8.00 	$6.00 
+D	514	 Fasting 	 W 	 E 	 U2 	$3.25 	$2.50 	$1.00 
+D	515	 Fellwar Stone 	 A 	 Art 	 U2 	$5.00 	$4.00 	$3.75 
+D	516	 Festival 	 W 	 Ins 	 C3 	$1.00 	$0.50 	$0.25 
+D	517	 Fire and Brimstone 	 W 	 Ins 	 U2 	$3.00 	$2.50 	$1.88 
+D	518	 Fire Drake 	 R 	 Sum 	 U2 	$3.00 	$3.00 	$1.50 
+D	519	 Fissure 	 R 	 Ins 	 C3 	$1.00 	$0.45 	$0.25 
+D	520	 Flood 	 U 	 E 	 U2 	$3.00 	$2.75 	$1.75 
+D	521	 Fountain of Youth 	 A 	 Art 	 U2 	$5.00 	$3.00 	$2.00 
+D	522	 Frankenstein's Monster 	 B 	 Sum 	 U1 	$10.00 	$8.00 	$5.25 
+D	523	 Gaea's Touch 	 G 	 E 	 C3 	$1.00 	$0.40 	$0.25 
+D	524	 Ghost Ship 	 U 	 Sum 	 C3 	$1.00 	$0.50 	$0.25 
+D	525	 Giant Shark 	 U 	 Sum 	 C3 	$1.00 	$0.50 	$0.25 
+D	526	 Goblin Caves 	 R 	 E 	 C3 	$1.00 	$0.50 	$0.25 
+D	527	 Goblin Digging Team 	 R 	 Sum 	 C3 	$1.00 	$0.40 	$0.25 
+D	528	 Goblin Hero 	 R 	 Sum 	 C3 	$1.00 	$0.45 	$0.25 
+D	529	 Goblin Rock Sled 	 R 	 Sum 	 C3 	$1.00 	$0.40 	$0.25 
+D	530	 Goblin Shrine 	 R 	 E 	 C3 	$1.00 	$0.50 	$0.25 
+D	531	 Goblin Wizard 	 R 	 Sum 	 U1 	$7.00 	$6.25 	$5.00 
+D	532	 Goblins of the Flag 	 R 	 Sum 	 C3 	$1.00 	$0.40 	$0.25 
+D	533	 Grave Robbers 	 B 	 Sum 	 U1 	$7.00 	$6.00 	$4.00 
+D	534	 Hidden Path 	 G 	 E 	 U1 	$7.25 	$5.00 	$3.75 
+D	535	 Holy Light 	 W 	 Ins 	 C3 	$1.00 	$0.35 	$0.25 
+D	536	 Inferno 	 R 	 Ins 	 U1 	$7.00 	$5.50 	$4.75 
+D	537	 Inquisition 	 B 	 Sor 	 C3 	$1.00 	$0.40 	$0.25 
+D	538	 Knights of Thorn 	 W 	 Sum 	 U1 	$7.00 	$6.00 	$5.00 
+D	539	 Land Leeches 	 G 	 Sum 	 C3 	$1.00 	$0.35 	$0.25 
+D	540	 Leviathan 	 U 	 Sum 	 U1 	$9.00 	$8.00 	$7.00 
+D	541	 Living Armor 	 A 	 Art 	 U2 	$4.00 	$3.00 	$2.00 
+D	542	 Lurker 	 G 	 Sum 	 U1 	$5.25 	$5.00 	$4.75 
+D	543	 Mana Clash 	 R 	 Sor 	 U1 	$5.00 	$5.00 	$5.00 
+D	544	 Mana Vortex 	 U 	 E 	 U1 	$6.00 	$6.00 	$4.75 
+D	545	 Marsh Gas 	 B 	 Ins 	 C3 	$1.00 	$0.30 	$0.25 
+D	546	 Marsh Goblins 	 Gld 	 Sum 	 C3 	$1.00 	$0.50 	$0.25 
+D	547	 Marsh Viper 	 G 	 Sum 	 C3 	$1.00 	$0.45 	$0.25 
+D	548	 Martyr's Cry 	 W 	 Sor 	 U1 	$6.00 	$5.00 	$4.00 
+D	549	 Maze of Ith 	 Be 	 L 	 C1 	$4.50 	$4.00 	$3.00 
+D	550	 Merfolk Assassin 	 U 	 Sum 	 U2 	$4.50 	$4.00 	$2.50 
+D	551	 Mind Bomb 	 U 	 Sor 	 U1 	$6.00 	$5.00 	$4.75 
+D	552	 Miracle Worker 	 W 	 Sum 	 C3 	$1.00 	$0.40 	$0.25 
+D	553	 Morale 	 W 	 Ins 	 C3 	$1.00 	$0.30 	$0.25 
+D	554	 Murk Dwellers 	 B 	 Sum 	 C3 	$1.00 	$0.35 	$0.25 
+D	555	 Nameless Race 	 B 	 Sum 	 U1 	$7.00 	$6.00 	$5.00 
+D	556	 Necropolis 	 A 	 Art 	 U2 	$3.50 	$2.50 	$2.00 
+D	557	 Niall Silvain 	 G 	 Sum 	 U1 	$6.00 	$5.50 	$4.75 
+D	558	 Orc General 	 R 	 Sum 	 U2 	$4.00 	$3.50 	$2.00 
+D	559	 People of the Woods 	 G 	 Sum 	 U2 	$4.00 	$4.00 	$2.00 
+D	560	 Pikemen 	 W 	 Sum 	 C3 	$1.00 	$0.50 	$0.25 
+D	561	 Preacher 	 W 	 Sum 	 U1 	$8.00 	$8.00 	$7.50 
+D	562	 Psychic Allergy 	 U 	 E 	 U1 	$6.63 	$5.50 	$5.00 
+D	563	 Rag Man 	 B 	 Sum 	 U1 	$8.00 	$6.50 	$4.75 
+D	564	 Reflecting Mirror 	 A 	 Art 	 U2 	$5.00 	$3.50 	$3.00 
+D	565	 Riptide 	 U 	 Ins 	 C3 	$1.00 	$0.30 	$0.25 
+D	566	 Runesword 	 A 	 Art 	 U2 	$5.00 	$3.50 	$2.00 
+D	566A	Runesword (Hair Variant)	A	Art	U2	$8.00 	$5.00 	$3.00 
+D	567	 SafeHaven 	 Be 	 L 	 U1 	$8.00 	$7.00 	$5.50 
+D	568	 Savaen Elves 	 G 	 Sum 	 C3 	$1.00 	$0.40 	$0.25 
+D	569	 Scarecrow 	 A 	 Art 	 U2 	$5.00 	$3.50 	$3.00 
+D	570	 Scarwood Bandits 	 G 	 Sum 	 U1 	$7.25 	$6.25 	$4.75 
+D	571	 Scarwood Goblins 	 Gld 	 Sum 	 C3 	$1.00 	$0.50 	$0.25 
+D	572	 Scarwood Hag 	 G 	 Sum 	 U2 	$3.25 	$2.50 	$1.75 
+D	573	 Scavenger Folk 	 G 	 Sum 	 C3 	$1.00 	$0.40 	$0.25 
+D	574	 Season of the Witch 	 B 	 E 	 U1 	$7.00 	$6.50 	$5.00 
+D	575	 Sisters of the Flame 	 R 	 Sum 	 U2 	$3.13 	$3.00 	$1.50 
+D	576	 Skull of Orm 	 A 	 Art 	 U2 	$4.00 	$3.25 	$2.00 
+D	577	 Sorrow's Path 	 Be 	 L 	 U1 	$5.00 	$5.00 	$4.00 
+D	578	 Splitting Slug 	 G 	 Sum 	 U2 	$3.25 	$2.00 	$1.00 
+D	579	 Squire 	 W 	 Sum 	 C3 	$1.00 	$0.30 	$0.25 
+D	580	 Standing Stones 	 A 	 Art 	 U2 	$4.25 	$3.00 	$1.88 
+D	581	 Stone Calendar 	 A 	 Art 	 U1 	$6.25 	$6.00 	$4.75 
+D	582	 Sunken City 	 U 	 E 	 C3 	$1.00 	$0.50 	$0.25 
+D	583	 Tangle Kelp 	 U 	 E 	 U2 	$2.50 	$2.00 	$1.50 
+D	584	 The Fallen 	 B 	 Sum 	 U2 	$4.50 	$3.00 	$3.00 
+D	585	 Tivadar's Crusade 	 W 	 Sor 	 U2 	$4.00 	$2.75 	$2.00 
+D	586	 Tormod's Crypt 	 A 	 Art 	 U2 	$4.00 	$2.50 	$2.00 
+D	587	 Tower of Coirall 	 A 	 Art 	 U2 	$4.00 	$2.00 	$1.50 
+D	588	 Tracker 	 G 	 Sum 	 U1 	$7.00 	$6.00 	$5.00 
+D	589	 Uncle Istvan 	 B 	 Sum 	 U2 	$4.25 	$4.00 	$3.50 
+D	590	 Venom 	 G 	 E 	 C3 	$1.00 	$0.50 	$0.25 
+D	591	 Wand of Ith 	 A 	 Art 	 U2 	$4.00 	$2.50 	$2.00 
+D	592	 War Barge 	 A 	 Art 	 U2 	$4.00 	$4.00 	$3.13 
+D	593	 Water Wurm 	 U 	 Sum 	 C3 	$1.00 	$0.35 	$0.25 
+D	594	 Whippoorwill 	 G 	 Sum 	 U2 	$4.00 	$3.00 	$1.88 
+D	595	 Witch Hunter 	 W 	 Sum 	 U1 	$7.00 	$7.00 	$5.75 
+D	596	 Word of Binding 	 B 	 Sor 	 C3 	$1.00 	$0.50 	$0.25 
+D	597	 Worms of the Earth 	 B 	 E 	 U1 	$7.00 	$6.00 	$5.00 
+D	598	 Wormwood Treefolk 	 G 	 Sum 	 U1 	$6.13 	$5.00 	$3.88 
+		TOTAL				$451.25 	$363.40 	$279.38 

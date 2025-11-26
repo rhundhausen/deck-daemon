@@ -1,0 +1,372 @@
+This is the offical Card Rarity and Artist list for On the Edge(tm).  This list
+is subject to improvement at future points; questions and comments concerning
+this list, or any other aspect of the game can be directed to:
+pnurnber@carleton.edu
+This address will be changing in the near future.  With all that said, here's
+the list:
+--
+ON THE EDGE(TM)
+Offical Card Checklist
+ 
+FIRST PRINTING
+ 
+Card #   Card Name                        Artist            Rarity
+------   -----------------------------    ----------------  ------
+                                                                       15
+Card #   Card Name                        Artist            Rarity
+------   -----------------------------    ----------------  ------
+   1     The Dirt on Her Exaltedness,     Nephew            R1
+         Monique D'Aubainne, Historic
+         Liberator and Current
+         Shepherdess of Al Amarja
+   2     Gladsteins' Secret               Nephew            R1
+   3     Glorious Lords' Secret           Nephew            R1
+   4     Glugs' Secret                    Nephew            R1
+   5     Hermetics' Secret                Nephew            R1
+   6     Kergillian' Secret               Nephew            R1
+   7     Pharoahs' Secret                 Nephew            R1
+   8     Tridents' Secret                 Nephew            R1
+   9     Tulpas' Secret                   Nephew            R1
+  10     The Dirt on Dr. Nusbaum          Nephew            R2
+  11     Jagannath Adhi                   Walsh             R1
+  12     Al Amarjan Friends               Nephew            C2
+  13     Dalal Allar                      O'Connor          R1
+  14     Sunshine Allarha                 Kirkbride         R1
+                                                                       20
+  13     Dalal Allar                      O'Connor          R1
+  14     Sunshine Allarha                 Kirkbride         R1
+  15     Mattias Allemande                O'Connor          R1
+  16     Ghadir Allemi                    Shuler            U1
+  17     Fahd Amaq                        Olson             R2
+  18     Amok                             Walden            U1
+  19     Anti-Matter Grenade              Marshall          U2
+  20     Aries Ambush                     Dougherty         U2
+  21     Armada                           Menges            U1
+  22     Dev Ashana                       Menges            R1
+  23     Astral Doorway                   Ferguson          U2
+  24     Astral Flux                      Marshall          C1
+  25     Astral Interference              Houston           R1
+  26     Astral Mimicry                   Houston           R1
+  27     Astral Negatrons                 Walden            R2
+  28     Astral Wisdom                    Menges            C3
+  29     Atavism: Ninja                   Slark             R1
+  30     Aura of Evil                     Aulisio           R1
+                                          Dannheiser
+                                                                       25
+  30     Aura of Evil                     Aulisio           R1
+                                          Dannheiser
+  31     Bad Luck                         Houston           C1
+  32     Battle Bike                      Raupp             R1
+  33     Beginner's Luck                  Walsh             U1
+  34     Julio Beitleiro                  Snyder            U1
+  35     Bellow                           Houston           U2
+  36     Bestial Rampage                  Kirkbride         R1
+  37     Betelguesan                      Shuler            R1
+  38     Bitter & Herb                    Menges            C2
+  39     Blackmail                        Walden            C1
+  40     Avan Bloodlord                   Houston           R1
+  41     Bloodlust                        Raupp             U2
+  42     Body Double                      Barber            R1
+  43     Aurora Bolt                      Menges            C2
+  44     Mikhail Borisov                  Walden            U1
+  45     Break-Bones                      Houston           C2
+  46     Breakage                         Walden            C1
+  47     Lino Briazzi                     Snyder            U1
+                                                                       30
+  46     Breakage                         Walden            C1
+  47     Lino Briazzi                     Snyder            U1
+  48     Bull-Beater                      Shuler            U2
+  49     Bystander Effect                 O'Connor          U1
+  50     Gemma Candiru                    Aulisio           U1
+                                          Dannheiser
+  51     James R. Cartwright              Hotz              C2
+  52     Ricardo Cerdo                    Olson             C1
+  53     Roger Chalk                      Olson             U2
+  54     Charisma                         Ferguson          R1
+  55     Chikutorpl                       Lancaster         C2
+  56     Mihaly Cieznick                  Houston           U2
+  57     Cloak Ambush                     Walsh             U1
+  58     Cloak Hit                        Walsh             U2
+  59     Sir Arthur Compton               Aulisio           R2
+                                          Dannheiser
+  60     Concealable Weaponry             O'Connor          C2
+  61     Contacts in the Art Scene        Snyder            C3
+  62     Copper Dagger                    Menges            R1
+                                                                       35
+  61     Contacts in the Art Scene        Snyder            C3
+  62     Copper Dagger                    Menges            R1
+  63     Coral Entity                     Snyder            R2
+  64     Counter-Intelligence             Booker            U1
+  65     Crystal Trap                     Ferguson          C1
+  66     Cut-Ups Machine                  Marshall          R1
+  67     Cyanide Capsule                  Hotz              C1
+  68     Cheryl D'Aubainne                Ferguson          R1
+  69     Constance D'Aubainne             Ferguson          R1
+  70     Jean-Christophe D'Aubainne       Snyder            R1
+  71     Monique D'Aubainne               Mandus            R1
+  72     Joana d'Fabelle                  Olson             C1
+  73     Dark Aura Ring                   Davies            C1
+  74     Deadly Inspiration               Small             R1
+  75     Deportation Investigation        Ferguson          U1
+  76     Silver Detti                     Lancaster         C1
+  77     Disinformation                   Ferguson          U1
+  78     Disintegrator Ray                O'Connor          R1
+  79     DNA Difficulties                 Small             C1
+                                                                       40
+  78     Disintegrator Ray                O'Connor          R1
+  79     DNA Difficulties                 Small             C1
+  80     Cyril Doros                      Walsh             R2
+  81     Dumb Luck                        Walden            C1
+  82     Duro-Trench                      Walden            C1
+  83     ELF Wave Generator               Walden            R1
+  84     Empty                            Mandus            C1
+  85     Akorra Encombi                   Walsh             U1
+  86     Adelina Escobar                  Cabral            U2
+  87     Manuela Eselbrust                Rosa              R1
+  88     Abanobi Famani                   Menges            U2
+  89     Harry Fang                       Kirkbride         R1
+  90     Lou Farazzi                      Dougherty         C1
+  91     Ben Feather-on-Wind              Shuler            U2
+  92     Mugly Flats                      O'Connor          U1
+  93     Friends in Arms Barrio           Ferguson          C3
+  94     Friends in Broken Wings Barrio   Ferguson          C3
+  95     Friends in Flowers Barrio        Dougherty         C3
+  96     Friends in Four Points Barrio    Kirkbride         C3
+                                                                       45
+  95     Friends in Flowers Barrio        Dougherty         C3
+  96     Friends in Four Points Barrio    Kirkbride         C3
+  97     Friends in Golden Barrio         Ferguson          C3
+  98     Friends in Great Men Barrio      Houston           C3
+  99     Friends in Sunken Barrio         Walsh             C3
+ 100     Frogbreath                       Houston           C1
+ 101     Fury                             Houston           U2
+ 102     Gang A-Gley                      Ferguson          U1
+ 103     Genetic Prejudice                Houston           R1
+ 104     Frank Germaine                   Hotz              C2
+ 105     Good Luck                        Houston           C1
+ 106     Gremlins                         Menges            R2
+ 107     Deborah Grierson                 Snyder            R1
+ 108     Erik Gudne                       Dougherty         R1
+ 109     Anwar Hallajin                   Tobiason          R1
+ 110     Umar Halleen                     Lancaster         R1
+ 111     Twilight Hammer                  Hotz              C1
+ 112     Barber Hammock                   Booker            C1
+ 113     Leif Hardarson                   Dougherty         C1
+                                                                       50
+ 112     Barber Hammock                   Booker            C1
+ 113     Leif Hardarson                   Dougherty         C1
+ 114     Hank Henderson                   Dougherty         R2
+ 115     Saxolf Hermann                   Dougherty         U1
+ 116     Hidden Gear                      Kirkbride         U1
+ 117     Kunigunde Himmelsbach            Kimble            C1
+ 118     Hostage                          Booker            U1
+ 119     Hostility Channeler              Houston           C1
+ 120     Hostility Detector               Menges            C1
+ 121     Human Ch'i Gun                   Marshall          R2
+ 122     Hypno-Disc                       Marshall          C1
+ 123     Isa Ifaq                         Walsh             C1
+ 124     Immunity                         Walden            U1
+ 125     Inspiration                      Olson             U1
+ 126     Intelligence Contacts            Barber            U2
+ 127     International Influence          Walsh             R1
+ 128     Mamduh Jalla                     Hotz              R1
+ 129     Karmic Assassin                  Slark             R1
+ 130     Johnny Kazoo                     Hotz              U1
+                                                                       55
+ 129     Karmic Assassin                  Slark             R1
+ 130     Johnny Kazoo                     Hotz              U1
+ 131     Kergillian Implant               Shuler            R1
+ 132     Kidnap                           Menges            U1
+ 133     Hans Knudson                     Raupp             C2
+ 134     Joey Ko                          Kirkbride         U2
+ 135     Rigor Kwasek                     Houston           U1
+ 136     Latent Hero                      Dougherty         R2
+ 137     Latent Psychic Attack            Small             R1
+ 138     Latent Strength                  Rosa              R2
+ 139     George Lazarus                   Rosa              R1
+ 140     Lee G'won Foo                    Walden            U1
+ 141     Ley Line Nexus                   O'Connor          R1
+ 142     Loot                             Houston           C1
+ 143     Lope                             Houston           U1
+ 144     Loyalty Conditioning             Lancaster         U1
+ 145     Abel Ludo                        Lancaster         U1
+ 146     Giovanni Mancini                 Tobiason          C2
+ 147     Mantra                           Aulisio           C1
+                                                                       60
+ 146     Giovanni Mancini                 Tobiason          C2
+ 147     Mantra                           Aulisio           C1
+                                          Dannheiser
+ 148     Arwa Marabu                      Cabral            C1
+ 149     Ricardo Martinez                 Dougherty         R1
+ 150     Fabrissa Melors                  Shuler            U2
+ 151     Military Contacts                Hotz              U2
+ 152     Mind Control Messages            Marshall          R1
+ 153     Mole                             Kimble            U2
+ 154     Molly, Queen Mother of Baboons   Kirkbride         R2
+ 155     Money Talks                      Snyder            R1
+ 156     Dr. Paulo Montserrat             Olson             U1
+ 157     Akio Morimoto                    Booker            C1
+ 158     Multi-Dimension                  Snyder            U1
+ 159     Abdullah Mustafa                 Cabral            R1
+ 160     Mutant Ambush                    Walden            U2
+ 161     Mutant Sympathies                Small             U2
+ 162     Mutation                         Menges            U2
+ 163     Kamorro N'Duban                  Shuler            R1
+                                                                       65
+ 162     Mutation                         Menges            U2
+ 163     Kamorro N'Duban                  Shuler            R1
+ 164     Nachtmeister                     Houston           R1
+ 165     Nano-Tech Medical Machines       Marshall          R1
+ 166     Negative Energy                  Booker            C1
+ 167     Neuro-Star                       Marshall          R1
+ 168     New Blood                        Ferguson          R1
+ 169     Number Three                     Aulisio           R1
+                                          Dannheiser
+ 170     Dr. Furchtegott Nusbaum          Ferguson          U2
+ 171     Marla Oceana                     Lancaster         U2
+ 172     Oppenheimer Contacts             Walsh             C3
+ 173     Martin Oumage                    Lancaster         U1
+ 174     Patrol Baboon                    Kirkbride         C2
+ 175     Arthur Pendrick                  Walsh             C1
+ 176     Pistol-Grip Chainsaw             Shuler            C1
+ 177     Polymer Clothing                 Walden            C2
+ 178     Portable Sub-Sonics              Marshall          R1
+ 179     Portia                           Hotz              R1
+                                                                       70
+ 178     Portable Sub-Sonics              Marshall          R1
+ 179     Portia                           Hotz              R1
+ 180     Possession                       Walden            U1
+ 181     Psi Gun                          Houston           R1
+ 182     Psychic Flux                     Houston           C1
+ 183     Psychic Sensitivity              Houston           C3
+ 184     Psychic Singularity              Marshall          R1
+ 185     Psychic Virus                    O'Connor          U1
+ 186     Psychovore                       Davies            C1
+ 187     Jack Rack                        Hotz              U1
+ 188     Radio Laser Satellite            Marshall          R2
+ 189     Dinesh Rajpal                    Cabral            C2
+ 190     Jonny Rama                       Lancaster         U1
+ 191     Rampage                          Kirkbride         R2
+ 192     Ransom                           Rosa              C1
+ 193     Ravage                           Aulisio           R1
+                                          Dannheiser
+ 194     Asha Rayhar                      Lancaster         R2
+ 195     Red Orca                         Shuler            R1
+                                                                       75
+ 194     Asha Rayhar                      Lancaster         R2
+ 195     Red Orca                         Shuler            R1
+ 196     Reek Rend                        Houston           C1
+ 197     Angela Reyes                     Ferguson          U1
+ 198     Robert Richardson                Walsh             U1
+ 199     Riots                            Hotz              R2
+ 200     Cherri Robinson                  Lancaster         C1
+ 201     J.S. Rocket                      Aulisio           C1
+                                          Dannheiser
+ 202     Fernando Rodriguez               Olson             U1
+ 203     Randy Rogers                     Lancaster         U2
+ 204     Aleksandr Rominosky              Aulisio           U1
+                                          Dannheiser
+ 205     Mars Royale                      Menges            R1
+ 206     Don Rozo                         Lancaster         C1
+ 207     Pietro Ruffo                     Slark             C1
+ 208     Thor Runestone                   Dougherty         U1
+ 209     Sabotage                         Barber            U1
+ 210     SACQ                             Ferguson          R1
+                                                                       80
+ 209     Sabotage                         Barber            U1
+ 210     SACQ                             Ferguson          R1
+ 211     Juana Salvador                   Tobiason          U1
+ 212     Seamless Shirt                   Walden            C1
+ 213     Seklut Poison                    Cabral            U1
+ 214     Self-Actualizer                  Houston           U2
+ 215     Veronica Sellers                 Slark             R1
+ 216     Sensitivity                      Houston           C1
+ 217     Havani Shagasemi                 Shuler            R2
+ 218     Prem K. Sharma                   Walsh             R1
+ 219     Shreds                           Houston           R1
+ 220     Simon Xin                        Snyder            R1
+ 221     Giuseppe Sizo                    Lancaster         U1
+ 222     Slag                             Houston           C1
+ 223     Burford J. Slystick              Ferguson          U1
+ 224     Smear Campaign                   Barber            U2
+ 225     Eliza Smith                      Olson             R2
+ 226     Sneak                            Kimble            C2
+ 227     Peer Solgerkvist                 Dougherty         C2
+                                                                       85
+ 226     Sneak                            Kimble            C2
+ 227     Peer Solgerkvist                 Dougherty         C2
+ 228     Karla Sommers                    Davies            R2
+ 229     Linda Sourinen                   Cabral            U1
+ 230     Status Quo                       Ferguson          R1
+ 231     Raw Steamer                      Houston           C1
+ 232     Wheeler Stein                    Kirkbride         U1
+ 233     Stinger Mark V                   Shuler            U1
+ 234     Stun Gas                         Shuler            U2
+ 235     Stun Ray                         Shuler            R1
+ 236     Stun Ring                        Shuler            U1
+ 237     Sub-Sonics                       Marshall          U1
+ 238     Takeshi Sumanoto                 Shuler            R1
+ 239     Super-Vitamin Diet               Lancaster         U1
+ 240     Malak Suzier                     Walden            C2
+ 241     Switch-Flipping                  Menges            R1
+ 242     The Terminal                     Snyder            R1
+ 243     Terrors                          Dougherty         U1
+ 244     Throckmorton Device              Ferguson          R1
+                                                                       90
+ 243     Terrors                          Dougherty         U1
+ 244     Throckmorton Device              Ferguson          R1
+ 245     Clyde Throckmorton               Ferguson          R1
+ 246     Total Taxi                       Menges            U2
+ 247     Trade Contacts in the Edge       Ferguson          U2
+ 248     Trident Morale                   Olson             U2
+ 249     Trugga                           Aulisio           R1
+                                          Dannheiser
+ 250     Tulpa                            Mandus            U2
+ 251     Stefano Turolli                  Olson             R2
+ 252     Ali Twine                        Cabral            C1
+ 253     UN Forces                        Olson             R1
+ 254     Unanticipated Influence          Kimble            U1
+ 255     Underground Trident              Davies            R1
+         Headquarters
+ 256     Sally Undokku                    Small             C1
+ 257     Unexpected Difficulties          Houston           C1
+ 258     Vibe Valiant                     Walsh             C2
+ 259     Dmitri Vatsavos                  Cabral            C2
+                                                                       95
+ 258     Vibe Valiant                     Walsh             C2
+ 259     Dmitri Vatsavos                  Cabral            C2
+ 260     Andrea Vernon                    Cabral            C1
+ 261     Guglielmo Vigneto                Walsh             U2
+ 262     Ward Against Enemies             Rosa              U1
+ 263     Weegzon                          Davies            C1
+ 264     Weird Radiation                  Houston           C1
+ 265     Wheel of Fortune                 Slark             U1
+ 266     Holly Winter                     Kimble            U1
+ 267     Wiretap                          Barber            U1
+ 268     Zipper                           Mandus            C2
+ 269     Mary Zule                        Lancaster         R2
+ 
+SAMPLE CARDS
+ 
+Card #   Card Name                        Artist
+------   -----------------------------    ----------------
+  S1     Astral Wisdom                    Menges
+  S2     Saleem Helicopter                Nephew
+                                                                      100
+  S1     Astral Wisdom                    Menges
+  S2     Saleem Helicopter                Nephew
+  S3     Dmitri Vatsavos                  Cabral
+  S4     Red Orca                         Shuler
+  S5     Kergillian Implant               Shuler
+  S6     Kamorro N'Duban                  Shuler
+  S7     Scythian Ring                    Cabral
+  S8     Lope                             Houston
+  S9     Nachtmeister                     Houston
+ S10     Linda Sourinen                   Cabral
+ S11     Throckmorton Domination          Shuler
+--
+acemnorsuvwxzacemnorsuvwxzacemnorsuvwxzacemnorsuvwxzac
+a pnurnber@carleton.edu = Paul "Slystick" Nurnberger c 
+acemnorsuvwxzacemnorsuvwxzacemnorsuvwxzacemnorsuvwxzac
+                          [Already at end of message]
+

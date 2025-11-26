@@ -1,0 +1,300 @@
+		MTGALPHA						
+								
+		CARD NAME	COLOR	TYPE	RARITY	HIGH	MEDIAN	LOW
+								
+A	1	Air Elemental	U	Sum	U1	$4.81 	$3.25 	$3.00 
+A	2	Ancestral Recall	U	Ins	R1	$50.00 	$46.50 	$40.75 
+A	3	Animate Artifact	U	EArt	U1	$3.00 	$3.00 	$3.00 
+A	4	Animate Dead	B	EDCr	U1	$3.94 	$3.00 	$2.25 
+A	5	Animate Wall	W	EW	R1	$10.00 	$9.00 	$6.50 
+A	6	Ankh of Mishra	A	C	R1	$11.50 	$10.00 	$8.50 
+A	7	Armageddon	W	Sor	R1	$15.00 	$14.75 	$13.00 
+A	8	Aspect of Wolf	G	ECr	R1	$13.00 	$12.75 	$9.88 
+A	9	Bad Moon	B	E	R1	$16.50 	$12.00 	$11.25 
+A	10	Badlands	B/R	DL	R1	$17.75 	$13.50 	$11.50 
+A	11	Balance	W	Sor	R1	$14.50 	$12.50 	$11.25 
+A	12	Basalt Monolith	A	M	U1	$5.63 	$3.00 	$3.00 
+A	13	Bayou	B/G	DL	R1	$17.75 	$13.50 	$11.50 
+A	14	Benalish Hero	W	Sum	C1	$1.50 	$0.50 	$0.50 
+A	15	Berserk	G	Ins	U1	$18.50 	$12.00 	$10.00 
+A	16	Birds of Paradise	G	Sum	R1	$16.25 	$13.50 	$12.75 
+A	17	Black Knight	B	Sum	U1	$6.88 	$4.25 	$3.13 
+A	18	Black Lotus	A	M	R1	$117.50 	$100.00 	$91.50 
+A	19	Black Vise	A	C	U1	$6.00 	$4.50 	$3.00 
+A	20	Black Ward	W	ECr	U1	$2.81 	$2.13 	$2.00 
+A	21	Blaze of Glory	W	Ins	R1	$43.25 	$35.50 	$30.75 
+A	22	Blessing	W	ECr	R1	$16.75 	$13.00 	$11.50 
+A	23	Blue Elemental Blast	U	Int	C1	$1.50 	$0.50 	$0.40 
+A	24	Blue Ward	W	ECr	U1	$2.75 	$2.00 	$2.00 
+A	25	Bog Wraith	B	Sum	U1	$4.69 	$3.38 	$3.00 
+A	26	Braingeyser	U	Sor	R1	$14.88 	$13.25 	$10.50 
+A	27	Burrowing	R	ECr	U1	$3.00 	$3.00 	$2.44 
+A	28	Camouflage	G	Ins	U1	$13.50 	$10.00 	$8.75 
+A	29	Castle	W	E	U1	$4.69 	$3.00 	$3.00 
+A	30	Celestial Prism	A	M	U1	$4.25 	$3.25 	$3.00 
+A	31	Channel	G	Sor	U1	$6.50 	$6.00 	$3.63 
+A	32	Chaos Orb	A	M	R1	$60.50 	$50.00 	$48.50 
+A	33	Chaoslace	R	Int	R1	$10.00 	$9.50 	$8.25 
+A	34	CoP:Blue	W	E	C1	$1.50 	$1.00 	$0.60 
+A	35	CoP:Green	W	E	C1	$1.50 	$1.00 	$0.60 
+A	36	CoP:Red	W	E	C1	$1.50 	$1.25 	$0.70 
+A	37	CoP:White	W	E	C1	$1.50 	$1.00 	$0.60 
+A	38	Clockwork Beast	A	Cr	R1	$16.50 	$11.50 	$10.25 
+A	39	Clone	U	Sum	U1	$5.56 	$3.63 	$3.00 
+A	40	Cockatrice	G	Sum	R1	$14.25 	$12.00 	$10.50 
+A	41	Consecrate Land	W	EL	U1	$14.25 	$11.00 	$10.00 
+A	42	Conservator	A	M	U1	$3.38 	$2.50 	$2.00 
+A	43	Contract from Below	B	Sor	R1	$10.00 	$10.00 	$8.50 
+A	44	Control Magic	U	ECr	U1	$5.25 	$3.00 	$3.00 
+A	45	Conversion	W	E	U1	$4.13 	$3.00 	$3.00 
+A	46	Copper Tablet	A	C	U1	$8.75 	$7.75 	$6.38 
+A	47	Copy Artifact	U	E	R1	$10.00 	$9.50 	$8.25 
+A	48	Counterspell	U	Int	U1	$5.50 	$3.75 	$3.13 
+A	49	Craw Wurm	G	Sum	C1	$1.50 	$1.00 	$0.80 
+A	50	Creature Bond	U	ECr	C1	$1.50 	$0.50 	$0.40 
+A	51	Crusade	W	E	R1	$16.75 	$12.50 	$11.25 
+A	52	Crystal Rod	A	P	U1	$5.38 	$3.25 	$2.25 
+A	53	Cursed Land	B	EL	U1	$3.00 	$3.00 	$1.88 
+A	54	Cyclopean Tomb	A	M	R1	$63.75 	$50.00 	$50.00 
+A	55	Dark Ritual	B	Int	C1	$1.50 	$0.50 	$0.50 
+A	56	Darkpact	B	Sor	R1	$10.75 	$10.00 	$7.75 
+A	57	Death Ward	W	Ins	C1	$1.50 	$1.00 	$0.50 
+A	58	Deathgrip	B	E	U1	$4.19 	$3.50 	$3.00 
+A	59	Deathlace	B	Int	R1	$9.75 	$8.00 	$6.25 
+A	60	Demonic Attorney	B	Sor	R1	$9.94 	$9.38 	$8.25 
+A	61	Demonic Hordes	B	Sum	R1	$24.50 	$22.00 	$17.00 
+A	62	Demonic Tutor	B	Sor	U1	$9.13 	$4.63 	$4.06 
+A	63	Dingus Egg	A	C	R1	$15.00 	$12.00 	$10.50 
+A	64	Disenchant	W	Ins	C1	$1.50 	$1.00 	$0.60 
+A	65	Disintegrate	R	Sor	C1	$1.50 	$1.00 	$0.60 
+A	66	Disrupting Scepter	A	M	R1	$11.50 	$10.00 	$8.50 
+A	67	Dragon Whelp	R	Sum	U1	$6.69 	$3.63 	$3.00 
+A	68	Drain Life	B	Sor	C1	$1.50 	$1.00 	$0.50 
+A	69	Drain Power	U	Sor	R1	$14.25 	$11.50 	$8.75 
+A	70	Drudge Skeletons	B	Sum	C1	$1.50 	$1.00 	$0.50 
+A	71	Dwarven Demolition Team	R	Sum	U1	$9.75 	$8.50 	$6.88 
+A	72	Dwarven Warriors	R	Sum	C1	$1.50 	$0.50 	$0.30 
+A	73	Earth Elemental	R	Sum	U1	$3.00 	$3.00 	$3.00 
+A	74	Earthbind	R	ECr	C1	$1.50 	$0.50 	$0.30 
+A	75	Earthquake	R	Sor	R1	$12.75 	$11.00 	$9.25 
+A	76	Elvish Archers	G	Sum	R1	$17.50 	$13.00 	$10.00 
+A	77	Evil Presence	B	EL	U1	$3.00 	$3.00 	$1.88 
+A	78	False Orders	R	Ins	C1	$5.00 	$4.50 	$3.50 
+A	79	Farmstead	W	E	R1	$13.75 	$10.00 	$8.50 
+A	80	Fastbond	G	E	R1	$11.50 	$9.50 	$8.25 
+A	81	Fear	B	ECr	C1	$1.50 	$0.50 	$0.30 
+A	82	Feedback	U	EE	U1	$5.38 	$3.25 	$3.00 
+A	83	Fire Elemental	R	Sum	U1	$6.00 	$3.00 	$3.00 
+A	84	Fireball	R	Sor	C1	$1.50 	$1.00 	$0.60 
+A	85	Firebreathing	R	ECr	C1	$1.50 	$0.50 	$0.40 
+A	86	Flashfires	R	Sor	U1	$3.00 	$3.00 	$2.44 
+A	87	Flight	U	ECr	C1	$1.50 	$0.50 	$0.40 
+A	88	Fog	G	Ins	C1	$1.50 	$0.60 	$0.50 
+A	89	Force of Nature	G	Sum	R1	$27.50 	$24.50 	$21.50 
+A	90	Forcefield	A	P	R1	$71.25 	$57.50 	$53.75 
+A	91	Forest Path	G	L	C1	$0.45 	$0.25 	$0.16 
+A	92	Forest Rocks	G	L	C1	$0.45 	$0.25 	$0.16 
+A	93	Fork	R	Int	R1	$18.63 	$13.75 	$10.75 
+A	94	Frozen Shade	B	Sum	C1	$1.50 	$0.50 	$0.40 
+A	95	Fungusaur	G	Sum	R1	$16.75 	$12.50 	$10.50 
+A	96	Gaea's Liege	G	Sum	R1	$24.50 	$22.00 	$16.50 
+A	97	Gauntlet of Might	A	C	R1	$73.75 	$70.00 	$70.00 
+A	98	Giant Growth	G	Ins	C1	$0.90 	$0.50 	$0.30 
+A	99	Giant Spider	G	Sum	C1	$1.50 	$0.50 	$0.40 
+A	100	Glasses of Urza	A	M	U1	$4.44 	$3.63 	$2.63 
+A	101	Gloom	B	E	U1	$5.38 	$3.25 	$3.00 
+A	102	Goblin Balloon Brigade	R	Sum	U1	$3.38 	$2.63 	$1.69 
+A	103	Goblin King	R	Sum	R1	$19.50 	$16.00 	$11.00 
+A	104	Granite Gargoyle	R	Sum	R1	$14.88 	$13.25 	$10.50 
+A	105	Gray Ogre	R	Sum	C1	$1.50 	$0.50 	$0.30 
+A	106	Green Ward	W	E	U1	$3.00 	$2.50 	$2.00 
+A	107	Grizzly Bears	G	Sum	C1	$1.50 	$0.50 	$0.40 
+A	108	Guardian Angel	W	Ins	C1	$1.50 	$0.50 	$0.40 
+A	109	Healing Salve	W	Ins	C1	$1.50 	$0.50 	$0.40 
+A	110	Helm of Chatzuk	A	M	R1	$14.50 	$12.50 	$10.50 
+A	111	Hill Giant	R	Sum	C1	$1.50 	$0.50 	$0.30 
+A	112	Holy Armor	W	ECr	C1	$1.50 	$0.50 	$0.40 
+A	113	Holy Strength	W	ECr	C1	$1.50 	$0.50 	$0.40 
+A	114	Howl from Beyond	B	Ins	C1	$1.50 	$0.50 	$0.25 
+A	115	Howling Mine	A	C	R1	$14.25 	$11.00 	$10.00 
+A	116	Hurloon Minotaur	R	Sum	C1	$1.50 	$0.50 	$0.30 
+A	117	Hurricane	G	Sor	U1	$3.69 	$3.25 	$3.00 
+A	118	Hypnotic Specter	B	Sum	U1	$6.88 	$4.50 	$3.63 
+A	119	Ice Storm	G	Sor	U1	$14.25 	$11.50 	$10.25 
+A	120	Icy Manipulator	A	M	U1	$50.00 	$40.50 	$32.50 
+A	121	Illusionary Mask	A	P	R1	$45.00 	$44.00 	$40.75 
+A	122	Instill Energy	G	ECr	U1	$4.63 	$3.25 	$2.25 
+A	123	Invisibility	U	ECr	C1	$7.38 	$6.50 	$5.25 
+A	124	Iron Star	A	P	U1	$4.25 	$3.25 	$2.25 
+A	125	Ironclaw Orcs	R	Sum	C1	$3.00 	$3.00 	$1.00 
+A	126	Ironroot Treefolk	G	Sum	C1	$1.50 	$1.00 	$0.50 
+A	127	Island Sanctuary	W	E	R1	$16.00 	$12.00 	$7.50 
+A	128	Island Blue	U	L	C1	$0.45 	$0.25 	$0.16 
+A	129	Island Golden	U	L	C1	$0.50 	$0.40 	$0.19 
+A	130	Ivory Cup	A	P	U1	$3.38 	$3.00 	$2.25 
+A	131	Jade Monolith	A	P	R1	$10.00 	$9.50 	$8.25 
+A	132	Jade Statue	A	M	U1	$14.50 	$10.00 	$9.25 
+A	133	Jayemdae Tome	A	M	R1	$11.88 	$11.00 	$10.13 
+A	134	Juggernaut	A	ACr	U1	$5.75 	$4.25 	$3.13 
+A	135	Jump	U	Ins	C1	$1.50 	$0.50 	$0.25 
+A	136	Karma	W	E	U1	$7.00 	$3.00 	$3.00 
+A	137	Keldon Warlord	R	Sum	U1	$8.19 	$3.25 	$3.00 
+A	138	Kormus Bell	A	C	R1	$13.75 	$10.00 	$8.50 
+A	139	Kudzu	G	EL	R1	$11.50 	$10.00 	$8.50 
+A	140	Lance	W	ECr	U1	$4.13 	$3.00 	$3.00 
+A	141	Ley Druid	G	Sum	U1	$3.00 	$3.00 	$2.25 
+A	142	Library of Leng	A	C	U1	$4.44 	$3.63 	$2.25 
+A	143	Lich	B	E	R1	$50.00 	$50.00 	$50.00 
+A	144	Lifeforce	G	E	U1	$3.38 	$3.00 	$3.00 
+A	145	Lifelace	G	Int	R1	$9.75 	$9.00 	$6.75 
+A	146	Lifetap	U	E	U1	$3.69 	$3.25 	$3.00 
+A	147	Lightning Bolt	R	Ins	C1	$1.50 	$1.00 	$0.60 
+A	148	Living Artifact	G	EArt	R1	$12.00 	$12.00 	$10.50 
+A	149	Living Lands	G	EL	R1	$14.25 	$12.00 	$10.50 
+A	150	Living Wall	A	ACr	U1	$4.44 	$3.63 	$2.25 
+A	151	Llanowar Elves	G	Sum	C1	$1.50 	$0.50 	$0.50 
+A	152	Lord of Atlantis	U	Sum	R1	$17.50 	$14.50 	$10.75 
+A	153	Lord of the Pit	B	Sum	R1	$26.38 	$22.25 	$16.25 
+A	154	Lure	G	ECr	U1	$5.38 	$3.50 	$3.13 
+A	155	Magical Hack	U	Int	R1	$16.75 	$12.50 	$10.50 
+A	156	Mahamoti Djinn	U	Sum	R1	$20.25 	$14.00 	$12.63 
+A	157	Mana Flare	R	E	R1	$14.25 	$12.00 	$10.50 
+A	158	Mana Short	U	Ins	R1	$16.25 	$12.00 	$11.00 
+A	159	Mana Vault	A	M	R1	$10.75 	$10.00 	$9.25 
+A	160	Manabarbs	R	E	R1	$11.50 	$10.00 	$8.50 
+A	161	Meekstone	A	C	R1	$14.25 	$12.00 	$10.50 
+A	162	Merfolk of the Pearl Tr	U	Sum	C1	$1.50 	$0.50 	$0.40 
+A	163	Mesa Pegasus	W	Sum	C1	$1.50 	$0.50 	$0.30 
+A	164	Mind Twist	B	Sor	R1	$16.75 	$12.50 	$10.50 
+A	165	Mons's Goblin Raiders	R	Sum	C1	$1.50 	$0.50 	$0.30 
+A	166	Mountain Blue	R	L	C1	$0.45 	$0.25 	$0.16 
+A	167	Mountain Brown	R	L	C1	$0.45 	$0.25 	$0.16 
+A	168	Mox Emerald	A	M	R1	$75.00 	$75.00 	$62.50 
+A	169	Mox Jet	A	M	R1	$75.00 	$75.00 	$62.50 
+A	170	Mox Pearl	A	M	R1	$75.00 	$75.00 	$62.50 
+A	171	Mox Ruby	A	M	R1	$75.00 	$75.00 	$62.50 
+A	172	Mox Sapphire	A	M	R1	$75.00 	$75.00 	$62.50 
+A	173	Natural Selection	G	Ins	R1	$42.50 	$40.00 	$34.00 
+A	174	Nether Shadow	B	Sum	R1	$12.50 	$10.50 	$9.25 
+A	175	Nettling Imp	B	Sum	U1	$6.13 	$3.50 	$3.13 
+A	176	Nevinyrral's Disk	A	M	R1	$16.50 	$11.00 	$10.00 
+A	177	Nightmare	B	Sum	R1	$29.00 	$23.00 	$16.25 
+A	178	Northern Paladin	W	Sum	R1	$24.75 	$18.00 	$15.75 
+A	179	Obsianus Golem	A	ACr	U1	$4.44 	$3.88 	$3.13 
+A	180	Orcish Artillery	R	Sum	U1	$8.50 	$3.00 	$3.00 
+A	181	Orcish Oriflamme	R	E	U1	$15.00 	$9.00 	$4.75 
+A	182	Paralyze	B	ECr	C1	$1.50 	$0.50 	$0.40 
+A	183	Pearled Unicorn	W	Sum	C1	$1.50 	$0.50 	$0.25 
+A	184	Personal Incarnation	W	Sum	R1	$21.00 	$17.00 	$13.38 
+A	185	Pestilence	B	E	C1	$1.50 	$0.50 	$0.35 
+A	186	Phantasmal Forces	U	Sum	U1	$4.50 	$3.00 	$3.00 
+A	187	Phantasmal Terrain	U	Sum	C1	$1.50 	$0.50 	$0.25 
+A	188	Phantom Monster	U	Sum	U1	$3.00 	$3.00 	$3.00 
+A	189	Pirate Ship	U	Sum	R1	$14.25 	$11.75 	$10.38 
+A	190	Plague Rats	B	Sum	C1	$1.50 	$1.00 	$1.00 
+A	191	Plains No Trees	W	L	C1	$0.45 	$0.25 	$0.16 
+A	192	Plains Trees	W	L	C1	$0.45 	$0.25 	$0.16 
+A	193	Plateau	R/W	DL	R1	$16.75 	$13.00 	$10.75 
+A	194	Power Leak	U	EE	C1	$1.50 	$0.50 	$0.40 
+A	195	Power Sink	U	Int	C1	$1.50 	$0.50 	$0.40 
+A	196	Power Surge	R	E	R1	$12.00 	$12.00 	$10.50 
+A	197	Prodigal Sorcerer	U	Sum	C1	$1.50 	$1.00 	$0.80 
+A	198	Psionic Blast	U	Ins	U1	$8.38 	$7.75 	$6.38 
+A	199	Psychic Venom	U	EL	C1	$1.50 	$1.00 	$0.30 
+A	200	Purelace	W	Int	R1	$9.75 	$9.00 	$8.25 
+A	201	Raging River	R	E	R1	$48.75 	$44.00 	$40.75 
+A	202	Raise Dead	B	Sor	C1	$1.50 	$0.50 	$0.30 
+A	203	Red Elemental Blast	R	Ins	C1	$1.50 	$0.50 	$0.40 
+A	204	Red Ward	W	ECr	U1	$3.00 	$3.00 	$2.25 
+A	205	Regeneration	G	ECr	C1	$1.50 	$0.50 	$0.40 
+A	206	Regrowth	G	Sor	U1	$3.50 	$3.00 	$3.00 
+A	207	Resurrection	W	Sor	U1	$3.00 	$3.00 	$3.00 
+A	208	Reverse Damage	W	Ins	R1	$18.63 	$13.75 	$10.75 
+A	209	Righteousness	W	Ins	R1	$16.50 	$12.00 	$10.50 
+A	210	Roc of Kher Ridges	R	Sum	R1	$11.50 	$10.00 	$8.50 
+A	211	Rock Hydra	R	Sum	R1	$23.00 	$18.00 	$16.00 
+A	212	Rod of Ruin	A	M	U1	$5.00 	$3.63 	$3.00 
+A	213	Royal Assassin	B	Sum	R1	$27.25 	$24.00 	$20.00 
+A	214	Sacrifice	B	Int	U1	$3.38 	$2.63 	$2.06 
+A	215	Samite Healer	W	Sum	C1	$1.50 	$0.50 	$0.30 
+A	216	Savannah	G/W	DL	R1	$16.75 	$13.00 	$10.75 
+A	217	Savannah Lions	W	Sum	R1	$11.50 	$10.00 	$8.50 
+A	218	Scathe Zombies	B	Sum	C1	$1.50 	$0.50 	$0.40 
+A	219	Scavenging Ghoul	B	Sum	U1	$4.25 	$3.50 	$3.13 
+A	220	Scrubland	B/W	DL	R1	$16.75 	$12.50 	$10.50 
+A	221	Scryb Sprites	G	Sum	C1	$1.50 	$0.50 	$0.30 
+A	222	Sea Serpent	U	Sum	C1	$1.50 	$0.50 	$0.35 
+A	223	Sedge Troll	R	Sum	R1	$17.00 	$13.00 	$10.00 
+A	224	Sengir Vampire	B	Sum	U1	$9.50 	$7.00 	$5.25 
+A	225	Serra Angel	W	Sum	U1	$12.00 	$11.00 	$10.00 
+A	226	Shanodin Dryads	G	Sum	C1	$1.50 	$0.50 	$0.30 
+A	227	Shatter	R	Ins	C1	$1.50 	$0.50 	$0.50 
+A	228	Shivan Dragon	R	Sum	R1	$41.25 	$29.50 	$26.00 
+A	229	Simulacrum	B	Ins	U1	$3.38 	$3.00 	$1.88 
+A	230	Sinkhole	B	Sor	C1	$6.00 	$6.00 	$5.00 
+A	231	Siren's Call	U	Ins	U1	$3.38 	$3.00 	$3.00 
+A	232	Sleight of Mind	U	Int	R1	$16.75 	$12.00 	$10.25 
+A	233	Smoke	R	E	R1	$12.75 	$11.50 	$10.25 
+A	234	Sol Ring	A	M	U1	$6.00 	$5.00 	$4.00 
+A	235	Soul Net	A	P	U1	$3.94 	$3.00 	$3.00 
+A	236	Spell Blast	U	Int	C1	$1.50 	$0.50 	$0.40 
+A	237	Stasis	U	E	R1	$10.00 	$9.50 	$8.25 
+A	238	Steal Artifact	U	EArt	U1	$4.44 	$3.63 	$3.00 
+A	239	Stone Giant	R	Sum	U1	$3.00 	$3.00 	$3.00 
+A	240	Stone Rain	R	Sor	C1	$1.50 	$1.00 	$0.40 
+A	241	Stream of Life	G	Sor	C1	$1.50 	$0.50 	$0.40 
+A	242	Sunglasses of Urza	A	C	R1	$12.38 	$11.00 	$7.19 
+A	243	Swamp High Branch	B	L	C1	$0.45 	$0.25 	$0.16 
+A	244	Swamp Low Branch	B	L	C1	$0.45 	$0.25 	$0.16 
+A	245	Swords to Plowshares	W	Ins	U1	$4.25 	$3.25 	$3.00 
+A	246	Taiga	G/R	DL	R1	$16.75 	$12.50 	$10.50 
+A	247	Terror	B	Ins	C1	$1.50 	$0.50 	$0.50 
+A	248	The Hive	A	M	R1	$15.06 	$13.00 	$10.75 
+A	249	Thicket Basilisk	G	Sum	U1	$8.56 	$4.13 	$4.00 
+A	250	Thoughtlace	U	Int	R1	$9.75 	$9.00 	$6.75 
+A	251	Throne of Bone	A	P	U1	$3.38 	$3.00 	$2.25 
+A	252	Timber Wolves	G	Sum	R1	$12.75 	$11.50 	$10.25 
+A	253	Time Vault	A	M	R1	$53.50 	$51.00 	$50.00 
+A	254	Time Walk	U	Sor	R1	$70.00 	$55.00 	$55.00 
+A	255	Timetwister	U	Sor	R1	$58.75 	$55.00 	$51.25 
+A	256	Tranquility	G	Sor	C1	$1.50 	$0.50 	$0.50 
+A	257	Tropical Island	B/G	DL	R1	$19.00 	$13.00 	$11.00 
+A	258	Tsunami	G	Sor	U1	$4.25 	$3.25 	$3.00 
+A	259	Tundra	B/W	DL	R1	$16.75 	$12.50 	$10.50 
+A	260	Tunnel	R	Ins	U1	$3.00 	$3.00 	$3.00 
+A	261	Twiddle	U	Ins	C1	$9.50 	$6.00 	$5.50 
+A	262	Two-Headed Giant 	R	Sum	R1	$50.00 	$47.50 	$45.00 
+A	263	Underground Sea	B/U	DL	R1	$17.88 	$12.50 	$10.50 
+A	264	Unholy Strength	B	ECr	C1	$1.50 	$0.50 	$0.40 
+A	265	Unsummon	U	Ins	C1	$1.50 	$1.00 	$0.43 
+A	266	Uthden Troll	R	Sum	U1	$5.50 	$3.75 	$3.13 
+A	267	Verduran Enchantress	G	Sum	R1	$16.75 	$12.25 	$10.38 
+A	268	Vesuvan Doppelganger	U	Sum	R1	$21.75 	$18.00 	$15.75 
+A	269	Veteran Bodyguard	W	Sum	R1	$20.00 	$13.00 	$10.00 
+A	270	Volcanic Eruption	U	Sor	R1	$16.38 	$12.75 	$10.25 
+A	271	Wall of Air	U	Sum	U1	$6.13 	$3.25 	$3.00 
+A	272	Wall of Bone	B	Sum	U1	$4.13 	$3.38 	$3.00 
+A	273	Wall of Brambles	G	Sum	U1	$3.56 	$3.00 	$3.00 
+A	274	Wall of Fire	R	Sum	U1	$3.00 	$3.00 	$3.00 
+A	275	Wall of Ice	G	Sum	U1	$3.00 	$3.00 	$3.00 
+A	276	Wall of Stone	R	Sum	U1	$3.00 	$3.00 	$3.00 
+A	277	Wall of Swords	W	Sum	U1	$5.56 	$4.13 	$4.00 
+A	278	Wall of Water	U	Sum	U1	$3.41 	$3.00 	$3.00 
+A	279	Wall of Wood	G	Sum	C1	$1.50 	$0.50 	$0.30 
+A	280	Wanderlust	G	ECr	U1	$3.00 	$3.00 	$3.00 
+A	281	War Mammoth	G	Sum	C1	$1.50 	$0.50 	$0.40 
+A	282	Warp Artifact	B	EArt	R1	$10.00 	$9.50 	$8.25 
+A	283	Water Elemental	U	Sum	U1	$4.82 	$3.27 	$3.00 
+A	284	Weakness	B	ECr	C1	$1.50 	$0.50 	$0.40 
+A	285	Web	G	ECr	R1	$13.88 	$11.00 	$9.25 
+A	286	Wheel of Fortune	R	Sor	R1	$16.50 	$11.50 	$10.25 
+A	287	White Knight	W	Sum	U1	$5.75 	$4.50 	$3.63 
+A	288	White Ward	W	ECr	U1	$3.00 	$3.00 	$2.25 
+A	289	Wild Growth	G	EL	C1	$1.50 	$0.50 	$0.30 
+A	290	Will-O-The-Wisp	B	Sum	R1	$18.63 	$13.25 	$10.50 
+A	291	Winter Orb	A	C	R1	$12.00 	$11.00 	$8.69 
+A	292	Wooden Sphere	A	P	U1	$3.38 	$3.00 	$2.25 
+A	293	Word of Command	B	Ins	R1	$50.00 	$50.00 	$44.00 
+A	294	Wrath of God	W	Sor	R1	$19.38 	$13.75 	$10.75 
+A	295	Zombie Master	B	Sum	R1	$20.25 	$15.00 	$10.50 
+		TOTAL				"$3,532.30 "	"$2,935.65 "	"$2,533.24 "

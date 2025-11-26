@@ -1,0 +1,197 @@
+BEGIN TEMPLATE
+MTG: Fallen Empires  Scrye on Disk #4
+Series=MTG: Fallen Empires
+Date=120194
+Fields=5
+3=1
+4=2,Color
+5=3,Rarity
+END TEMPLATE
+
+FE	1346	Aeolipile	Be	U1
+FE	1347A	Armor Thrull (a)	B	C1
+FE	1347B	Armor Thrull (b)	B	C1
+FE	1347C	Armor Thrull (c)	B	C1
+FE	1347D	Armor Thrull (d)	B	C1
+FE	1348	Balm of Restoration	Be	U1
+FE	1349A	Basal Thrull (a)	B	C1
+FE	1349B	Basal Thrull (b)	B	C1
+FE	1349C	Basal Thrull (c)	B	C1
+FE	1349D	Basal Thrull (d)	B	C1
+FE	1350	Bottomless Vault	L	U1
+FE	1351A	Brassclaw Orcs (a)	R	C1
+FE	1351B	Brassclaw Orcs (b)	R	C1
+FE	1351C	Brassclaw Orcs (c)	R	C1
+FE	1351D	Brassclaw Orcs (d)	R	C1
+FE	1352	Breeding Pit	B	U3
+FE	1353A	Combat Medic (a)	W	C1
+FE	1353B	Combat Medic (b)	W	C1
+FE	1353C	Combat Medic (c)	W	C1
+FE	1353D	Combat Medic (d)	W	C1
+FE	1354	Conch Horn	Be	U1
+FE	1355	Deep Spawn	U	U3
+FE	1356	Delil's Cone	C1	U1
+FE	1357	Delil's Cube	Be	U1
+FE	1358	Derelor	B	U1
+FE	1359	Draconian Cylix	Be	U1
+FE	1360	Dwarven Armorer	R	U1
+FE	1361	Dwarven Catapult	R	U3
+FE	1362	Dwarven Hold	L	U1
+FE	1363	Dwarven Lieutenant	R	U3
+FE	1364	Dwarven Ruins	L	U2
+FE	1365A	Dwarven Soldier (a)	R	C1
+FE	1365B	Dwarven Soldier (b)	R	C1
+FE	1365C	Dwarven Soldier (c)	R	C1
+FE	1366	Ebon Praetor	B	U1
+FE	1367	Ebon Stronghold	L	U2
+FE	1368A	Elven Fortress (a)	G	C1
+FE	1368B	Elven Fortress (b)	G	C1
+FE	1368C	Elven Fortress (c)	G	C1
+FE	1368D	Elven Fortress (d)	G	C1
+FE	1369	Elven Lyre	A	U1
+FE	1370	Elvish Farmer	G	U1
+FE	1371A	Elvish Hunter (a)	G	C1
+FE	1371B	Elvish Hunter (b)	G	C1
+FE	1371C	Elvish Hunter (c)	G	C1
+FE	1372A	Elvish Scout (a)	G	C1
+FE	1372B	Elvish Scout (b)	G	C1
+FE	1372C	Elvish Scout (c)	G	C1
+FE	1373	Farrel's Mantle	W	U3
+FE	1374A	Farrel's Zealot (a)	W	C1
+FE	1374B	Farrel's Zealot (b)	W	C1
+FE	1374C	Farrel's Zealot (c)	W	C1
+FE	1375	Farrelite Priest	W	U3
+FE	1376	Feral Thallid	G	U3
+FE	1377	Fungal Bloom	G	U1
+FE	1378A	Goblin Chirurgeon (a)	R	C1
+FE	1378B	Goblin Chirurgeon (b)	R	C1
+FE	1378C	Goblin Chirurgeon (c)	R	C1
+FE	1379	Goblin Flotilla	R	U1
+FE	1380A	Goblin Grenade (a)	R	C1
+FE	1380B	Goblin Grenade (b)	R	C1
+FE	1380C	Goblin Grenade (c)	R	C1
+FE	1381	Goblin Kites	R	U3
+FE	1382A	Goblin War Drums (a)	R	C1
+FE	1382B	Goblin War Drums (b)	R	C1
+FE	1382C	Goblin War Drums (c)	R	C1
+FE	1382D	Goblin War Drums (d)	R	C1
+FE	1383	Goblin Warrens	R	U1
+FE	1384	Hand of Justice	W	U1
+FE	1385	Havenwood Battleground	L	U2
+FE	1386	Heroism	W	U3
+FE	1387A	High Tide (a)	U	C1
+FE	1387B	High Tide (b)	U	C1
+FE	1387C	High Tide (c)	U	C1
+FE	1388	Hollow Trees	L	U1
+FE	1389A	Homarid (a)	U	C1
+FE	1389B	Homarid (b)	U	C1
+FE	1389C	Homarid (c)	U	C1
+FE	1389D	Homarid (d)	U	C1
+FE	1390	Homarid Shaman	U	C1
+FE	1391	Homarid Spawning Bed	U	U3
+FE	1392A	Homarid Warrior (a)	U	C1
+FE	1392B	Homarid Warrior (b)	U	C1
+FE	1392C	Homarid Warrior (c)	U	C1
+FE	1393A	Hymn to Tourach (a)	B	C1
+FE	1393B	Hymn to Tourach (b)	B	C1
+FE	1393C	Hymn to Tourach (c)	B	C1
+FE	1393D	Hymn to Tourach (d)	B	C1
+FE	1394A	Icatian Infantry (a)	W	C1
+FE	1394B	Icatian Infantry (b)	W	C1
+FE	1394C	Icatian Infantry (c)	W	C1
+FE	1394D	Icatian Infantry (d)	W	C1
+FE	1395A	Icatian Javelineers (a)	W	C1
+FE	1395B	Icatian Javelineers (b)	W	C1
+FE	1395C	Icatian Javelineers(c)	W	C1
+FE	1396	Icatian Lieutenant	R	U1
+FE	1397A	Icatian Moneychanger (a)	W	C1
+FE	1397B	Icatian Moneychanger (b)	W	C1
+FE	1397C	Icatian Moneychanger (c)	W	C1
+FE	1398	Icatina Phalanx	W	U3
+FE	1399	Icatian Priest	W	U3
+FE	1400A	Icatian Scout (a)	W	C1
+FE	1400B	Icatian Scout (b)	W	C1
+FE	1400C	Icatian Scout (c)	W	C1
+FE	1400D	Icatian Scout (d)	W	C1
+FE	1401	Icatian Skirmishes	W	U1
+FE	1402	Icatian Store	W	C1
+FE	1403	Icatian Town	W	U1
+FE	1404	Implements of Sacrifice	Be	U1
+FE	1405A	Initiates of the Ebon Hand (a)	B	C1
+FE	1405B	Initiates of the Ebon Hand (b)	B	C1
+FE	1405C	Initiates of the Ebon Hand (c)	B	C1
+FE	1406A	Merseine (a)	U	C1
+FE	1406B	Merseine (b)	U	C1
+FE	1406C	Merseine (c)	U	C1
+FE	1406D	Merseine (d)	U	C1
+FE	1407A	Mindstab Thrull (a)	B	C1
+FE	1407B	Mindstab Thrull (b)	B	C1
+FE	1407C	Mindstab Thrull (c)	B	C1
+FE	1408A	Necrite (a)	B	C1
+FE	1408B	Necrite (b)	B	C1
+FE	1408C	Necrite (c)	B	C1
+FE	1409A	Night Soil (a)	G	C1
+FE	1409B	Night Soil (b)	G	C1
+FE	1409C	Night Soil (c)	G	C1
+FE	1410	Orcish Captain	R	U3
+FE	1411A	Orcish Spy (a)	R	C1
+FE	1411B	Orcish Spy (b)	R	C1
+FE	1411C	Orcish Spy (c)	R	C1
+FE	1412A	Orcish Veteran (a)	R	C1
+FE	1412B	Orcish Veteran (b)	R	C1
+FE	1412C	Orcish Veteran (c)	R	C1
+FE	1412D	Orcish Veteran (d)	R	C1
+FE	1413A	Order of Leitbur (a)	W	C1
+FE	1413B	Order of Leitbur (b)	W	C1
+FE	1413C	Order of Leitbur (c)	W	C1
+FE	1414A	Order of the Ebon Hand (a)	B	C1
+FE	1414B	Order of the Ebon Hand (b)	B	C1
+FE	1414C	Order of the Ebon Hand (c)	B	C1
+FE	1415	Orgg	R	U1
+FE	1416	Raiding Party	R	U3
+FE	1417	Rainbow Vale	L	U1
+FE	1418	Ring of Renewal	Be	U1
+FE	1419	River Merfolk	U	U1
+FE	1420	Ruins of Trokair	L	U2
+FE	1421	Sand Silos	L	U1
+FE	1422	Seasinger	U	U3
+FE	1423	Soul Exchange	B	U3
+FE	1424	Spirit Shield	Be	U1
+FE	1425A	Spore Cloud (a)	G	C1
+FE	1425B	Spore Cloud (b)	G	C1
+FE	1425C	Spore Cloud (c)	G	C1
+FE	1426	Spore Flower	G	U3
+FE	1427	Svyelunite Priest	U	U3
+FE	1428	Svyelunite Temple	L	U2
+FE	1429A	Thallid (a)	G	C1
+FE	1429B	Thallid (b)	G	C1
+FE	1429C	Thallid (c)	G	C1
+FE	1429D	Thallid (d)	G	C1
+FE	1430	Thallid Devourer	G	U3
+FE	1431	Thelon's Chant	G	U3
+FE	1432	Thelon's Curse	G	U1
+FE	1433	Thelonite Druid	G	U3
+FE	1434	Thelonite Monk	G	U1
+FE	1435A	Thorn Thallid (a)	G	C1
+FE	1435B	Thorn Thallid (b)	G	C1
+FE	1435C	Thorn Thallid (c)	G	C1
+FE	1435D	Thorn Thallid (d)	G	C1
+FE	1436	Thrull Champion	B	U1
+FE	1437	Thrull Retainer	B	U3
+FE	1438	Thrull Wizards	B	U3
+FE	1439A	Tidal Flats (a)	U	C1
+FE	1439B	Tidal Flats (b)	U	C1
+FE	1439C	Tidal Flats (c)	U	C1
+FE	1440	Tidal Influence	U	U3
+FE	1441	Tourach's Chant	B	U3
+FE	1442	Tourach's Gate	B	U1
+FE	1443	Vodalian Knights	U	U1
+FE	1444A	Vodalian Mage (a)	U	C1
+FE	1444B	Vodalian Mage (b)	U	C1
+FE	1444C	Vodalian Mage (c)	U	C1
+FE	1445A	Vodalian Soldiers (a)	U	C1
+FE	1445B	Vodalian Soldiers (b)	U	C1
+FE	1445C	Vodalian Soldiers (c)	U	C1
+FE	1445D	Vodalian Soldiers (d)	U	C1
+FE	1446	Vodalian War Machine	U	U1
+FE	1447	Zelyon Sword	Be	U1

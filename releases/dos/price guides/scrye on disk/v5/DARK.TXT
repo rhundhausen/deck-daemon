@@ -1,0 +1,122 @@
+ 	 	 THE DARK - SCRYE #5
+ 	 	 Name 	 COLOR 	 TYPE 	 RARITY 	HIGH	MEDIAN	 	LOW
+D	480	 Amnesia 	 U 	 Sor 	 U 	4.00	4.00	é	3.40
+D	481	 Angry Mob 	 W 	 Sum 	 U 	6.50	4.30	é	3.00
+D	482	 Apprentice Wizard 	 U 	 Sum 	 R 	5.30	5.00	 	4.80
+D	483	 Ashes to Ashes 	 B 	 Sor 	 C 	1.00	0.50	 	0.30
+D	484	 Ball Lightning 	 R 	 Sum 	 R 	10.00	8.00	 	8.00
+D	485	 Banshee 	 B 	 Sum 	 U 	4.00	3.00	 	3.00
+D	486	 Barl's Cage 	 A 	 Art 	 R 	6.00	6.00	 	4.80
+D	487	 Blood Moon 	 R 	 E 	 R 	8.00	8.00	é	7.00
+D	488	 Blood of the Martyr 	 W 	 Ins 	 U 	4.00	3.00	 	2.00
+D	489	 Bog Imp 	 B 	 Sum 	 C 	1.00	0.50	 	0.30
+D	490	 Bog Rats 	 B 	 Sum 	 C 	1.00	0.60	é	0.30
+D	491	 Bone Flute 	 A 	 Art 	 U 	3.60	2.50	é	2.00
+D	492	 Book of Rass 	 A 	 Art 	 U 	3.60	2.50	é	2.00
+D	493	 BrainWash 	 W 	 E 	 C 	1.00	0.50	é	0.30
+D	494	 Brothers of Fire 	 R 	 Sum 	 U 	4.00	3.00	é	2.00
+D	495	 Carnivorous Plant 	 G 	 Sum 	 C 	1.00	0.50	 	0.30
+D	496	 Cave People 	 R 	 Sum 	 U 	3.60	3.00	 	2.00
+D	497	 City of Shadows 	 L 	 L 	 R 	7.00	5.00	 	4.50
+D	498	 Cleansing 	 W 	 Sor 	 R 	6.30	6.00	 	6.00
+D	499	 Coal Golem 	 A 	 Art 	 U 	4.00	3.30	é	2.00
+D	500	 Curse Artifact 	 B 	 E 	 U 	3.00	2.00	 	1.30
+D	501	 Dance of Many 	 U 	 E 	 R 	6.80	6.00	 	5.00
+D	502	 Dark Heart of the Wood 	 Gld 	 Sum 	 C 	1.00	0.50	 	0.30
+D	503	 Dark Sphere 	 A 	 Art 	 U 	4.00	4.00	 	2.80
+D	504	 Deep Water 	 U 	 E 	 C 	1.00	0.50	é	0.30
+D	505	 Diabolic Machine 	 A 	 Art 	 U 	4.00	3.00	 	3.00
+D	506	 Drowned 	 U 	 Sum 	 C 	1.00	0.50	é	0.30
+D	507	 Dust to Dust 	 W 	 Sor 	 C 	1.00	0.50	é	0.30
+D	508	 Eater of the Dead 	 B 	 Sum 	 U 	4.30	4.00	 	3.80
+D	509	 Electric Eel 	 U 	 Sum 	 U 	3.00	2.00	ê	2.00
+D	510	 Elves of Deep Shadows 	 G 	 Sum 	 U 	3.00	2.50	ê	1.90
+D	511	 Erosion 	 U 	 E 	 C 	1.10	0.50	é	0.30
+D	512	 Eternal Flame 	 R 	 Sor 	 R 	7.00	5.00	 	5.00
+D	513	 Exorcist 	 W 	 Sum 	 R 	9.00	8.00	 	6.00
+D	514	 Fasting 	 W 	 E 	 U 	4.00	2.30	ê	2.00
+D	515	 Fellwar Stone 	 A 	 Art 	 U 	4.30	4.00	 	3.80
+D	516	 Festival 	 W 	 Ins 	 C 	1.00	0.50	 	0.30
+D	517	 Fire and Brimstone 	 W 	 Ins 	 U 	3.00	2.00	ê	2.00
+D	518	 Fire Drake 	 R 	 Sum 	 U 	3.60	3.00	 	2.00
+D	519	 Fissure 	 R 	 Ins 	 C 	1.00	0.50	é	0.30
+D	520	 Flood 	 U 	 E 	 U 	3.00	3.00	é	2.00
+D	521	 Fountain of Youth 	 A 	 Art 	 U 	5.00	4.00	é	2.80
+D	522	 Frankenstein's Monster 	 B 	 Sum 	 R 	10.00	8.00	 	8.00
+D	523	 Gaea's Touch 	 G 	 E 	 C 	1.00	0.50	é	0.30
+D	524	 Ghost Ship 	 U 	 Sum 	 C 	1.00	0.50	 	0.40
+D	525	 Giant Shark 	 U 	 Sum 	 C 	1.00	0.50	 	0.30
+D	526	 Goblin Caves 	 R 	 E 	 C 	1.00	0.50	 	0.30
+D	527	 Goblin Digging Team 	 R 	 Sum 	 C 	1.00	0.60	é	0.40
+D	528	 Goblin Hero 	 R 	 Sum 	 C 	1.00	0.50	é	0.30
+D	529	 Goblin Rock Sled 	 R 	 Sum 	 C 	1.00	0.50	é	0.40
+D	530	 Goblin Shrine 	 R 	 E 	 C 	1.00	0.50	 	0.30
+D	531	 Goblin Wizard 	 R 	 Sum 	 R 	7.00	6.00	ê	5.80
+D	532	 Goblins of the Flarg 	 R 	 Sum 	 C 	1.00	0.50	é	0.30
+D	533	 Grave Robbers 	 B 	 Sum 	 R 	7.00	6.00	 	4.80
+D	534	 Hidden Path 	 G 	 E 	 R 	6.90	5.00	 	4.30
+D	535	 Holy Light 	 W 	 Ins 	 C 	1.00	0.50	é	0.30
+D	536	 Inferno 	 R 	 Ins 	 R 	6.50	6.00	é	5.30
+D	537	 Inquisition 	 B 	 Sor 	 C 	1.00	0.50	é	0.30
+D	538	 Knights of Thorn 	 W 	 Sum 	 R 	6.30	6.00	 	6.00
+D	539	 Land Leeches 	 G 	 Sum 	 C 	1.00	0.50	é	0.30
+D	540	 Leviathan 	 U 	 Sum 	 R 	10.25	9.50	é	8.00
+D	541	 Living Armor 	 A 	 Art 	 U 	4.00	4.00	é	2.80
+D	542	 Lurker 	 G 	 Sum 	 R 	5.60	5.00	 	4.00
+D	543	 Mana Clash 	 R 	 Sor 	 R 	5.50	5.00	 	4.30
+D	544	 Mana Vortex 	 U 	 E 	 R 	6.00	6.00	 	4.80
+D	545	 Marsh Gas 	 B 	 Ins 	 C 	1.00	0.50	é	0.30
+D	546	 Marsh Goblins 	 Gld 	 Sum 	 C 	1.00	0.50	 	0.30
+D	547	 Marsh Viper 	 G 	 Sum 	 C 	1.00	0.60	é	0.40
+D	548	 Martyr's Cry 	 W 	 Sor 	 R 	6.00	5.00	 	4.00
+D	549	 Maze of Ith 	 L 	 L 	 U 	5.00	5.00	é	4.50
+D	550	 Merfolk Assassin 	 U 	 Sum 	 U 	4.50	4.00	 	4.00
+D	551	 Mind Bomb 	 U 	 Sor 	 R 	5.00	5.00	 	5.00
+D	552	 Miracle Worker 	 W 	 Sum 	 C 	1.00	0.50	é	0.30
+D	553	 Morale 	 W 	 Ins 	 C 	1.00	0.50	é	0.30
+D	554	 Murk Dwellers 	 B 	 Sum 	 C 	1.00	0.50	é	0.30
+D	555	 Nameless Race 	 B 	 Sum 	 R 	7.30	6.00	 	5.80
+D	556	 Necropolis 	 A 	 Art 	 U 	4.00	3.00	é	2.00
+D	557	 Niall Silvain 	 G 	 Sum 	 R 	6.00	5.50	 	5.00
+D	558	 Orc General 	 R 	 Sum 	 U 	4.50	3.50	 	2.50
+D	559	 People of the Woods 	 G 	 Sum 	 U 	4.50	4.00	 	2.00
+D	560	 Pikemen 	 W 	 Sum 	 C 	1.00	0.70	é	0.40
+D	561	 Preacher 	 W 	 Sum 	 R 	10.00	8.00	 	8.00
+D	562	 Psychic Allergy 	 U 	 E 	 R 	6.30	5.50	 	5.00
+D	563	 Rag Man 	 B 	 Sum 	 R 	8.00	6.80	é	5.00
+D	564	 Reflecting Mirror 	 A 	 Art 	 U 	5.00	4.50	é	3.40
+D	565	 Riptide 	 U 	 Ins 	 C 	1.00	0.50	é	0.30
+D	566	 Runesword 	 A 	 Art 	 U 	5.00	3.80	é	2.80
+D	567	 SafeHaven 	 L 	 L 	 R 	7.50	7.00	 	6.30
+D	568	 Savaen Elves 	 G 	 Sum 	 C 	1.00	0.50	é	0.30
+D	569	 Scarecrow 	 A 	 Art 	 U 	5.00	5.00	é	3.40
+D	570	 Scarwood Bandits 	 G 	 Sum 	 R 	7.00	6.00	ê	5.00
+D	571	 Scarwood Goblins 	 Gld 	 Sum 	 C 	1.00	0.50	 	0.30
+D	572	 Scarwood Hag 	 G 	 Sum 	 U 	3.60	2.50	 	2.00
+D	573	 Scavenger Folk 	 G 	 Sum 	 C 	1.00	0.50	é	0.30
+D	574	 Season of the Witch 	 B 	 E 	 R 	7.00	6.00	ê	5.00
+D	575	 Sisters of the Flame 	 R 	 Sum 	 U 	3.60	3.00	 	2.30
+D	576	 Skull of Orm 	 A 	 Art 	 U 	4.00	3.30	é	2.50
+D	577	 Sorrow's Path 	 L 	 L 	 R 	5.00	5.00	 	3.80
+D	578	 Splitting Slug 	 G 	 Sum 	 U 	4.00	2.00	 	1.00
+D	579	 Squire 	 W 	 Sum 	 C 	1.00	0.50	é	0.30
+D	580	 Standing Stones 	 A 	 Art 	 U 	4.60	3.00	 	2.30
+D	581	 Stone Calendar 	 A 	 Art 	 R 	6.00	5.50	ê	5.00
+D	582	 Sunken City 	 U 	 E 	 C 	1.00	0.80	é	0.40
+D	583	 Tangle Kelp 	 U 	 E 	 U 	3.30	2.30	é	1.00
+D	584	 The Fallen 	 B 	 Sum 	 U 	4.50	3.00	 	3.00
+D	585	 Tivadar's Crusade 	 W 	 Sor 	 U 	4.00	3.00	é	2.40
+D	586	 Tormod's Crypt 	 A 	 Art 	 U 	4.00	3.00	é	2.30
+D	587	 Tower of Coirall 	 A 	 Art 	 U 	4.00	2.50	é	2.00
+D	588	 Tracker 	 G 	 Sum 	 R 	7.30	6.80	é	5.80
+D	589	 Uncle Istvan 	 B 	 Sum 	 U 	5.00	4.50	é	4.00
+D	590	 Venom 	 G 	 E 	 C 	1.00	0.50	 	0.40
+D	591	 Wand of Ith 	 A 	 Art 	 U 	4.50	3.00	é	2.50
+D	592	 War Barge 	 A 	 Art 	 U 	4.00	4.00	 	3.00
+D	593	 Water Wurm 	 U 	 Sum 	 C 	1.00	0.50	é	0.30
+D	594	 Whippoorwill 	 G 	 Sum 	 U 	4.00	3.00	 	2.30
+D	595	 Witch Hunter 	 W 	 Sum 	 R 	7.00	7.00	 	7.00
+D	596	 Word of Binding 	 B 	 Sor 	 C 	1.00	0.50	 	0.40
+D	597	 Worms of the Earth 	 B 	 E 	 R 	7.00	6.00	 	5.00
+D	598	 Wormwood Treefolk 	 G 	 Sum 	 R 	6.10	5.00	 	4.30
+ 	 	TOTAL	 	 	 	465.15	379.70	 	315.00

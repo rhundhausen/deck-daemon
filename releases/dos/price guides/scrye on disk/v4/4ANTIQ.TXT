@@ -1,0 +1,105 @@
+		ANTIQUITIES						
+
+		CARD NAME	COLOR	TYPE	RARITY	 HIGH 	 MEDIAN 	 LOW 
+
+Q	380	Amulet of Kroog 	A	M	C4	 $    1.00 	 $    1.00 	 $    0.45 
+Q	381	Argivian Archaeologist 	W	S	U1	 $  19.50 	 $  13.00 	 $    8.50 
+Q	382	Argivian Blacksmith 	W	S	C4	 $    1.00 	 $    1.00 	 $    0.50 
+Q	383	Argothian Pixies 	G	S	C4	 $    1.13 	 $    1.00 	 $    0.50 
+Q	384	Argothian Treefolk 	G	S	C4	 $    1.63 	 $    1.00 	 $    0.50 
+Q	385	Armageddon Clock 	A	C	U2	 $    6.00 	 $    5.00 	 $    4.75 
+Q	386	Artifact Blast 	R	Int	C4	 $    1.50 	 $    1.00 	 $    0.45 
+Q	387	Artifact Possession  	B	EArt	C4	 $    1.00 	 $    1.00 	 $    0.50 
+Q	388	Artifact Ward 	W	ECr	C4	 $    2.00 	 $    1.00 	 $    0.50 
+Q	389	Ashnod's Altar 	A	P	U2	 $    4.00 	 $    4.00 	 $    2.25 
+Q	390	Ashnod's Battle Gear   	A	M	U2	 $    4.00 	 $    3.75 	 $    2.75 
+Q	391	Ashnod's Transmogrant   	A	M	U3	 $    4.00 	 $    3.00 	 $    1.75 
+Q	392	Atog 	R	S	C4	 $    1.00 	 $    1.00 	 $    0.40 
+Q	393	Battering Ram  	A	ACr	C4	 $    1.75 	 $    1.00 	 $    0.40 
+Q	394	Bronze Tablet 	A	M	U1	 $    9.00 	 $    7.25 	 $    4.25 
+Q	395	Candelabra of Tawnos 	A	M	U1	 $  11.25 	 $  10.00 	 $    9.00 
+Q	396	Circle of Protection: Artifacts 	W	E	U3	 $    6.63 	 $    5.00 	 $    4.75 
+Q	397	Citanul Druid 	G	S	U3	 $    3.63 	 $    3.00 	 $    2.00 
+Q	398	Clay Statue  	A	ACr	C4	 $    2.00 	 $    1.00 	 $    0.50 
+Q	399	Clockwork Avian 	A	ACr	U1	 $  11.00 	 $    8.00 	 $    5.50 
+Q	400	Colossus of Sardia 	A	ACr	U1	 $  16.50 	 $  11.00 	 $    9.50 
+Q	401	Coral Helm 	A	P	U1	 $    8.00 	 $    6.50 	 $    5.00 
+Q	402	Crumble  	G	Ins	C4	 $    1.00 	 $    1.00 	 $    0.45 
+Q	403	Cursed Rack  	A	C	C1	 $    4.00 	 $    3.00 	 $    2.00 
+Q	404	Damping Field  	W	E	U3	 $    3.75 	 $    3.00 	 $    1.63 
+Q	405	Detonate  	R	Sor	U3	 $    4.00 	 $    3.00 	 $    2.50 
+Q	406	Drafna's Restoration  	U	Sor	C4	 $    1.00 	 $    1.00 	 $    0.35 
+Q	407	Dragon Engine  	A	ACr	C4	 $    1.75 	 $    1.00 	 $    0.55 
+Q	408	Dwarven Weaponsmith 	R	Sum	U3	 $    4.00 	 $    3.00 	 $    2.25 
+Q	409	Energy Flux 	U	E	U3	 $    3.38 	 $    2.50 	 $    1.00 
+Q	410	Feldon's Cane 	A	M	U3	 $    6.00 	 $    5.00 	 $    3.75 
+Q	411	Gaea's Avenger 	G	Sum	U1	 $  12.00 	 $  10.00 	 $    8.00 
+Q	412	Gate to Phyrexia 	B	E	U3	 $    4.00 	 $    3.00 	 $    1.75 
+Q	413	Goblin Artisans  	R	Sum	U3	 $    3.25 	 $    3.00 	 $    1.35 
+Q	414	Golgothian Sylex  	A	M	U1	 $    9.75 	 $    8.50 	 $    7.13 
+Q	415	Grapeshot Catapult  	A	ACr	C4	 $    1.00 	 $    1.00 	 $    0.45 
+Q	416	Haunting Wind 	B	E	U3	 $    3.75 	 $    3.00 	 $    1.75 
+Q	417	Hurkyl's Recall  	U	Ins	U1	 $    7.00 	 $    6.00 	 $    4.00 
+Q	418	Ivory Tower  	A	C	U3	 $    5.00 	 $    4.50 	 $    4.00 
+Q	419	Jalum Tome   	A	M	U2	 $    5.50 	 $    4.00 	 $    3.50 
+Q	420	Martyrs of Korlis 	W	Sum	U3	 $    5.00 	 $    4.00 	 $    2.88 
+Q	421	Mightstone 	A	C	U3	 $    4.00 	 $    3.50 	 $    2.50 
+Q	422	Millstone 	A	M	U3	 $    4.00 	 $    3.00 	 $    3.00 
+Q	423	"Mishra's Factory, autumn "	Be	L	U1	 $    6.00 	 $    5.00 	 $    4.00 
+Q	424	"Mishra's Factory, spring/blue balloon  "	Be	L	C1	 $    5.50 	 $    5.00 	 $    3.50 
+Q	425	"Mishra's Factory, summer  "	Be	L	U1	 $    6.00 	 $    5.00 	 $    4.00 
+Q	426	"Mishra's Factory, winter  "	Be	L	U1	 $    6.00 	 $    5.00 	 $    4.00 
+Q	427	Mishra's War Machine 	A	ACr	U1	 $    7.75 	 $    6.00 	 $    5.00 
+Q	428	Mishra's Workshop 	Be	L	U1	 $  10.00 	 $    8.50 	 $    6.00 
+Q	429	Obelisk of Undoing  	A	M	U1	 $  10.50 	 $    8.00 	 $    5.00 
+Q	430	Onulet  	A	ACr	U3	 $    3.38 	 $    3.00 	 $    2.00 
+Q	431	Orcish Mechanics  	R	Sum	C4	 $    1.00 	 $    1.00 	 $    0.45 
+Q	432	Ornithopter 	A	ACr	C4	 $    1.75 	 $    1.00 	 $    0.50 
+Q	433	Phyrexian Gremlins  	B	Sum	C4	 $    2.00 	 $    1.00 	 $    0.50 
+Q	434	Power Artifact  	U	EArt	U3	 $    3.88 	 $    3.00 	 $    2.00 
+Q	435	Powerleech 	G	E	U3	 $    4.00 	 $    3.50 	 $    2.50 
+Q	436	Priest of Yawgmoth  	B	Sum	C4	 $    1.13 	 $    1.00 	 $    0.48 
+Q	437	Primal Clay 	A	ACr	U3	 $    4.38 	 $    3.50 	 $    2.63 
+Q	438	Rakalite  	A	P	U3	 $    4.00 	 $    3.00 	 $    1.75 
+Q	439	Reconstruction  	U	Sor	C4	 $    1.00 	 $    1.00 	 $    0.45 
+Q	440	Reverse Polarity  	W	Ins	C4	 $    1.38 	 $    1.00 	 $    0.50 
+Q	441	Rocket Launcher 	A	P	U3	 $    4.00 	 $    3.00 	 $    2.25 
+Q	442	Sage of Lat-Nam 	U	Sum	C4	 $    1.00 	 $    1.00 	 $    0.48 
+Q	443	Shapeshifter  	A	ACr	U1	 $  10.00 	 $  10.00 	 $    7.75 
+Q	444	Shatterstorm 	R	Sor	U1	 $    7.00 	 $    5.25 	 $    5.00 
+Q	445	Staff of Zegon  	A	M	C4	 $    1.25 	 $    1.00 	 $    0.50 
+Q	446	"Strip Mine, small tower in foreground  "	Be	L	U1	 $    6.00 	 $    4.50 	 $    3.00 
+Q	447	"Strip Mine, no tower, no visible horizon "	Be	L	C1	 $    6.00 	 $    4.50 	 $    3.00 
+Q	448	"Strip Mine, visible horizon, evenly spaced terraces  "	Be	L	U1	 $    6.00 	 $    5.00 	 $    3.75 
+Q	449	"Strip Mine, visible horizon, uneven terraces  "	Be	L	U1	 $    6.00 	 $    5.00 	 $    3.50 
+Q	450	Su-Chi  	A	ACr	U3	 $    4.25 	 $    3.00 	 $    2.69 
+Q	451	Tablet of Epityr  	A	P	C4	 $    1.25 	 $    1.00 	 $    0.50 
+Q	452	Tawnos's Coffin 	A	M	U1	 $  11.00 	 $  10.00 	 $    5.00 
+Q	453	Tawnos's Wand  	A	M	U3	 $    4.00 	 $    3.00 	 $    2.00 
+Q	454	Tawnos's Weaponry  	A	M	U3	 $    4.00 	 $    3.00 	 $    2.50 
+Q	455	Tetravus  	A	ACr	U1	 $  10.00 	 $  10.00 	 $    7.00 
+Q	456	The Rack  	A	C	U3	 $    4.00 	 $    3.00 	 $    1.63 
+Q	457	Titania's Song  	G	E	U3	 $    4.00 	 $    3.00 	 $    2.63 
+Q	458	Transmute Artifact   	U	Sor	U3	 $    3.50 	 $    2.00 	 $    1.50 
+Q	459	Triskelion  	A	ACr	U1	 $  10.00 	 $    9.00 	 $    5.50 
+Q	460	Urza's Avenger  	A	ACr	U1	 $  14.25 	 $  10.00 	 $    8.00 
+Q	461	Urza's Chalice  	A	P	C4	 $    2.00 	 $    1.00 	 $    0.45 
+Q	462	"Urza's Mine, clawed sphere  "	Be	L	C2	 $    2.00 	 $    1.55 	 $    1.00 
+Q	463	"Urza's Mine, mouth "	Be	L	C1	 $    3.00 	 $    1.80 	 $    1.00 
+Q	464	"Urza's Mine, pulley  "	Be	L	C1	 $    3.00 	 $    1.80 	 $    1.00 
+Q	465	"Urza's Mine, tower  "	Be	L	C2	 $    2.00 	 $    1.60 	 $    1.00 
+Q	466	Urza's Miter  	A	P	U1	 $    8.00 	 $    6.00 	 $    5.00 
+Q	467	"Urza's Power Plant, bug  "	Be	L	C2	 $    2.00 	 $    1.55 	 $    1.00 
+Q	468	"Urza's Power Plant, columns  "	Be	L	C1	 $    2.88 	 $    1.80 	 $    1.00 
+Q	469	"Urza's Power Plant, copper sphere  "	Be	L	C1	 $    2.00 	 $    1.55 	 $    1.00 
+Q	470	"Urza's Power Plant, rock in pot "	Be	L	C2	 $    2.88 	 $    1.80 	 $    1.00 
+Q	471	"Urza's Tower, forest "	Be	L	C2	 $    2.00 	 $    1.55 	 $    1.00 
+Q	472	"Urza's Tower, mountains "	Be	L	C1	 $    3.00 	 $    1.80 	 $    1.13 
+Q	473	"Urza's Tower, plains "	Be	L	C1	 $    3.00 	 $    1.55 	 $    1.00 
+Q	474	"Urza's Tower, shore"	Be	L	C1	 $    2.75 	 $    1.80 	 $    1.13 
+Q	475	Wall of Spears 	A	ACr	U3	 $    4.00 	 $    4.00 	 $    3.00 
+Q	476	Weakstone 	A	C	U3	 $    3.75 	 $    3.00 	 $    1.75 
+Q	477	Xenic Poltergeist 	B	Sum	U3	 $    3.75 	 $    3.00 	 $    1.69 
+Q	478	Yawgmoth Demon 	B	Sum	U1	 $  15.00 	 $  12.00 	 $    7.88 
+Q	479	Yotian Soldier 	A	ACr	C4	 $    2.00 	 $    2.00 	 $    0.90 
+						 $476.75 	 $377.40 	 $265.80 

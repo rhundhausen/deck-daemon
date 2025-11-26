@@ -1,0 +1,325 @@
+BEGIN TEMPLATE
+Legends Scrye on Disk #4
+Series=Legends
+Date=120194
+Fields=9
+3=1
+4=2,Col
+5=3,Type
+6=4,Rar
+7=10
+8=11
+9=12
+END TEMPLATE
+
+L	599	Abomination	B	Sum	U1	$5.00 	$4.50 	$4.00 
+L	600	Acid Rain	U	Sor	R1	$12.00 	$10.00 	$8.00 
+L	601	Active Volcano	R	Ins	C2	$1.00 	$0.50 	$0.35 
+L	602	Adun Oakenshield	Gld GRB	Sum	R1	$12.00 	$12.00 	$10.00 
+L	603	Adventurer's Guildhouse	Be	L	U1	$3.00 	$3.00 	$2.63 
+L	604	Aisling Leprechaun	G	Sum	C1	$1.00 	$0.68 	$0.50 
+L	605	Akron Legionnaire	W	Sum	R1	$12.00 	$10.00 	$8.00 
+L	606	Al-abara's Carpet	Be	A	R1	$12.00 	$10.00 	$8.00 
+L	607	Alabaster Potion	W	Ins	C2	$1.00 	$0.50 	$0.40 
+L	608	Alchor's Tomb	Be	A	R1	$10.00 	$8.50 	$8.00 
+L	609	All Hallow's Eve	B	Sor	R1	$15.00 	$15.00 	$12.00 
+L	610	Amrou Kithkin	W	Sum	C2	$1.00 	$0.50 	$0.35 
+L	611	Angelic Voices	W	E	R1	$11.00 	$10.00 	$7.25 
+L	612	Angus Mackenzie	Gld	Sum	R1	$12.00 	$10.00 	$8.00 
+L	613	Anti-Magic Aura	U	ECr	C1	$1.00 	$1.00 	$0.50 
+L	614	Arboria	G	EW	U1	$4.00 	$3.75 	$3.00 
+L	615	Arcades Sabboth	Gld WGU	Sum	R1	$22.75 	$20.00 	$18.50 
+L	616	Arena of the Ancients	Be	A	R1	$10.00 	$9.00 	$8.00 
+L	617	Avoid Fate	G	Int	C1	$1.00 	$0.63 	$0.50 
+L	618	Axelrod Gunnarson	Gld BR	Sum	R1	$12.00 	$10.00 	$9.00 
+L	619	Ayesha Tanaka	Gld UW	Sum	R1	$10.00 	$10.00 	$8.00 
+L	620	Azure Drake	U	Sum	U1	$5.00 	$4.00 	$3.00 
+L	621	Backdraft	R	Ins	U1	$4.00 	$3.00 	$3.00 
+L	622	Backfire	U	ECr	U1	$4.00 	$3.50 	$3.00 
+L	623	Barbary Apes	G	Sum	C1	$1.00 	$0.50 	$0.50 
+L	624	Barktooth Warbeard	Gld BR	Sum	U1	$6.00 	$5.00 	$4.13 
+L	625	Bartel Runeaxe	Gld	Sum	R1	$12.00 	$10.00 	$8.00 
+L	626	Beasts of Bogardan	R	Sum	U1	$5.00 	$4.00 	$4.00 
+L	627	Black Mana Battery	Be	A	U1	$7.50 	$6.00 	$5.50 
+L	628	Blazing Effigy	R	Sum	C1	$1.00 	$0.55 	$0.35 
+L	629	Blight	B	EL	U1	$4.00 	$3.00 	$3.00 
+L	630	Blood Lust	R	Ins	U1	$5.50 	$4.00 	$3.50 
+L	631	Blue Mana Battery	Be	A	U1	$7.00 	$6.00 	$5.00 
+L	632	Boomerang	U	Ins	C2	$1.00 	$0.63 	$0.43 
+L	633	Boris Devilboon	Gld BR	Sum	R1	$12.00 	$12.00 	$10.00 
+L	634	Brine Hag	U	Sum	U1	$5.00 	$4.00 	$3.13 
+L	635	Bronze Horse	Be	ACr	R1	$10.00 	$8.00 	$7.00 
+L	636	Carrion Ants	B	Sum	R1	$20.00 	$15.00 	$11.25 
+L	637	Cat Warriors	G	Sum	C2	$1.00 	$0.50 	$0.40 
+L	638	Cathedral of Serra	Be	L	U1	$3.38 	$3.00 	$3.00 
+L	639	Caverns of Despair	R	EW	R1	$10.00 	$10.00 	$7.75 
+L	640	Chain Lightning	R	Sor	C2	$1.00 	$0.75 	$0.50 
+L	641	Chains of Mephistopheles	B	E	R1	$10.00 	$10.00 	$8.00 
+L	642	Chromium	Gld	Sum	R1	$22.75 	$20.00 	$20.00 
+L	643	Cleanse	W	Sor	R1	$15.00 	$11.50 	$10.00 
+L	644	Clergy of the Holy Nimbus	W	Sum	C2	$1.00 	$0.50 	$0.35 
+L	645	Cocoon	G	ECr	U1	$5.00 	$4.00 	$3.50 
+L	646	Concordant Crossroads	G	EW	R1	$10.00 	$9.00 	$7.50 
+L	647	Cosmic Horror	B	Sum	R1	$11.00 	$10.00 	$8.00 
+L	648	Craw Giant	G	Sum	U1	$7.00 	$6.00 	$4.75 
+L	649	Crevasse	R	E	U1	$4.00 	$3.50 	$3.00 
+L	650	Crimson Kobolds	R	Sum	C2	$1.00 	$0.63 	$0.43 
+L	651	Crimson Manticore	R	Sum	R1	$10.00 	$9.00 	$8.00 
+L	652	Crookshank Kobolds	R	Sum	C2	$1.00 	$0.63 	$0.36 
+L	653	Cyclopean Mummy	B	Sum	C2	$1.00 	$0.50 	$0.30 
+L	654	D'Avenant Archer	W	Sum	C2	$1.00 	$0.75 	$0.25 
+L	655	Dakkon Blackblade	Gld	Sum	R1	$19.50 	$15.00 	$15.00 
+L	656	Darkness	B	Ins	C1	$1.00 	$1.00 	$0.50 
+L	657	Deadfall	G	E	U1	$4.00 	$3.00 	$3.00 
+L	658	Demonic Torment	B	ECr	U1	$5.00 	$3.75 	$3.00 
+L	659	Devouring Deep	U	Sum	C2	$1.00 	$0.75 	$0.30 
+L	660	Disharmony	R	Ins	R1	$10.00 	$8.00 	$6.75 
+L	661	Divine Intervention	W	E	R1	$10.50 	$9.00 	$8.00 
+L	662	Divine Offering	W	Ins	C2	$1.00 	$0.50 	$0.44 
+L	663	Divine Transformation	W	ECr	R1	$13.00 	$10.00 	$7.00 
+L	664	Dream Coat	U	ECr	U1	$4.00 	$3.00 	$2.75 
+L	665	Durkwood Boars	G	Sum	C2	$1.00 	$0.63 	$0.36 
+L	666	Dwarven Song	R	Ins	U1	$4.00 	$3.00 	$3.00 
+L	667	Elder Land Wurm	W	Sum	R1	$12.00 	$10.00 	$9.00 
+L	668	Elder Spawn	U	Sum	R1	$10.00 	$8.00 	$6.00 
+L	669	Elven Riders	G	Sum	R1	$10.38 	$10.00 	$7.75 
+L	670	Emerald Dragonfly	G	Sum	C2	$1.00 	$0.50 	$0.30 
+L	671	Enchanting Being	W	Sum	C1	$1.00 	$0.83 	$0.50 
+L	672	Enchantment Alteration	U	Ins	C1	$1.50 	$1.00 	$0.50 
+L	673	Energy Tap	U	Sor	C2	$1.00 	$0.75 	$0.50 
+L	674	Equinox	W	EL	C1	$1.13 	$0.86 	$0.50 
+L	675	Eternal Warrior	R	ECr	U1	$6.00 	$4.00 	$4.00 
+L	676	Eureka	G	Sor	R1	$14.13 	$11.00 	$10.00 
+L	677	Evil Eye of Orms-By-Gore	B	Sum	U1	$5.13 	$4.00 	$3.00 
+L	678	Fallen Angel	B	Sum	U1	$6.25 	$5.00 	$4.50 
+L	679	Falling Star	R	Sor	R1	$10.25 	$10.00 	$8.00 
+L	680	Feint	R	Ins	C1	$1.00 	$0.75 	$0.50 
+L	681	Field of Dreams	U	EW	R1	$10.00 	$8.00 	$8.00 
+L	682	Fire Sprites	G	Sum	C2	$1.00 	$0.75 	$0.50 
+L	683	Firestorm Phoenix	R	Sum	R1	$15.75 	$13.00 	$10.50 
+L	684	Flash Counter	U	Int	C2	$1.00 	$0.63 	$0.36 
+L	685	Flash Flood	U	Ins	C2	$1.00 	$0.75 	$0.30 
+L	686	Floral Spuzzem	G	Sum	U1	$4.00 	$4.00 	$4.00 
+L	687	Force Spike	U	Int	C2	$1.00 	$0.50 	$0.29 
+L	688	Forethought Amulet	Be	A	R1	$10.00 	$10.00 	$7.75 
+L	689	Fortified Area	W	E	U1	$4.00 	$3.25 	$3.00 
+L	690	Frost Giant	R	Sum	U1	$4.25 	$4.00 	$3.38 
+L	691	Gabriel Angelfire	Gld WG	Sum	R1	$12.50 	$11.00 	$9.75 
+L	692	Gaseous Form	U	ECr	C1	$1.00 	$0.78 	$0.50 
+L	693	Gauntlets of Chaos	Be	A	R1	$12.00 	$10.00 	$10.00 
+L	694	Ghosts of the Damned	B	Sum	C2	$1.00 	$0.75 	$0.40 
+L	695	Giant Slug	B	Sum	C2	$1.00 	$0.75 	$0.50 
+L	696	Giant Strength	R	ECr	C2	$1.00 	$0.75 	$0.40 
+L	697	Giant Turtle	G	Sum	C2	$1.00 	$0.75 	$0.30 
+L	698	Glyph of Delusion	U	Ins	C1	$1.00 	$0.63 	$0.48 
+L	699	Glyph of Destruction	R	Ins	C2	$1.00 	$0.75 	$0.40 
+L	700	Glyph of Doom	B	Ins	C2	$1.00 	$0.63 	$0.36 
+L	701	Glyph of Life	W	Ins	C2	$1.00 	$0.75 	$0.40 
+L	702	Glyph of Reincarnation	G	Ins	C1	$1.00 	$0.50 	$0.48 
+L	703	Gosta Dirk	Gld WU	Sum	R1	$10.50 	$10.00 	$8.00 
+L	704	Gravity Sphere	R	EW	R1	$15.75 	$11.00 	$10.00 
+L	705	Great Defender	W	Ins	U1	$4.13 	$3.75 	$3.00 
+L	706	Great Wall	W	E	U1	$4.00 	$3.00 	$3.00 
+L	707	Greater Realm of Preservation	W	E	U1	$7.00 	$4.00 	$4.00 
+L	708	Greed	B	E	R1	$10.00 	$8.00 	$6.75 
+L	709	Green Mana Battery	Be	A	U1	$7.00 	$6.00 	$5.00 
+L	710	Gwendlyn Di Corci	Gld RBU	Sum	R1	$12.00 	$10.00 	$8.75 
+L	711	Halfdane	Gld BUW	Sum	R1	$10.50 	$10.00 	$7.88 
+L	712	Hammerheim	Be	LL	U2	$4.00 	$3.00 	$3.00 
+L	713	Hazezon Tamar	Gld	Sum	R1	$15.50 	$12.00 	$11.00 
+L	714	Headless Horseman	B	Sum	C1	$1.00 	$0.75 	$0.50 
+L	715	Heaven's Gate	W	Ins	U1	$4.00 	$3.00 	$3.00 
+L	716	Hell Swarm	B	Ins	C1	$1.00 	$0.50 	$0.50 
+L	717	Hell's Caretaker	B	Sum	R1	$15.00 	$12.00 	$10.00 
+L	718	Hellfire	B	Sor	R1	$15.00 	$12.00 	$10.00 
+L	719	Holy Day	W	Ins	C1	$1.00 	$0.68 	$0.50 
+L	720	Horn of Deafening	Be	A	R1	$10.00 	$9.00 	$8.00 
+L	721	Hornet Cobra	G	Sum	C2	$1.00 	$0.50 	$0.30 
+L	722	Horror of Horrors	B	E	U1	$5.25 	$4.00 	$3.75 
+L	723	Hunding Gjornersen	Gld	Sum	U1	$6.00 	$5.00 	$4.00 
+L	724	Hyperion Blacksmith	R	Sum	U1	$4.00 	$3.25 	$3.00 
+L	725	Ichneumon Druid	G	Sum	U1	$5.00 	$4.00 	$3.00 
+L	726	Immolation	R	ECr	C1	$1.00 	$0.50 	$0.50 
+L	727	Imprison	B	ECr	R1	$10.00 	$10.00 	$8.50 
+L	728	In the Eye of Chaos	U	EW	R1	$10.00 	$10.00 	$7.75 
+L	729	Indestrucible Aura	W	Ins	C2	$1.00 	$0.63 	$0.36 
+L	730	Infernal Medusa	B	Sum	U1	$6.00 	$5.00 	$4.00 
+L	731	Infinite Authority	W	ECr	R1	$10.00 	$8.50 	$7.75 
+L	732	Invoke Prejudice	U	E	R1	$12.00 	$10.00 	$8.38 
+L	733	Ivory Guardians	W	Sum	U1	$5.00 	$4.00 	$3.00 
+L	734	Jacques le Vert	Gld	Sum	R1	$12.00 	$11.00 	$9.50 
+L	735	Jasmine Boreal	Gld WG	Sum	U1	$5.63 	$5.00 	$3.75 
+L	736	Jedit Ojanen	Gld UW	Sum	U1	$6.00 	$5.00 	$4.00 
+L	737	Jerrard of the Closed Fist	Gld GR	Sum	U1	$5.50 	$5.00 	$4.00 
+L	738	Johan	Gld WGR	Sum	R1	$15.50 	$12.00 	$10.00 
+L	739	Jovial Evil	B	Sor	R1	$10.50 	$10.00 	$9.00 
+L	740	Juxtapose	U	Sor	R1	$10.00 	$10.00 	$7.75 
+L	741	Karakas	Be	LL	U2	$5.00 	$3.50 	$3.00 
+L	742	Kasimir the Lone Wolf	Gld UW	Sum	U1	$6.00 	$5.00 	$4.00 
+L	743	Keepers of the Faith	W	Sum	C2	$1.00 	$0.75 	$0.50 
+L	744	Kei Takahashi	Gld WG	Sum	R1	$12.00 	$10.00 	$7.75 
+L	745	Killer Bees	G	Sum	R1	$16.50 	$13.50 	$12.00 
+L	746	Kismet	W	E	U1	$6.00 	$5.00 	$4.00 
+L	747	Knowledge Vault	Be	A	R1	$10.00 	$9.50 	$7.75 
+L	748	Kobold Drill Sergeant	R	Sum	U1	$5.50 	$5.00 	$4.00 
+L	749	Kobold Overlord	R	Sum	R1	$12.00 	$10.00 	$8.00 
+L	750	Kobold Taskmaster	R	Sum	U1	$6.00 	$5.00 	$4.00 
+L	751	Kobolds of Kher Keep	R	Sum	C2	$1.00 	$0.75 	$0.40 
+L	752	Kry Shield	Be	A	U1	$4.00 	$3.00 	$3.00 
+L	753	Lady Caleria	Gld WG	Sum	R1	$12.00 	$10.00 	$9.50 
+L	754	Lady Evangela	Gld BUW	Sum	R1	$11.00 	$10.00 	$9.00 
+L	755	Lady Orca	Gld BR	Sum	U1	$6.00 	$5.00 	$4.00 
+L	756	Land Equilibrium	U	E	R1	$10.00 	$10.00 	$6.75 
+L	757	Land Tax	W	E	U1	$5.00 	$5.00 	$4.00 
+L	758	Land's Edge	R	EW	R1	$10.00 	$10.00 	$8.50 
+L	759	Lesser Werewolf	B	Sum	U1	$5.00 	$5.00 	$4.00 
+L	760	Life Chisel	Be	A	U2	$4.50 	$4.00 	$3.00 
+L	761	Life Matrix	Be	A	R1	$12.00 	$10.00 	$8.00 
+L	762	Lifeblood	W	E	R1	$11.00 	$9.00 	$7.50 
+L	763	Living Plane	G	EW	R1	$10.50 	$10.00 	$7.00 
+L	764	Livonya Silone	Gld	Sum	R1	$12.00 	$10.00 	$8.50 
+L	765	Lord Magnus	Gld	Sum	U1	$6.00 	$5.50 	$4.00 
+L	766	Lost Soul	B	Sum	C2	$1.00 	$0.75 	$0.30 
+L	767	Mana Drain	U	Int	U1	$5.00 	$5.00 	$3.25 
+L	768	Mana Matrix	Be	A	R1	$10.25 	$10.00 	$7.75 
+L	769	Marble Priest	Be	ACr	U1	$4.25 	$4.00 	$3.00 
+L	770	Marhault Elsdragon	Gld	Sum	U1	$6.00 	$6.00 	$3.88 
+L	771	Master of the Hunt	G	Sum	R1	$19.00 	$15.00 	$12.00 
+L	772	Mirror Universe	Be	A	R1	$28.00 	$16.00 	$15.00 
+L	773	Moat	W	E	R1	$16.00 	$12.00 	$10.00 
+L	774	Mold Demon	B	Sum	R1	$10.00 	$9.00 	$7.88 
+L	775	Moss Monster	G	Sum	C2	$1.00 	$0.50 	$0.40 
+L	776	Mountain Stronghold	Be	L	U1	$3.00 	$3.00 	$3.00 
+L	777	Mountain Yeti	R	Sum	U1	$4.25 	$4.00 	$3.00 
+L	778	Nebuchadnezzar	Gld BU	Sum	R1	$15.00 	$12.00 	$12.00 
+L	779	Nether Void	B	EW	R1	$10.00 	$9.00 	$7.00 
+L	780	Nicol Bolas	Gld	Sum	R1	$25.00 	$21.00 	$20.00 
+L	781	North Star	Be	A	R1	$12.00 	$11.00 	$10.00 
+L	782	Nova Pentacle	Be	A	R1	$10.00 	$9.25 	$8.00 
+L	783	Osai Vultures	W	Sum	C1	$1.00 	$0.75 	$0.50 
+L	784	Palladia-Mors	Gld WGR	Sum	R1	$23.50 	$20.00 	$20.00 
+L	785	Part Water	U	Sor	U1	$4.00 	$3.25 	$3.00 
+L	786	Pavel Maliki	Gld BR	Sum	U1	$6.00 	$5.00 	$4.00 
+L	787	Pendelhaven	Be	LL	U2	$4.00 	$3.50 	$3.00 
+L	788	Petra Sphinx	W	Sum	R1	$10.50 	$10.00 	$8.00 
+L	789	Pit Scorpion	B	Sum	C2	$1.00 	$0.73 	$0.44 
+L	790	Pixie Queen	G	Sum	R1	$11.00 	$10.00 	$7.00 
+L	791	Planar Gate	Be	A	R1	$10.50 	$10.00 	$7.75 
+L	792	Pradesh Gypsies	G	Sum	U1	$4.00 	$3.50 	$3.00 
+L	793	Presence of the Master	W	E	U1	$5.00 	$4.50 	$4.00 
+L	794	Primordial Ooze	R	Sum	U1	$4.25 	$4.00 	$3.00 
+L	795	Princess Lucrezia	Gld	Sum	U1	$6.00 	$4.50 	$4.00 
+L	796	Psionic Entity	U	Sum	R1	$10.00 	$8.00 	$6.75 
+L	797	Psychic Purge	U	Sor	C1	$1.00 	$0.75 	$0.50 
+L	798	Puppet Master	U	ECr	U1	$4.00 	$4.00 	$3.00 
+L	799	Pyrotechnics	R	Sor	C2	$1.00 	$0.75 	$0.44 
+L	800	Quagmire	B	E	U1	$4.00 	$3.50 	$3.00 
+L	801	Quarum Trench Gnomes	R	Sum	R1	$10.00 	$9.50 	$7.00 
+L	802	Rabid Wombat	G	Sum	U1	$7.00 	$6.00 	$4.00 
+L	803	Radjan Spirit	G	Sum	U1	$4.50 	$4.00 	$3.25 
+L	804	Raging Bull	R	Sum	C1	$1.00 	$0.75 	$0.50 
+L	805	Ragnar	Gld UWG	Sum	R1	$11.00 	$10.00 	$7.50 
+L	806	Ramirez DePietro	Gld	Sum	U1	$6.00 	$4.50 	$3.38 
+L	807	Ramses Overdark	Gld BU	Sum	R1	$13.00 	$12.00 	$9.75 
+L	808	Rapid Fire	W	Ins	R1	$9.25 	$8.00 	$5.75 
+L	809	Rasputin Dreamweaver	Gld WU	Sum	R1	$12.00 	$10.00 	$8.75 
+L	810	(Ae)rathi Berserker	R	Sum	U1	$4.50 	$3.50 	$3.00 
+L	811	Rebirth	G	Sor	R1	$10.00 	$8.50 	$7.13 
+L	812	Recall	U	Sor	R1	$12.00 	$10.00 	$8.00 
+L	813	Red Mana Battery	Be	A	U1	$7.00 	$6.00 	$5.00 
+L	814	Reincarnation	G	Ins	U1	$4.00 	$4.00 	$3.00 
+L	815	Relic Barrier	Be	A	U2	$4.00 	$4.00 	$3.00 
+L	816	Relic Bind	U	EArt	U1	$4.00 	$3.75 	$3.00 
+L	817	Remove Enchantments	W	Ins	C1	$1.00 	$0.63 	$0.48 
+L	818	Remove Soul	U	Int	C2	$1.00 	$0.50 	$0.44 
+L	819	Reset	U	Int	U1	$5.25 	$4.00 	$3.00 
+L	820	Revelation	G	EW	R1	$10.00 	$8.00 	$7.38 
+L	821	Reverberation	U	Ins	R1	$10.00 	$10.00 	$8.50 
+L	822	Righteous Avengers	W	Sum	U1	$4.25 	$4.00 	$3.38 
+L	823	Ring of Immortals	Be	A	R1	$10.50 	$10.00 	$8.88 
+L	824	Riven Turnbull	Gld BU	Sum	U1	$6.00 	$5.00 	$4.00 
+L	825	Rohgahh of Kher Keep	Gld	Sum	R1	$12.00 	$12.00 	$10.00 
+L	826	Rubinia Soulsinger	Gld UWG	Sum	R1	$15.00 	$12.00 	$11.00 
+L	827	Rust	G	Int	C2	$1.00 	$0.50 	$0.30 
+L	828	Sea King's Blessing	U	Ins	U1	$4.00 	$3.00 	$3.00 
+L	829	Seafarer's Quay	Be	L	U2	$3.00 	$3.00 	$3.00 
+L	830	Seeker	W	ECr	U1	$4.50 	$4.00 	$3.50 
+L	831	Segovian Leviathan	U	Sum	U1	$4.00 	$4.00 	$3.00 
+L	832	Sentinel	Be	ACr	R1	$10.00 	$9.00 	$7.00 
+L	833	Serpent Generator	Be	A	R1	$15.00 	$13.50 	$11.25 
+L	834	Shelkin Brownie	G	Sum	C1	$1.00 	$0.60 	$0.50 
+L	835	Shield Wall	W	Ins	U1	$4.00 	$3.00 	$3.00 
+L	836	Shimian Night Stalker	B	Sum	U1	$6.00 	$4.00 	$4.00 
+L	837	Silhouette	U	Ins	U1	$4.00 	$3.00 	$3.00 
+L	838	Sir Shandlar of Eberyn	Gld	Sum	U1	$6.00 	$5.00 	$4.00 
+L	839	Sivitri Scarzam	Gld	Sum	U1	$6.00 	$5.00 	$4.00 
+L	840	Sol'kanar the Swamp King	Gld	Sum	R1	$17.00 	$15.00 	$12.00 
+L	841	Spectral Cloak	U	ECr	U1	$5.25 	$4.00 	$3.75 
+L	842	Spinal Villian	R	Sum	R1	$15.00 	$12.00 	$10.00 
+L	843	Spirit Link	W	ECr	U1	$5.00 	$5.00 	$4.00 
+L	844	Spirit Shackle	B	ECr	C1	$1.00 	$0.88 	$0.50 
+L	845	Spiritual Sanctuary	W	E	R1	$10.00 	$9.00 	$6.75 
+L	846	Stangg	Gld GR	Sum	R1	$12.00 	$10.00 	$8.75 
+L	847	Storm Seeker	G	Ins	U1	$7.38 	$5.50 	$4.00 
+L	848	Storm World	R	EW	R1	$10.00 	$9.00 	$7.00 
+L	849	Subdue	G	Ins	C1	$1.00 	$0.50 	$0.50 
+L	850	Sunastian Falconer	Gld	Sum	U1	$6.00 	$5.50 	$4.00 
+L	851	Sword of the Ages	Be	A	R1	$20.00 	$12.00 	$10.00 
+L	852	Sylvan Library	G	E	U1	$5.00 	$4.00 	$3.75 
+L	853	Sylvan Paradise	G	Ins	U1	$4.00 	$4.00 	$3.00 
+L	854	Syphon Soul	B	Sor	C2	$1.00 	$0.88 	$0.36 
+L	855	Takklemaggot	B	ECr	U1	$4.00 	$3.50 	$3.00 
+L	856	Telekinesis	U	Ins	R1	$10.00 	$8.75 	$7.75 
+L	857	Teleport	U	Ins	R1	$10.00 	$9.50 	$7.75 
+L	858	Tempest Efreet	R	Sum	R1	$10.00 	$8.00 	$7.00 
+L	859	Tetsuo Umezawa	Gld RBU	Sum	R1	$14.75 	$12.00 	$9.75 
+L	860	The Abyss	B	EW	R1	$14.00 	$10.00 	$7.00 
+L	861	The Brute	R	ECr	C1	$1.00 	$0.75 	$0.50 
+L	862	The Lady of the Mountain	Gld GR	Sum	U1	$6.00 	$5.00 	$3.75 
+L	863	The Tabernacle at Pendrell Vale	Be	LL	R1	$12.00 	$10.00 	$8.00 
+L	864	The Wretched	B	Sum	R1	$20.00 	$12.00 	$10.00 
+L	865	Thunder Spirit	W	Sum	R1	$14.00 	$10.00 	$9.00 
+L	866	Time Elemental	U	Sum	R1	$12.00 	$10.00 	$10.00 
+L	867	Tobias Andrion	Gld UW	Sum	U1	$6.00 	$5.00 	$3.88 
+L	868	Tolaria	Be	LL	U2	$4.00 	$3.50 	$3.00 
+L	869	Tor Wauki	Gld	Sum	U1	$6.25 	$5.50 	$4.75 
+L	870	Torsten Von Ursus	Gld WG	Sum	U1	$6.00 	$4.50 	$3.38 
+L	871	Touch of Darkness	B	Ins	U1	$4.00 	$3.50 	$3.00 
+L	872	Transmutation	B	Ins	C1	$1.00 	$1.00 	$0.50 
+L	873	Triassic Egg	Be	A	R1	$10.00 	$10.00 	$8.00 
+L	874	Tuknir Deathlock	Gld GR	Sum	R1	$12.00 	$10.00 	$9.25 
+L	875	Tundra Wolves	W	Sum	C2	$1.00 	$0.55 	$0.44 
+L	876	Typhoon	G	Sor	R1	$10.00 	$8.75 	$6.75 
+L	877	Undertow	U	E	U1	$4.00 	$3.00 	$3.00 
+L	878	Underworld Dreams	B	E	U1	$8.00 	$7.00 	$5.00 
+L	879	Unholy Citadel	Be	L	U2	$3.00 	$3.00 	$3.00 
+L	880	Untamed Wilds	G	Sor	U1	$4.63 	$3.50 	$3.00 
+L	881	Ur-Drago	Gld BU	Sum	R1	$12.00 	$10.00 	$8.00 
+L	882	Urborg	Be	LL	U2	$4.00 	$3.00 	$3.00 
+L	883	Vaevictis Asmadi	Gld BRG 	Sum 	R1	$22.75 	$20.00 	$20.00 
+L	884	Vampire Bats	B	Sum	C2	$1.00 	$0.50 	$0.30 
+L	885	Venarian Gold	U	ECr	C1	$1.00 	$1.00 	$0.50 
+L	886	Visions	W	Sor	U1	$5.00 	$3.50 	$3.00 
+L	887	Voodoo Doll	Be	A	R1	$10.00 	$9.00 	$7.75 
+L	888	Walking Dead	B	Sum	C1	$1.00 	$0.60 	$0.50 
+L	889	Wall of Caltrops	W	Sum	C1	$1.00 	$1.00 	$0.50 
+L	890	Wall of Dust	R	Sum	U1	$4.00 	$3.00 	$3.00 
+L	891	Wall of Earth	R	Sum	C2	$1.00 	$0.75 	$0.50 
+L	892	Wall of Heat	R	Sum	C1	$1.00 	$1.00 	$0.50 
+L	893	Wall of Light	W	Sum	U1	$4.00 	$3.50 	$3.00 
+L	894	Wall of Opposition	R	Sum	R1	$10.00 	$8.50 	$7.75 
+L	895	Wall of Putrid Flesh	B	Sum	U1	$5.00 	$4.00 	$3.00 
+L	896	Wall of Shadows	B	Sum	C2	$1.00 	$1.00 	$0.69 
+L	897	Wall of Tombstones	B	Sum	U1	$4.25 	$4.00 	$3.50 
+L	898	Wall of Vapor	U	Sum	C2	$1.00 	$0.75 	$0.44 
+L	899	Wall of Wonder	U	Sum	U1	$4.25 	$4.00 	$3.38 
+L	900	Whirling Dervish	G	Sum	U1	$6.00 	$4.50 	$3.75 
+L	901	White Mana Battery	Be	A	U1	$6.88 	$6.00 	$5.00 
+L	902	Willow Satyr	G	Sum	R1	$12.00 	$10.00 	$8.00 
+L	903	Winds of Change	R	Sor	U1	$4.13 	$4.00 	$3.00 
+L	904	Winter Blast	G	Sor	R1	$10.25 	$10.00 	$6.75 
+L	905	Wolverine Pack	G	Sum	C2	$1.00 	$0.70 	$0.50 
+L	906	Wood Elemental	G	Sum	R1	$10.00 	$7.50 	$6.88 
+L	907	Xira Arien	Gld GRB	Sum	R1	$12.00 	$10.00 	$10.00 
+L	908	Zephyr Falcon	U	Sum	C2	$1.00 	$0.63 	$0.36 
+		TOTAL				"$2,160.88 "	"$1,823.16 "	"$1,529.09 "

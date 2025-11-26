@@ -1,0 +1,107 @@
+BEGIN TEMPLATE
+Arabian Nights  Scrye on Disk #4
+Series=Arabian Nights
+Date=120194
+Fields=9
+3=1
+4=2,Color
+5=3,Type
+6=4,Rarity
+7=10
+8=11
+9=12
+END TEMPLATE
+
+N	303	Abu Ja'far  	W	Sum	U3	 $  13.00 	 $  10.00 	 $    7.50 
+N	304	Aladdin  	R	Sum	U2	 $  16.00 	 $  13.00 	 $    5.00 
+N	305	Aladdin's Lamp  	A	M	U2	 $    8.00 	 $    6.00 	 $    6.00 
+N	306	Aladdin's Ring  	A	M	U2	 $    9.00 	 $    7.00 	 $    5.50 
+N	307	Ali Baba  	R	Sum	U3	 $  10.00 	 $    7.75 	 $    6.00 
+N	308	Ali from Cairo 	R	Sum	U2	 $  30.00 	 $  25.00 	 $  15.00 
+N	309A	Army of Allah (a)  	W	Ins	C4	 $    3.00 	 $    2.25 	 $    1.50 
+N	309B	Army of Allah (b) 	W	Ins	C4	 $    3.00 	 $    2.00 	 $    1.00 
+N	310	Bazaar of Baghdad  	Be	L	U3	 $  10.00 	 $    6.00 	 $    5.00 
+N	311A	Bird Maiden (a)	R	Sum	C4	 $    3.00 	 $    1.75 	 $    1.00 
+N	311B	Bird Maiden (b) 	R	Sum	C4	 $    2.75 	 $    1.25 	 $    1.00 
+N	312	Bottle of Suleiman  	A	M	U2	 $    8.00 	 $    7.00 	 $    5.00 
+N	313	Brass Man  	A	ACr	U3	 $    3.88 	 $    2.00 	 $    2.00 
+N	314	Camel  	W	Sum	C5	 $    2.00 	 $    1.50 	 $    1.00 
+N	315	City in a Bottle 	A	C	U2	 $  12.75 	 $  11.00 	 $    8.13 
+N	316	City of Brass  	Be	L	U3	 $  10.00 	 $    8.00 	 $    6.00 
+N	317	Cuombajj Witches  	B	Sum	C4	 $    2.00 	 $    2.00 	 $    0.75 
+N	318	Cyclone 	G	E	U3	 $    6.00 	 $    5.50 	 $    3.00 
+N	319	Dancing Scimitar 	A	ACr	U2	 $    8.00 	 $    6.00 	 $    5.00 
+N	320	Dandan  	U	Sum	C4	 $    2.00 	 $    1.50 	 $    1.00 
+N	321	Desert  	Be	L	C11	 $    3.00 	 $    2.50 	 $    1.25 
+N	322	Desert Nomads  	R	Sum	C4	 $    2.00 	 $    2.00 	 $    1.00 
+N	323	Desert Twister  	G	Sor	U3	 $    7.00 	 $    6.00 	 $    3.00 
+N	324	Diamond Valley  	Be	L	U2	 $  19.00 	 $  15.00 	 $  10.00 
+N	325	Drop of Honey  	G	E	U2	 $  17.00 	 $  14.00 	 $  10.00 
+N	326	Ebony Horse  	A	M	U2	 $    8.00 	 $    6.00 	 $    5.00 
+N	327	El-Hajjaj  	B	Sum	U2	 $    7.75 	 $    6.50 	 $    5.25 
+N	328	Elephant Graveyard  	Be	L	U2	 $  16.00 	 $  15.00 	 $    8.50 
+N	329A	Erg Raiders (a) 	B	Sum	C5	 $    2.00 	 $    1.00 	 $    0.75 
+N	329B	Erg Raiders (b)	B	Sum	C5	 $    1.00 	 $    1.00 	 $    0.75 
+N	330	Erhnam Djinn  	G	Sum	U2	 $  10.50 	 $    8.75 	 $    5.75 
+N	331	Eye for an Eye  	W	Ins	U3	 $  10.00 	 $    7.00 	 $    5.00 
+N	332A	Fishliver Oil (a)  	U	ECr	C4	 $    2.00 	 $    1.25 	 $    1.00 
+N	332B	Fishliver Oil (b) 	U	ECr	C4	 $    2.00 	 $    1.00 	 $    1.00 
+N	333	Flying Carpet  	A	M	U3	 $    8.00 	 $    6.00 	 $    4.00 
+N	334	Flying Men  	U	Sum	C5	 $    2.88 	 $    2.00 	 $    1.50 
+N	335	Ghazban Ogre  	G	Sum	C4	 $    2.00 	 $    1.00 	 $    0.75 
+N	336A	Giant Tortoise (a)	U	Sum	C4	 $    2.00 	 $    1.00 	 $    0.75 
+N	336B	Giant Tortoise (b) 	U	Sum	C4	 $    2.00 	 $    1.00 	 $    0.75 
+N	337	Guardian Beast  	B	Sum	U2	 $  35.00 	 $  30.00 	 $  20.00 
+N	338A	Hasran Ogress (a) 	B	Sum	C5	 $    2.00 	 $    1.00 	 $    0.75 
+N	338B	Hasran Ogress (b) 	B	Sum	C5	 $    2.00 	 $    1.00 	 $    0.75 
+N	339	Hurr Jackal  	R	Sum	C4	 $    3.00 	 $    2.00 	 $    1.50 
+N	340	Ifh-Biff Efreet	G	Sum	U2	 $  10.00 	 $    9.00 	 $    6.00 
+N	341	Island Fish Jasconius  	U	Sum	U2	 $    8.00 	 $    6.00 	 $    5.00 
+N	342	Island of Wak-Wak 	Be	L	U2	 $  18.00 	 $  15.00 	 $    8.25 
+N	343	Jandor's Ring  	A	M	U2	 $    7.00 	 $    5.00 	 $    4.00 
+N	344	Jandor's Saddlebags  	A	M	U2	 $    7.00 	 $    5.00 	 $    5.00 
+N	345	Jeweled Bird  	A	M	U3	 $    8.00 	 $    6.00 	 $    5.00 
+N	346	Jihad  	W	E	U2	 $  20.00 	 $  15.00 	 $  10.00 
+N	347	Junun Efreet  	B	Sum	U2	 $  10.00 	 $    8.00 	 $    6.00 
+N	348	Juzam Djinn 	B	Sum	U2	 $  12.00 	 $  11.00 	 $    8.25 
+N	349	Khabal Ghoul  	B	Sum	U3	 $  19.50 	 $  12.25 	 $    9.25 
+N	350	King Suleiman  	W	Sum	U2	 $  10.75 	 $  10.00 	 $    5.50 
+N	351	Kird Ape  	R	Sum	C5	 $    3.00 	 $    1.00 	 $    0.75 
+N	352	Library of Alexandria  	Be	L	U3	 $  15.50 	 $  13.00 	 $    5.00 
+N	353	Magnetic Mountain  	R	E	U3	 $    8.00 	 $    6.00 	 $    4.00 
+N	354	Merchant Ship  	U	Sum	U3	 $    8.00 	 $    6.00 	 $    5.00 
+N	355	Metamorphosis  	G	Sor	C4	 $    2.00 	 $    1.00 	 $    0.85 
+N	356	Mijae Djinn  	R	Sum	U2	 $    9.25 	 $    7.50 	 $    6.13 
+N	357A	Moorish Cavalry (a) 	W	Sum	C5	 $    4.88 	 $    2.25 	 $    2.00 
+N	357B	Moorish Cavalry (b) 	W	Sum	C5	 $    4.38 	 $    2.00 	 $    1.25 
+N	358	Mountain  	Be	L	C1	 $    5.00 	 $    3.50 	 $    2.75 
+N	359A	Nafs Asp (a) 	G	Sum	C4	 $    2.75 	 $    1.75 	 $    1.00 
+N	359B	Nafs Asp  (b)	G	Sum	C4	 $    2.00 	 $    1.25 	 $    1.00 
+N	360	Oasis  	Be	L	C1	 $    8.00 	 $    6.00 	 $    5.00 
+N	361	Old Man of the Sea  	U	Sum	U2	 $  24.75 	 $  15.00 	 $  10.00 
+N	362A	Oubliette (a)	B	E	C4	 $    4.75 	 $    4.00 	 $    3.00 
+N	362B	Oubliette (b) 	B	E	C4	 $    4.00 	 $    3.75 	 $    1.50 
+N	363A	Piety  (a)	W	Ins	C4	 $    2.75 	 $    1.75 	 $    0.81 
+N	363B	Piety (b)	W	Ins	C4	 $    2.00 	 $    1.50 	 $    0.81 
+N	364	Pyramids 	A	P	U2	 $  16.00 	 $  14.00 	 $    8.50 
+N	365	Repentant Blacksmith 	W	Sum	U2	 $  10.00 	 $    9.00 	 $    5.00 
+N	366	Ring of Ma'ruf  	A	M	U2	 $  15.00 	 $  10.00 	 $    5.00 
+N	367A	Rukh Egg (a)	R	Sum	C4	 $    5.00 	 $    4.75 	 $    2.25 
+N	367B	Rukh Egg (b)	R	Sum	C4	 $    5.00 	 $    4.00 	 $    1.63 
+N	368	Sandals of Abdallah  	A	M	U3	 $    8.00 	 $    6.00 	 $    5.00 
+N	369	Sandstorm  	G	Ins	C5	 $    2.88 	 $    2.00 	 $    1.50 
+N	370	Serendib Djinn 	U	Sum	U2	 $  10.00 	 $    7.00 	 $    5.00 
+N	371	Serendib Efreet  	U	Sum	U2	 $  10.50 	 $    8.50 	 $    5.75 
+N	372	Shahrazad 	W	Sor	U2	 $  15.00 	 $  10.00 	 $    8.00 
+N	373	Sindbad 	U	Sum	U3	 $  10.00 	 $    6.00 	 $    3.50 
+N	374	Singing Tree 	G	Sum	U2	 $  20.00 	 $  14.50 	 $  10.50 
+N	375	Sorceress Queen 	B	Sum	U3	 $    8.75 	 $    7.75 	 $    5.25 
+N	376A	Stone-Throwing Devils (a)	B	Sum	C4	 $    3.00 	 $    2.00 	 $    1.63 
+N	376B	Stone-Throwing Devils (b)	B	Sum	C4	 $    2.88 	 $    2.00 	 $    1.13 
+N	377	Unstable Mutation 	U	ECr	C5	 $    1.38 	 $    1.00 	 $    0.81 
+N	378A	War Elephant (a)	W	Sum	C4	 $    4.00 	 $    3.00 	 $    1.63 
+N	378B	War Elephant (b) 	W	Sum	C4	 $    3.75 	 $    2.75 	 $    1.13 
+N	379A	Wyluli Wolf (a)	G	Sum	C5	 $    3.75 	 $    3.00 	 $    1.63 
+N	379B	Wyluli Wolf (b)	G	Sum	C5	 $    3.00 	 $    2.75 	 $    1.13 
+N	380	Ydwen Efreet	R	Sum	U2	 $  10.00 	 $    8.00 	 $    6.00 
+		TOTAL				 $737.63 	 $566.00 	 $380.41 

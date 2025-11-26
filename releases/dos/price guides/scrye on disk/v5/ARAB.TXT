@@ -1,0 +1,96 @@
+ 	 	ARABIAN NIGHTS - SCRYE #5
+
+ 	 	CARD NAME	COLOR	TYPE	RARITY	HIGH	MEDIAN		LOW
+N	303	Abu Ja'far  	W	Sum	U	12.25	10.00	 	8.40
+N	304	Aladdin  	R	Sum	U	20.00	15.00	é	8.00
+N	305	Aladdin's Lamp  	A	M	U	7.50	6.00	 	5.50
+N	306	Aladdin's Ring  	A	M	U	7.50	7.00	 	5.30
+N	307	Ali Baba  	R	Sum	U	10.00	8.00	é	5.00
+N	308	Ali from Cairo 	R	Sum	R	40.00	30.00	é	20.00
+N	309A	Army of Allah (a)  	W	Ins	C	3.50	2.00	ê	1.50
+N	309B	Army of Allah (b) 	W	Ins	C	3.00	2.00	 	1.20
+N	310	Bazaar of Baghdad  	Be	L	U	10.00	8.00	é	5.50
+N	311A	Bird Maiden (a)	R	Sum	C	3.00	2.00	é	1.00
+N	311B	Bird Maiden (b) 	R	Sum	C	2.20	2.00	é	1.00
+N	312	Bottle of Suleiman  	A	M	U	8.00	6.00	ê	5.00
+N	313	Brass Man  	A	ACr	U	3.00	2.00	 	1.80
+N	314	Camel  	W	Sum	C	2.30	2.00	é	1.00
+N	315	City in a Bottle 	A	C	U	15.00	11.00	 	9.30
+N	316	City of Brass  	Be	L	U	11.00	10.00	é	7.50
+N	317	Cuombajj Witches  	B	Sum	C	3.00	2.00	 	1.00
+N	318	Cyclone 	G	E	U	7.00	6.00	é	4.00
+N	319	Dancing Scimitar 	A	ACr	U	6.50	6.00	 	5.00
+N	320	Dandan  	U	Sum	C	2.00	2.00	é	1.00
+N	321	Desert  	Be	L	C	5.00	3.00	é	2.40
+N	322	Desert Nomads  	R	Sum	C	3.30	2.00	 	1.00
+N	323	Desert Twister  	G	Sor	U	6.00	5.00	ê	3.50
+N	324	Diamond Valley  	Be	L	U	25.00	19.00	é	12.50
+N	325	Drop of Honey  	G	E	U	17.25	14.50	é	8.00
+N	326	Ebony Horse  	A	M	U	8.00	6.00	 	5.00
+N	327	El-Hajjaj  	B	Sum	U	7.90	6.00	ê	5.50
+N	328	Elephant Graveyard  	Be	L	U	22.50	15.00	 	11.00
+N	329A	Erg Raiders (a) 	B	Sum	C	1.60	1.00	 	0.70
+N	329B	Erg Raiders (b)	B	Sum	C	1.00	1.00	 	0.70
+N	330	Erhnam Djinn  	G	Sum	U	12.25	9.00	é	6.00
+N	331	Eye for an Eye  	W	Ins	U	9.00	7.00	 	5.30
+N	332A	Fishliver Oil (a)  	U	ECr	C	2.30	1.60	é	1.00
+N	332B	Fishliver Oil (b) 	U	ECr	C	2.00	1.20	é	1.00
+N	333	Flying Carpet  	A	M	U	7.00	6.00	 	4.50
+N	334	Flying Men  	U	Sum	C	3.00	2.00	 	1.30
+N	335	Ghazban Ogre  	G	Sum	C	2.00	1.00	 	1.00
+N	336A	Giant Tortoise (a)	U	Sum	C	2.30	1.00	 	1.00
+N	336B	Giant Tortoise (b) 	U	Sum	C	2.00	1.00	 	1.00
+N	337	Guardian Beast  	B	Sum	U	40.00	32.00	é	22.00
+N	338A	Hasran Ogress (a) 	B	Sum	C	2.00	1.00	 	0.70
+N	338B	Hasran Ogress (b) 	B	Sum	C	2.00	1.00	 	0.70
+N	339	Hurr Jackal  	R	Sum	C	3.10	2.00	 	1.00
+N	340	Ifh-Biff Efreet	G	Sum	U	14.25	9.00	 	6.80
+N	341	Island Fish Jasconius  	U	Sum	U	8.00	7.00	é	5.00
+N	342	Island of Wak-Wak 	Be	L	U	24.25	16.50	é	10.00
+N	343	Jandor's Ring  	A	M	U	7.00	5.00	 	4.30
+N	344	Jandor's Saddlebags  	A	M	U	7.00	5.00	 	4.80
+N	345	Jeweled Bird  	A	M	U	8.00	6.00	 	4.00
+N	346	Jihad  	W	E	U	25.00	20.00	é	12.00
+N	347	Junun Efreet  	B	Sum	U	10.00	8.00	 	5.50
+N	348	Juzam Djinn 	B	Sum	U	15.00	11.00	 	8.50
+N	349	Khabal Ghoul  	B	Sum	U	20.00	16.50	é	10.00
+N	350	King Suleiman  	W	Sum	U	12.75	9.50	ê	8.00
+N	351	Kird Ape  	R	Sum	C	1.30	1.00	 	1.00
+N	352	Library of Alexandria  	Be	L	U	16.75	13.00	 	10.00
+N	353	Magnetic Mountain  	R	E	U	8.00	6.00	 	4.00
+N	354	Merchant Ship  	U	Sum	U	8.00	6.00	 	5.00
+N	355	Metamorphosis  	G	Sor	C	2.00	1.00	 	1.00
+N	356	Mijae Djinn  	R	Sum	U	8.50	6.50	ê	4.50
+N	357A	Moorish Cavalry (a) 	W	Sum	C	4.30	2.80	é	1.90
+N	357B	Moorish Cavalry (b) 	W	Sum	C	4.00	2.30	é	1.40
+N	358	Mountain  	Be	L	U	5.00	3.30	ê	3.00
+N	359A	Nafs Asp (a) 	G	Sum	C	2.30	1.80	é	1.00
+N	359B	Nafs Asp  (b)	G	Sum	C	2.00	1.50	é	1.00
+N	360	Oasis  	Be	L	U	8.00	7.00	é	4.80
+N	361	Old Man of the Sea  	U	Sum	U	25.75	22.50	é	15.00
+N	362A	Oubliette (a)	B	E	C	5.00	4.00	 	3.00
+N	362B	Oubliette (b) 	B	E	C	4.00	3.80	é	1.80
+N	363A	Piety  (a)	W	Ins	C	2.90	2.00	é	1.00
+N	363B	Piety (b)	W	Ins	C	2.60	2.00	é	1.00
+N	364	Pyramids 	A	P	U	20.00	15.00	é	11.00
+N	365	Repentant Blacksmith 	W	Sum	U	10.00	7.50	ê	5.90
+N	366	Ring of Ma'ruf  	A	M	U	15.00	12.00	é	7.50
+N	367A	Rukh Egg (a)	R	Sum	C	6.00	5.00	é	3.00
+N	367B	Rukh Egg (b)	R	Sum	C	6.00	4.50	é	3.00
+N	368	Sandals of Abdallah  	A	M	U	8.00	6.00	 	5.00
+N	369	Sandstorm  	G	Ins	C	3.00	2.00	 	1.00
+N	370	Serendib Djinn 	U	Sum	U	10.00	8.80	é	7.00
+N	371	Serendib Efreet  	U	Sum	U	10.00	9.00	é	5.00
+N	372	Shahrazad 	W	Sor	U	15.00	10.00	 	7.30
+N	373	Sindbad 	U	Sum	U	9.00	6.00	 	4.00
+N	374	Singing Tree 	G	Sum	U	30.00	17.50	é	14.25
+N	375	Sorceress Queen 	B	Sum	U	9.50	8.00	é	5.80
+N	376A	Stone-Throwing Devils (a)	B	Sum	C	3.10	2.00	 	1.90
+N	376B	Stone-Throwing Devils (b)	B	Sum	C	3.00	2.00	 	1.40
+N	377	Unstable Mutation 	U	ECr	C	2.00	1.00	 	0.90
+N	378A	War Elephant (a)	W	Sum	C	4.50	3.50	é	2.30
+N	378B	War Elephant (b) 	W	Sum	C	4.00	3.00	é	2.00
+N	379A	Wyluli Wolf (a)	G	Sum	C	4.00	3.30	é	2.00
+N	379B	Wyluli Wolf (b)	G	Sum	C	4.00	2.80	é	2.00
+N	380	Ydwen Efreet	R	Sum	U	10.00	8.00	 	6.50
+ 	 	TOTAL	 	 	 	811.00	614.20	 	432.85

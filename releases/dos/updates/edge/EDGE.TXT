@@ -1,0 +1,300 @@
+EdgeThe Dirt on Her Exaltedness ...  Nephew            R1
+EdgeGladsteins' Secret               Nephew            R1
+EdgeGlorious Lords' Secret           Nephew            R1
+EdgeGlugs' Secret                    Nephew            R1
+EdgeHermetics' Secret                Nephew            R1
+EdgeKergillian' Secret               Nephew            R1
+EdgePharoahs' Secret                 Nephew            R1
+EdgeTridents' Secret                 Nephew            R1
+EdgeTulpas' Secret                   Nephew            R1
+EdgeThe Dirt on Dr. Nusbaum          Nephew            R2
+EdgeJagannath Adhi                   Walsh             R1
+EdgeAl Amarjan Friends               Nephew            C2
+EdgeDalal Allar                      O'Connor          R1
+EdgeSunshine Allarha                 Kirkbride         R1
+EdgeDalal Allar                      O'Connor          R1
+EdgeSunshine Allarha                 Kirkbride         R1
+EdgeMattias Allemande                O'Connor          R1
+EdgeGhadir Allemi                    Shuler            U1
+EdgeFahd Amaq                        Olson             R2
+EdgeAmok                             Walden            U1
+EdgeAnti-Matter Grenade              Marshall          U2
+EdgeAries Ambush                     Dougherty         U2
+EdgeArmada                           Menges            U1
+EdgeDev Ashana                       Menges            R1
+EdgeAstral Doorway                   Ferguson          U2
+EdgeAstral Flux                      Marshall          C1
+EdgeAstral Interference              Houston           R1
+EdgeAstral Mimicry                   Houston           R1
+EdgeAstral Negatrons                 Walden            R2
+EdgeAstral Wisdom                    Menges            C3
+EdgeAtavism: Ninja                   Slark             R1
+EdgeAura of Evil                     Aulisio/DannheiserR1
+EdgeAura of Evil                     Aulisio/DannheiserR1
+EdgeBad Luck                         Houston           C1
+EdgeBattle Bike                      Raupp             R1
+EdgeBeginner's Luck                  Walsh             U1
+EdgeJulio Beitleiro                  Snyder            U1
+EdgeBellow                           Houston           U2
+EdgeBestial Rampage                  Kirkbride         R1
+EdgeBetelguesan                      Shuler            R1
+EdgeBitter & Herb                    Menges            C2
+EdgeBlackmail                        Walden            C1
+EdgeAvan Bloodlord                   Houston           R1
+EdgeBloodlust                        Raupp             U2
+EdgeBody Double                      Barber            R1
+EdgeAurora Bolt                      Menges            C2
+EdgeMikhail Borisov                  Walden            U1
+EdgeBreak-Bones                      Houston           C2
+EdgeBreakage                         Walden            C1
+EdgeLino Briazzi                     Snyder            U1
+EdgeBreakage                         Walden            C1
+EdgeLino Briazzi                     Snyder            U1
+EdgeBull-Beater                      Shuler            U2
+EdgeBystander Effect                 O'Connor          U1
+EdgeGemma Candiru                    Aulisio/DannheiserU1
+EdgeJames R. Cartwright              Hotz              C2
+EdgeRicardo Cerdo                    Olson             C1
+EdgeRoger Chalk                      Olson             U2
+EdgeCharisma                         Ferguson          R1
+EdgeChikutorpl                       Lancaster         C2
+EdgeMihaly Cieznick                  Houston           U2
+EdgeCloak Ambush                     Walsh             U1
+EdgeCloak Hit                        Walsh             U2
+EdgeSir Arthur Compton               Aulisio/DannheiserR2
+EdgeConcealable Weaponry             O'Connor          C2
+EdgeContacts in the Art Scene        Snyder            C3
+EdgeCopper Dagger                    Menges            R1
+EdgeContacts in the Art Scene        Snyder            C3
+EdgeCopper Dagger                    Menges            R1
+EdgeCoral Entity                     Snyder            R2
+EdgeCounter-Intelligence             Booker            U1
+EdgeCrystal Trap                     Ferguson          C1
+EdgeCut-Ups Machine                  Marshall          R1
+EdgeCyanide Capsule                  Hotz              C1
+EdgeCheryl D'Aubainne                Ferguson          R1
+EdgeConstance D'Aubainne             Ferguson          R1
+EdgeJean-Christophe D'Aubainne       Snyder            R1
+EdgeMonique D'Aubainne               Mandus            R1
+EdgeJoana d'Fabelle                  Olson             C1
+EdgeDark Aura Ring                   Davies            C1
+EdgeDeadly Inspiration               Small             R1
+EdgeDeportation Investigation        Ferguson          U1
+EdgeSilver Detti                     Lancaster         C1
+EdgeDisinformation                   Ferguson          U1
+EdgeDisintegrator Ray                O'Connor          R1
+EdgeDNA Difficulties                 Small             C1
+EdgeDisintegrator Ray                O'Connor          R1
+EdgeDNA Difficulties                 Small             C1
+EdgeCyril Doros                      Walsh             R2
+EdgeDumb Luck                        Walden            C1
+EdgeDuro-Trench                      Walden            C1
+EdgeELF Wave Generator               Walden            R1
+EdgeEmpty                            Mandus            C1
+EdgeAkorra Encombi                   Walsh             U1
+EdgeAdelina Escobar                  Cabral            U2
+EdgeManuela Eselbrust                Rosa              R1
+EdgeAbanobi Famani                   Menges            U2
+EdgeHarry Fang                       Kirkbride         R1
+EdgeLou Farazzi                      Dougherty         C1
+EdgeBen Feather-on-Wind              Shuler            U2
+EdgeMugly Flats                      O'Connor          U1
+EdgeFriends in Arms Barrio           Ferguson          C3
+EdgeFriends in Broken Wings Barrio   Ferguson          C3
+EdgeFriends in Flowers Barrio        Dougherty         C3
+EdgeFriends in Four Points Barrio    Kirkbride         C3
+EdgeFriends in Flowers Barrio        Dougherty         C3
+EdgeFriends in Four Points Barrio    Kirkbride         C3
+EdgeFriends in Golden Barrio         Ferguson          C3
+EdgeFriends in Great Men Barrio      Houston           C3
+EdgeFriends in Sunken Barrio         Walsh             C3
+EdgeFrogbreath                       Houston           C1
+EdgeFury                             Houston           U2
+EdgeGang A-Gley                      Ferguson          U1
+EdgeGenetic Prejudice                Houston           R1
+EdgeFrank Germaine                   Hotz              C2
+EdgeGood Luck                        Houston           C1
+EdgeGremlins                         Menges            R2
+EdgeDeborah Grierson                 Snyder            R1
+EdgeErik Gudne                       Dougherty         R1
+EdgeAnwar Hallajin                   Tobiason          R1
+EdgeUmar Halleen                     Lancaster         R1
+EdgeTwilight Hammer                  Hotz              C1
+EdgeBarber Hammock                   Booker            C1
+EdgeLeif Hardarson                   Dougherty         C1
+EdgeBarber Hammock                   Booker            C1
+EdgeLeif Hardarson                   Dougherty         C1
+EdgeHank Henderson                   Dougherty         R2
+EdgeSaxolf Hermann                   Dougherty         U1
+EdgeHidden Gear                      Kirkbride         U1
+EdgeKunigunde Himmelsbach            Kimble            C1
+EdgeHostage                          Booker            U1
+EdgeHostility Channeler              Houston           C1
+EdgeHostility Detector               Menges            C1
+EdgeHuman Ch'i Gun                   Marshall          R2
+EdgeHypno-Disc                       Marshall          C1
+EdgeIsa Ifaq                         Walsh             C1
+EdgeImmunity                         Walden            U1
+EdgeInspiration                      Olson             U1
+EdgeIntelligence Contacts            Barber            U2
+EdgeInternational Influence          Walsh             R1
+EdgeMamduh Jalla                     Hotz              R1
+EdgeKarmic Assassin                  Slark             R1
+EdgeJohnny Kazoo                     Hotz              U1
+EdgeKarmic Assassin                  Slark             R1
+EdgeJohnny Kazoo                     Hotz              U1
+EdgeKergillian Implant               Shuler            R1
+EdgeKidnap                           Menges            U1
+EdgeHans Knudson                     Raupp             C2
+EdgeJoey Ko                          Kirkbride         U2
+EdgeRigor Kwasek                     Houston           U1
+EdgeLatent Hero                      Dougherty         R2
+EdgeLatent Psychic Attack            Small             R1
+EdgeLatent Strength                  Rosa              R2
+EdgeGeorge Lazarus                   Rosa              R1
+EdgeLee G'won Foo                    Walden            U1
+EdgeLey Line Nexus                   O'Connor          R1
+EdgeLoot                             Houston           C1
+EdgeLope                             Houston           U1
+EdgeLoyalty Conditioning             Lancaster         U1
+EdgeAbel Ludo                        Lancaster         U1
+EdgeGiovanni Mancini                 Tobiason          C2
+EdgeMantra                           Aulisio           C1
+EdgeGiovanni Mancini                 Tobiason          C2
+EdgeMantra                           Aulisio/DannheiserC1
+EdgeArwa Marabu                      Cabral            C1
+EdgeRicardo Martinez                 Dougherty         R1
+EdgeFabrissa Melors                  Shuler            U2
+EdgeMilitary Contacts                Hotz              U2
+EdgeMind Control Messages            Marshall          R1
+EdgeMole                             Kimble            U2
+EdgeMolly, Queen Mother of Baboons   Kirkbride         R2
+EdgeMoney Talks                      Snyder            R1
+EdgeDr. Paulo Montserrat             Olson             U1
+EdgeAkio Morimoto                    Booker            C1
+EdgeMulti-Dimension                  Snyder            U1
+EdgeAbdullah Mustafa                 Cabral            R1
+EdgeMutant Ambush                    Walden            U2
+EdgeMutant Sympathies                Small             U2
+EdgeMutation                         Menges            U2
+EdgeKamorro N'Duban                  Shuler            R1
+EdgeMutation                         Menges            U2
+EdgeKamorro N'Duban                  Shuler            R1
+EdgeNachtmeister                     Houston           R1
+EdgeNano-Tech Medical Machines       Marshall          R1
+EdgeNegative Energy                  Booker            C1
+EdgeNeuro-Star                       Marshall          R1
+EdgeNew Blood                        Ferguson          R1
+EdgeNumber Three                     Aulisio/DannheiserR1
+EdgeDr. Furchtegott Nusbaum          Ferguson          U2
+EdgeMarla Oceana                     Lancaster         U2
+EdgeOppenheimer Contacts             Walsh             C3
+EdgeMartin Oumage                    Lancaster         U1
+EdgePatrol Baboon                    Kirkbride         C2
+EdgeArthur Pendrick                  Walsh             C1
+EdgePistol-Grip Chainsaw             Shuler            C1
+EdgePolymer Clothing                 Walden            C2
+EdgePortable Sub-Sonics              Marshall          R1
+EdgePortia                           Hotz              R1
+EdgePortable Sub-Sonics              Marshall          R1
+EdgePortia                           Hotz              R1
+EdgePossession                       Walden            U1
+EdgePsi Gun                          Houston           R1
+EdgePsychic Flux                     Houston           C1
+EdgePsychic Sensitivity              Houston           C3
+EdgePsychic Singularity              Marshall          R1
+EdgePsychic Virus                    O'Connor          U1
+EdgePsychovore                       Davies            C1
+EdgeJack Rack                        Hotz              U1
+EdgeRadio Laser Satellite            Marshall          R2
+EdgeDinesh Rajpal                    Cabral            C2
+EdgeJonny Rama                       Lancaster         U1
+EdgeRampage                          Kirkbride         R2
+EdgeRansom                           Rosa              C1
+EdgeRavage                           Aulisio/DannheiserR1
+EdgeAsha Rayhar                      Lancaster         R2
+EdgeRed Orca                         Shuler            R1
+EdgeAsha Rayhar                      Lancaster         R2
+EdgeRed Orca                         Shuler            R1
+EdgeReek Rend                        Houston           C1
+EdgeAngela Reyes                     Ferguson          U1
+EdgeRobert Richardson                Walsh             U1
+EdgeRiots                            Hotz              R2
+EdgeCherri Robinson                  Lancaster         C1
+EdgeJ.S. Rocket                      Aulisio/DannheiserC1
+EdgeFernando Rodriguez               Olson             U1
+EdgeRandy Rogers                     Lancaster         U2
+EdgeAleksandr Rominosky              Aulisio/DannheiserU1
+EdgeMars Royale                      Menges            R1
+EdgeDon Rozo                         Lancaster         C1
+EdgePietro Ruffo                     Slark             C1
+EdgeThor Runestone                   Dougherty         U1
+EdgeSabotage                         Barber            U1
+EdgeSACQ                             Ferguson          R1
+EdgeSabotage                         Barber            U1
+EdgeSACQ                             Ferguson          R1
+EdgeJuana Salvador                   Tobiason          U1
+EdgeSeamless Shirt                   Walden            C1
+EdgeSeklut Poison                    Cabral            U1
+EdgeSelf-Actualizer                  Houston           U2
+EdgeVeronica Sellers                 Slark             R1
+EdgeSensitivity                      Houston           C1
+EdgeHavani Shagasemi                 Shuler            R2
+EdgePrem K. Sharma                   Walsh             R1
+EdgeShreds                           Houston           R1
+EdgeSimon Xin                        Snyder            R1
+EdgeGiuseppe Sizo                    Lancaster         U1
+EdgeSlag                             Houston           C1
+EdgeBurford J. Slystick              Ferguson          U1
+EdgeSmear Campaign                   Barber            U2
+EdgeEliza Smith                      Olson             R2
+EdgeSneak                            Kimble            C2
+EdgePeer Solgerkvist                 Dougherty         C2
+EdgeSneak                            Kimble            C2
+EdgePeer Solgerkvist                 Dougherty         C2
+EdgeKarla Sommers                    Davies            R2
+EdgeLinda Sourinen                   Cabral            U1
+EdgeStatus Quo                       Ferguson          R1
+EdgeRaw Steamer                      Houston           C1
+EdgeWheeler Stein                    Kirkbride         U1
+EdgeStinger Mark V                   Shuler            U1
+EdgeStun Gas                         Shuler            U2
+EdgeStun Ray                         Shuler            R1
+EdgeStun Ring                        Shuler            U1
+EdgeSub-Sonics                       Marshall          U1
+EdgeTakeshi Sumanoto                 Shuler            R1
+EdgeSuper-Vitamin Diet               Lancaster         U1
+EdgeMalak Suzier                     Walden            C2
+EdgeSwitch-Flipping                  Menges            R1
+EdgeThe Terminal                     Snyder            R1
+EdgeTerrors                          Dougherty         U1
+EdgeThrockmorton Device              Ferguson          R1
+EdgeTerrors                          Dougherty         U1
+EdgeThrockmorton Device              Ferguson          R1
+EdgeClyde Throckmorton               Ferguson          R1
+EdgeTotal Taxi                       Menges            U2
+EdgeTrade Contacts in the Edge       Ferguson          U2
+EdgeTrident Morale                   Olson             U2
+EdgeTrugga                           Aulisio/DannheiserR1
+EdgeTulpa                            Mandus            U2
+EdgeStefano Turolli                  Olson             R2
+EdgeAli Twine                        Cabral            C1
+EdgeUN Forces                        Olson             R1
+EdgeUnanticipated Influence          Kimble            U1
+EdgeUnderground Trident Headquarters Davies            R1
+EdgeSally Undokku                    Small             C1
+EdgeUnexpected Difficulties          Houston           C1
+EdgeVibe Valiant                     Walsh             C2
+EdgeDmitri Vatsavos                  Cabral            C2
+EdgeVibe Valiant                     Walsh             C2
+EdgeDmitri Vatsavos                  Cabral            C2
+EdgeAndrea Vernon                    Cabral            C1
+EdgeGuglielmo Vigneto                Walsh             U2
+EdgeWard Against Enemies             Rosa              U1
+EdgeWeegzon                          Davies            C1
+EdgeWeird Radiation                  Houston           C1
+EdgeWheel of Fortune                 Slark             U1
+EdgeHolly Winter                     Kimble            U1
+EdgeWiretap                          Barber            U1
+EdgeZipper                           Mandus            C2
+EdgeMary Zule                        Lancaster         R2

@@ -1,0 +1,323 @@
+BEGIN TEMPLATE
+Legends  Scrye on Disk #5
+Series=Legends
+Date=01 15 95
+Fields=9
+3=1
+4=2,Color
+5=3,Type
+6=4,Rarity
+7=10
+8=11
+9=12
+END TEMPLATE
+L	599	Abomination	B	Sum	U	5.00	4.50	4.00
+L	600	Acid Rain	U	Sor	R	14.25	10.00	8.00
+L	601	Active Volcano	R	Ins	C	1.00	0.50	0.30
+L	602	Adun Oakenshield	Gld	SmL	R	12.00	12.00	9.00
+L	603	Adventurer's Guildhouse	Be	L	U	3.00	3.00	2.00
+L	604	Aisling Leprechaun	G	Sum	C	1.00	0.60	0.50
+L	605	Akron Legionnaire	W	Sum	R	12.00	10.00	8.00
+L	606	Al-abara's Carpet	Be	A	R	12.00	10.00	8.00
+L	607	Alabaster Potion	W	Ins	C	1.00	0.50	0.40
+L	608	Alchor's Tomb	Be	A	R	10.00	9.00	8.00
+L	609	All Hallow's Eve	B	Sor	R	19.00	15.00	12.75
+L	610	Amrou Kithkin	W	Sum	C	1.00	0.50	0.30
+L	611	Angelic Voices	W	E	R	14.00	11.50	7.50
+L	612	Angus Mackenzie	Gld	SmL	R	12.00	9.30	8.00
+L	613	Anti-Magic Aura	U	ECr	C	1.00	1.00	0.90
+L	614	Arboria	G	EW	U	4.00	4.00	3.00
+L	615	Arcades Sabboth	Gld	Sum	R	25.00	23.00	20.00
+L	616	Arena of the Ancients	Be	A	R	10.00	9.00	8.00
+L	617	Avoid Fate	G	Int	C	1.00	0.80	0.30
+L	618	Axelrod Gunnarson	Gld	SmL	R	12.00	10.00	8.80
+L	619	Ayesha Tanaka	Gld	SmL	R	10.00	10.00	8.00
+L	620	Azure Drake	U	Sum	U	5.00	4.00	3.00
+L	621	Backdraft	R	Ins	U	4.00	3.00	3.00
+L	622	Backfire	U	ECr	U	4.00	3.50	3.00
+L	623	Barbary Apes	G	Sum	C	1.00	0.50	0.40
+L	624	Barktooth Warbeard	Gld	SmL	U	6.00	5.00	4.00
+L	625	Bartel Runeaxe	Gld	SmL	R	11.25	9.50	7.60
+L	626	Beasts of Bogardan	R	Sum	U	5.00	4.00	3.20
+L	627	Black Mana Battery	Be	A	U	7.90	6.50	5.00
+L	628	Blazing Effigy	R	Sum	C	1.00	0.50	0.30
+L	629	Blight	B	EL	U	4.00	4.00	3.00
+L	630	Blood Lust	R	Ins	U	6.30	5.80	3.80
+L	631	Blue Mana Battery	Be	A	U	7.00	6.00	5.00
+L	632	Boomerang	U	Ins	C	1.00	0.50	0.30
+L	633	Boris Devilboon	Gld	SmL	R	12.00	11.00	8.90
+L	634	Brine Hag	U	Sum	U	5.00	4.00	3.00
+L	635	Bronze Horse	Be	ACr	R	10.00	8.30	6.00
+L	636	Carrion Ants	B	Sum	R	22.50	20.00	15.00
+L	637	Cat Warriors	G	Sum	C	1.00	0.50	0.40
+L	638	Cathedral of Serra	Be	L	U	3.30	3.00	3.00
+L	639	Caverns of Despair	R	EW	R	10.00	9.50	7.80
+L	640	Chain Lightning	R	Sor	C	1.00	0.90	0.70
+L	641	Chains of Mephistopheles	B	E	R	12.00	10.00	8.00
+L	642	Chromium	Gld	SmL	R	24.25	22.50	19.50
+L	643	Cleanse	W	Sor	R	15.00	12.00	10.50
+L	644	Clergy of the Holy Nimbus	W	Sum	C	1.00	0.80	0.30
+L	645	Cocoon	G	ECr	U	5.00	4.50	3.00
+L	646	Concordant Crossroads	G	EW	R	10.00	9.50	8.40
+L	647	Cosmic Horror	B	Sum	R	11.00	10.00	8.00
+L	648	Craw Giant	G	Sum	U	9.80	7.00	5.30
+L	649	Crevasse	R	E	U	4.00	3.80	3.40
+L	650	Crimson Kobolds	R	Sum	C	1.00	0.60	0.40
+L	651	Crimson Manticore	R	Sum	R	10.00	9.00	8.00
+L	652	Crookshank Kobolds	R	Sum	C	1.00	0.60	0.40
+L	653	Cyclopean Mummy	B	Sum	C	1.00	0.60	0.30
+L	654	D'Avenant Archer	W	Sum	C	1.00	1.00	0.50
+L	655	Dakkon Blackblade	Gld	SmL	R	23.00	18.00	15.00
+L	656	Darkness	B	Ins	C	1.00	1.00	1.00
+L	657	Deadfall	G	E	U	4.00	3.00	3.00
+L	658	Demonic Torment	B	ECr	U	5.00	3.60	3.00
+L	659	Devouring Deep	U	Sum	C	1.00	1.00	0.50
+L	660	Disharmony	R	Ins	R	10.50	10.00	7.00
+L	661	Divine Intervention	W	E	R	11.25	10.25	8.40
+L	662	Divine Offering	W	Ins	C	1.00	1.00	0.50
+L	663	Divine Transformation	W	ECr	R	13.25	10.50	6.00
+L	664	Dream Coat	U	ECr	U	4.00	3.00	3.00
+L	665	Durkwood Boars	G	Sum	C	1.00	0.90	0.50
+L	666	Dwarven Song	R	Ins	U	4.00	3.00	3.00
+L	667	Elder Land Wurm	W	Sum	R	12.00	10.00	8.50
+L	668	Elder Spawn	U	Sum	R	10.00	9.00	8.00
+L	669	Elven Riders	G	Sum	R	10.25	10.00	9.00
+L	670	Emerald Dragonfly	G	Sum	C	1.00	0.50	0.30
+L	671	Enchanting Being	W	Sum	C	1.00	1.00	0.70
+L	672	Enchantment Alteration	U	Ins	C	1.50	1.00	0.50
+L	673	Energy Tap	U	Sor	C	1.00	1.00	0.50
+L	674	Equinox	W	EL	C	1.20	1.00	1.00
+L	675	Eternal Warrior	R	ECr	U	6.00	4.50	3.80
+L	676	Eureka	G	Sor	R	15.00	14.00	10.50
+L	677	Evil Eye of Orms-By-Gore	B	Sum	U	5.00	4.00	3.00
+L	678	Fallen Angel	B	Sum	U	6.30	6.00	4.00
+L	679	Falling Star	R	Sor	R	12.00	10.00	8.50
+L	680	Feint	R	Ins	C	1.00	1.00	0.70
+L	681	Field of Dreams	U	EW	R	10.00	8.30	8.00
+L	682	Fire Sprites	G	Sum	C	1.00	1.00	0.70
+L	683	Firestorm Phoenix	R	Sum	R	16.50	15.50	9.80
+L	684	Flash Counter	U	Int	C	1.00	0.90	0.40
+L	685	Flash Flood	U	Ins	C	1.10	1.00	0.50
+L	686	Floral Spuzzem	G	Sum	U	4.00	4.00	3.60
+L	687	Force Spike	U	Int	C	1.10	0.90	0.50
+L	688	Forethought Amulet	Be	A	R	12.75	10.00	7.50
+L	689	Fortified Area	W	E	U	4.00	3.10	3.00
+L	690	Frost Giant	R	Sum	U	5.00	4.00	3.50
+L	691	Gabriel Angelfire	Gld	SmL	R	14.00	11.50	10.00
+L	692	Gaseous Form	U	ECr	C	1.00	1.00	0.70
+L	693	Gauntlets of Chaos	Be	A	R	13.00	11.00	10.00
+L	694	Ghosts of the Damned	B	Sum	C	1.00	0.90	0.40
+L	695	Giant Slug	B	Sum	C	1.00	1.00	0.50
+L	696	Giant Strength	R	ECr	C	1.00	0.90	0.40
+L	697	Giant Turtle	G	Sum	C	1.00	0.90	0.50
+L	698	Glyph of Delusion	U	Ins	C	1.00	1.00	0.40
+L	699	Glyph of Destruction	R	Ins	C	1.00	1.00	0.40
+L	700	Glyph of Doom	B	Ins	C	1.00	1.00	0.40
+L	701	Glyph of Life	W	Ins	C	1.00	1.00	0.40
+L	702	Glyph of Reincarnation	G	Ins	C	1.00	0.90	0.40
+L	703	Gosta Dirk	Gld	SmL	R	10.00	10.00	8.00
+L	704	Gravity Sphere	R	EW	R	16.00	12.00	10.00
+L	705	Great Defender	W	Ins	U	4.40	3.90	3.00
+L	706	Great Wall	W	E	U	4.00	3.00	3.00
+L	707	Greater Realm of Preservation	W	E	U	7.10	5.00	3.80
+L	708	Greed	B	E	R	10.00	8.30	7.10
+L	709	Green Mana Battery	Be	A	U	7.00	6.00	5.00
+L	710	Gwendlyn Di Corci	Gld	SmL	R	12.00	10.00	9.00
+L	711	Halfdane	Gld	SmL	R	10.50	10.00	8.50
+L	712	Hammerheim	Be	LL	U	4.00	3.50	3.00
+L	713	Hazezon Tamar	Gld	SmL	R	15.75	12.00	10.50
+L	714	Headless Horseman	B	Sum	C	1.00	0.90	0.50
+L	715	Heaven's Gate	W	Ins	U	4.00	3.00	3.00
+L	716	Hell Swarm	B	Ins	C	1.00	1.00	0.50
+L	717	Hell's Caretaker	B	Sum	R	15.00	12.00	10.00
+L	718	Hellfire	B	Sor	R	15.00	12.00	10.00
+L	719	Holy Day	W	Ins	C	1.00	0.80	0.50
+L	720	Horn of Deafening	Be	A	R	10.00	9.00	8.00
+L	721	Hornet Cobra	G	Sum	C	1.00	0.60	0.50
+L	722	Horror of Horrors	B	E	U	5.00	4.30	4.00
+L	723	Hunding Gjornersen	Gld	SmL	U	6.00	4.50	4.00
+L	724	Hyperion Blacksmith	R	Sum	U	4.30	3.80	3.00
+L	725	Ichneumon Druid	G	Sum	U	5.00	4.00	3.00
+L	726	Immolation	R	ECr	C	1.00	0.60	0.50
+L	727	Imprison	B	ECr	R	10.00	10.00	8.50
+L	728	In the Eye of Chaos	U	EW	R	10.50	9.50	7.90
+L	729	Indestrucible Aura	W	Ins	C	1.00	0.70	0.40
+L	730	Infernal Medusa	B	Sum	U	6.00	5.00	4.00
+L	731	Infinite Authority	W	ECr	R	12.00	9.30	7.80
+L	732	Invoke Prejudice	U	E	R	12.75	11.00	9.80
+L	733	Ivory Guardians	W	Sum	U	5.00	4.00	3.00
+L	734	Jacques le Vert	Gld	SmL	R	12.00	10.00	8.50
+L	735	Jasmine Boreal	Gld	SmL	U	5.50	4.00	3.90
+L	736	Jedit Ojanen	Gld	SmL	U	6.00	5.00	4.00
+L	737	Jerrard of the Closed Fist	Gld	SmL	U	6.00	5.00	4.00
+L	738	Johan	Gld	SmL	R	16.00	15.00	12.00
+L	739	Jovial Evil	B	Sor	R	11.50	10.00	7.80
+L	740	Juxtapose	U	Sor	R	10.00	10.00	7.50
+L	741	Karakas	Be	LL	U	5.00	3.00	3.00
+L	742	Kasimir the Lone Wolf	Gld	SmL	U	6.00	4.00	3.50
+L	743	Keepers of the Faith	W	Sum	C	1.00	0.80	0.50
+L	744	Kei Takahashi	Gld	SmL	R	12.00	10.00	8.00
+L	745	Killer Bees	G	Sum	R	20.00	15.00	12.00
+L	746	Kismet	W	E	U	7.50	6.00	5.00
+L	747	Knowledge Vault	Be	A	R	10.00	9.30	7.50
+L	748	Kobold Drill Sergeant	R	Sum	U	5.90	5.00	4.40
+L	749	Kobold Overlord	R	Sum	R	13.00	10.00	9.00
+L	750	Kobold Taskmaster	R	Sum	U	6.00	4.00	4.00
+L	751	Kobolds of Kher Keep	R	Sum	C	1.00	0.70	0.40
+L	752	Kry Shield	Be	A	U	4.00	3.00	3.00
+L	753	Lady Caleria	Gld	SmL	R	12.00	10.00	8.00
+L	754	Lady Evangela	Gld	SmL	R	11.00	9.00	8.00
+L	755	Lady Orca	Gld	SmL	U	6.00	5.00	4.00
+L	756	Land Equilibrium	U	E	R	10.00	10.00	7.40
+L	757	Land Tax	W	E	U	6.00	5.00	4.00
+L	758	Land's Edge	R	EW	R	12.50	10.00	7.60
+L	759	Lesser Werewolf	B	Sum	U	5.30	4.50	3.90
+L	760	Life Chisel	Be	A	U	5.00	4.00	3.50
+L	761	Life Matrix	Be	A	R	12.00	10.00	8.80
+L	762	Lifeblood	W	E	R	11.00	8.80	7.50
+L	763	Living Plane	G	EW	R	12.00	10.00	10.00
+L	764	Livonya Silone	Gld	SmL	R	12.00	10.00	9.00
+L	765	Lord Magnus	Gld	SmL	U	6.00	5.00	4.00
+L	766	Lost Soul	B	Sum	C	1.00	0.60	0.30
+L	767	Mana Drain	U	Int	U	7.30	5.00	3.90
+L	768	Mana Matrix	Be	A	R	12.00	10.00	8.00
+L	769	Marble Priest	Be	ACr	U	4.40	4.00	3.50
+L	770	Marhault Elsdragon	Gld	SmL	U	6.00	6.00	4.00
+L	771	Master of the Hunt	G	Sum	R	19.50	17.00	13.50
+L	772	Mirror Universe	Be	A	R	30.00	24.00	19.25
+L	773	Moat	W	E	R	16.00	14.00	12.00
+L	774	Mold Demon	B	Sum	R	10.00	10.00	8.50
+L	775	Moss Monster	G	Sum	C	1.00	0.60	0.50
+L	776	Mountain Stronghold	Be	L	U	3.00	3.00	3.00
+L	777	Mountain Yeti	R	Sum	U	5.30	4.10	3.90
+L	778	Nebuchadnezzar	Gld	SmL	R	15.00	14.50	11.25
+L	779	Nether Void	B	EW	R	14.00	9.50	8.60
+L	780	Nicol Bolas	Gld	SmL	R	25.00	25.00	21.00
+L	781	North Star	Be	A	R	15.00	12.50	10.00
+L	782	Nova Pentacle	Be	A	R	12.75	10.00	7.60
+L	783	Osai Vultures	W	Sum	C	1.00	1.00	0.50
+L	784	Palladia-Mors	Gld	SmL	R	24.75	22.75	20.00
+L	785	Part Water	U	Sor	U	4.00	3.40	3.00
+L	786	Pavel Maliki	Gld	SmL	U	6.00	4.00	4.00
+L	787	Pendelhaven	Be	LL	U	4.00	3.50	3.00
+L	788	Petra Sphinx	W	Sum	R	11.00	10.00	8.00
+L	789	Pit Scorpion	B	Sum	C	1.00	1.00	0.80
+L	790	Pixie Queen	G	Sum	R	11.25	9.50	6.80
+L	791	Planar Gate	Be	A	R	12.75	10.75	8.00
+L	792	Pradesh Gypsies	G	Sum	U	4.00	3.80	3.20
+L	793	Presence of the Master	W	E	U	6.00	5.00	4.40
+L	794	Primordial Ooze	R	Sum	U	5.00	4.00	3.00
+L	795	Princess Lucrezia	Gld	SmL	U	6.00	4.00	4.00
+L	796	Psionic Entity	U	Sum	R	10.00	8.00	7.00
+L	797	Psychic Purge	U	Sor	C	1.00	1.00	0.50
+L	798	Puppet Master	U	ECr	U	4.30	4.00	3.00
+L	799	Pyrotechnics	R	Sor	C	1.00	0.80	0.70
+L	800	Quagmire	B	E	U	4.00	3.30	3.00
+L	801	Quarum Trench Gnomes	R	Sum	R	10.00	9.00	7.00
+L	802	Rabid Wombat	G	Sum	U	7.50	7.00	5.00
+L	803	Radjan Spirit	G	Sum	U	5.00	4.00	3.00
+L	804	Raging Bull	R	Sum	C	1.00	0.80	0.40
+L	805	Ragnar	Gld	SmL	R	10.25	8.30	7.00
+L	806	Ramirez DePietro	Gld	SmL	U	6.00	4.00	4.00
+L	807	Ramses Overdark	Gld	SmL	R	13.00	11.50	8.00
+L	808	Rapid Fire	W	Ins	R	8.70	8.00	5.80
+L	809	Rasputin Dreamweaver	Gld	SmL	R	12.00	10.00	9.00
+L	810	(Ae)rathi Berserker	R	Sum	U	5.00	4.30	3.00
+L	811	Rebirth	G	Sor	R	10.00	8.80	7.90
+L	812	Recall	U	Sor	R	12.00	12.00	8.00
+L	813	Red Mana Battery	Be	A	U	7.00	6.00	5.00
+L	814	Reincarnation	G	Ins	U	4.00	4.00	3.50
+L	815	Relic Barrier	Be	A	U	4.00	3.30	3.00
+L	816	Relic Bind	U	EArt	U	4.00	4.00	3.00
+L	817	Remove Enchantments	W	Ins	C	1.00	1.00	0.50
+L	818	Remove Soul	U	Int	C	1.00	0.70	0.50
+L	819	Reset	U	Int	U	5.30	5.00	4.00
+L	820	Revelation	G	EW	R	10.25	8.80	7.90
+L	821	Reverberation	U	Ins	R	10.50	10.00	8.00
+L	822	Righteous Avengers	W	Sum	U	5.00	4.00	3.50
+L	823	Ring of Immortals	Be	A	R	12.00	9.00	7.50
+L	824	Riven Turnbull	Gld	SmL	U	6.00	4.30	4.00
+L	825	Rohgahh of Kher Keep	Gld	SmL	R	14.00	12.00	10.00
+L	826	Rubinia Soulsinger	Gld	SmL	R	18.00	13.50	9.80
+L	827	Rust	G	Int	C	1.00	0.50	0.40
+L	828	Sea King's Blessing	U	Ins	U	4.00	3.00	3.00
+L	829	Seafarer's Quay	Be	L	U	3.00	3.00	3.00
+L	830	Seeker	W	ECr	U	4.60	4.00	3.40
+L	831	Segovian Leviathan	U	Sum	U	4.00	3.00	3.00
+L	832	Sentinel	Be	ACr	R	10.00	9.00	7.50
+L	833	Serpent Generator	Be	A	R	15.00	15.00	13.50
+L	834	Shelkin Brownie	G	Sum	C	1.00	0.90	0.50
+L	835	Shield Wall	W	Ins	U	4.00	3.40	3.00
+L	836	Shimian Night Stalker	B	Sum	U	6.00	5.00	4.00
+L	837	Silhouette	U	Ins	U	4.00	3.00	3.00
+L	838	Sir Shandlar of Eberyn	Gld	SmL	U	6.00	4.30	4.00
+L	839	Sivitri Scarzam	Gld	SmL	U	6.00	4.50	4.00
+L	840	Sol'kanar the Swamp King	Gld	SmL	R	20.00	17.00	11.00
+L	841	Spectral Cloak	U	ECr	U	5.40	4.50	3.80
+L	842	Spinal Villian	R	Sum	R	15.00	12.00	9.00
+L	843	Spirit Link	W	ECr	U	10.00	6.00	5.00
+L	844	Spirit Shackle	B	ECr	C	1.00	1.00	0.90
+L	845	Spiritual Sanctuary	W	E	R	10.00	9.30	7.00
+L	846	Stangg	Gld	SmL	R	12.00	10.00	9.00
+L	847	Storm Seeker	G	Ins	U	8.00	7.00	5.10
+L	848	Storm World	R	EW	R	10.00	10.00	7.80
+L	849	Subdue	G	Ins	C	1.00	0.80	0.50
+L	850	Sunastian Falconer	Gld	SmL	U	5.50	5.00	4.00
+L	851	Sword of the Ages	Be	A	R	20.00	17.00	12.25
+L	852	Sylvan Library	G	E	U	6.00	5.00	4.40
+L	853	Sylvan Paradise	G	Ins	U	4.00	4.00	3.40
+L	854	Syphon Soul	B	Sor	C	1.00	1.00	0.80
+L	855	Takklemaggot	B	ECr	U	4.00	4.00	3.00
+L	856	Telekinesis	U	Ins	R	10.00	8.50	7.00
+L	857	Teleport	U	Ins	R	10.00	9.00	8.00
+L	858	Tempest Efreet	R	Sum	R	10.00	8.50	7.50
+L	859	Tetsuo Umezawa	Gld	SmL	R	15.00	12.50	12.00
+L	860	The Abyss	B	EW	R	15.00	12.00	10.00
+L	861	The Brute	R	ECr	C	1.00	1.00	0.50
+L	862	The Lady of the Mountain	Gld	SmL	U	6.00	4.50	4.00
+L	863	The Tabernacle at Pendrell Vale	Be	LL	R	15.00	12.00	10.00
+L	864	The Wretched	B	Sum	R	23.75	18.00	13.25
+L	865	Thunder Spirit	W	Sum	R	15.75	13.00	10.50
+L	866	Time Elemental	U	Sum	R	18.50	12.25	11.50
+L	867	Tobias Andrion	Gld	SmL	U	6.00	4.00	3.80
+L	868	Tolaria	Be	LL	U	4.00	4.00	3.00
+L	869	Tor Wauki	Gld	SmL	U	6.00	5.00	5.00
+L	870	Torsten Von Ursus	Gld	SmL	U	6.00	4.00	4.00
+L	871	Touch of Darkness	B	Ins	U	4.00	4.00	3.40
+L	872	Transmutation	B	Ins	C	1.00	1.00	0.70
+L	873	Triassic Egg	Be	A	R	10.00	10.00	8.00
+L	874	Tuknir Deathlock	Gld	SmL	R	12.00	9.50	7.90
+L	875	Tundra Wolves	W	Sum	C	1.00	1.00	0.50
+L	876	Typhoon	G	Sor	R	10.50	8.90	6.80
+L	877	Undertow	U	E	U	4.00	3.00	3.00
+L	878	Underworld Dreams	B	E	U	9.00	8.00	7.00
+L	879	Unholy Citadel	Be	L	U	3.00	3.00	3.00
+L	880	Untamed Wilds	G	Sor	U	4.60	4.00	3.20
+L	881	Ur-Drago	Gld	SmL	R	12.00	10.00	8.00
+L	882	Urborg	Be	LL	U	4.00	3.00	3.00
+L	883	Vaevictis Asmadi	Gld	SmL	R	24.75	23.00	20.00
+L	884	Vampire Bats	B	Sum	C	1.00	0.60	0.40
+L	885	Venarian Gold	U	ECr	C	1.00	1.00	0.50
+L	886	Visions	W	Sor	U	5.00	4.00	3.40
+L	887	Voodoo Doll	Be	A	R	10.00	9.50	8.00
+L	888	Walking Dead	B	Sum	C	1.00	0.60	0.40
+L	889	Wall of Caltrops	W	Sum	C	1.00	1.00	0.50
+L	890	Wall of Dust	R	Sum	U	4.00	3.00	2.80
+L	891	Wall of Earth	R	Sum	C	1.00	0.90	0.60
+L	892	Wall of Heat	R	Sum	C	1.00	1.00	1.00
+L	893	Wall of Light	W	Sum	U	4.00	4.00	3.30
+L	894	Wall of Opposition	R	Sum	R	10.25	9.30	7.30
+L	895	Wall of Putrid Flesh	B	Sum	U	4.50	4.00	3.00
+L	896	Wall of Shadows	B	Sum	C	1.00	1.00	1.00
+L	897	Wall of Tombstones	B	Sum	U	4.10	4.00	3.90
+L	898	Wall of Vapor	U	Sum	C	1.00	0.80	0.40
+L	899	Wall of Wonder	U	Sum	U	4.10	4.00	4.00
+L	900	Whirling Dervish	G	Sum	U	6.10	6.00	4.80
+L	901	White Mana Battery	Be	A	U	6.60	6.00	5.80
+L	902	Willow Satyr	G	Sum	R	12.00	10.00	8.60
+L	903	Winds of Change	R	Sor	U	5.30	4.00	3.80
+L	904	Winter Blast	G	Sor	R	11.75	10.00	7.80
+L	905	Wolverine Pack	G	Sum	C	1.00	0.70	0.50
+L	906	Wood Elemental	G	Sum	R	10.00	8.00	7.40
+L	907	Xira Arien	Gld	SmL	R	12.00	10.00	9.80
+L	908	Zephyr Falcon	U	Sum	C	1.00	1.00	0.60

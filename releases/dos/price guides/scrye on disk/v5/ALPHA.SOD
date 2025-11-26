@@ -1,0 +1,308 @@
+BEGIN TEMPLATE
+MTG: Alpha  Scrye on Disk #5
+Series=MTG: Alpha Edition
+Date=01 15 95
+Fields=9
+3=1
+4=2,Color
+5=3,Type
+6=4,Rarity
+7=10
+8=11
+9=12
+END TEMPLATE
+A	1	Air Elemental	U	Sum	U	4.20	3.10	3.00
+A	2	Ancestral Recall	U	Ins	R	52.50	48.00	40.00
+A	3	Animate Artifact	U	EArt	U	3.00	3.00	3.00
+A	4	Animate Dead	B	EDCr	U	3.80	3.00	2.30
+A	5	Animate Wall	W	EW	R	9.80	8.50	7.30
+A	6	Ankh of Mishra	A	C	R	10.00	8.50	6.30
+A	7	Armageddon	W	Sor	R	15.00	12.00	10.00
+A	8	Aspect of Wolf	G	ECr	R	12.75	11.00	10.00
+A	9	Bad Moon	B	E	R	12.75	12.00	10.50
+A	10	Badlands	B/R	DL	R	15.00	14.25	12.50
+A	11	Balance	W	Sor	R	12.00	11.50	8.80
+A	12	Basalt Monolith	A	M	U	4.40	3.50	3.00
+A	13	Bayou	B/G	DL	R	15.00	14.00	12.25
+A	14	Benalish Hero	W	Sum	C	1.30	1.00	0.50
+A	15	Berserk	G	Ins	U	22.75	19.50	15.75
+A	16	Birds of Paradise	G	Sum	R	13.75	12.50	11.00
+A	17	Black Knight	B	Sum	U	5.30	4.00	3.80
+A	18	Black Lotus	A	M	R	145.00	122.50	102.50
+A	19	Black Vise	A	C	U	5.00	4.00	3.00
+A	20	Black Ward	W	ECr	U	2.40	2.00	2.00
+A	21	Blaze of Glory	W	Ins	R	40.00	30.00	30.00
+A	22	Blessing	W	ECr	R	13.00	13.00	9.00
+A	23	Blue Elemental Blast	U	Int	C	1.10	1.00	0.50
+A	24	Blue Ward	W	ECr	U	2.50	2.00	2.00
+A	25	Bog Wraith	B	Sum	U	4.30	4.00	3.00
+A	26	Braingeyser	U	Sor	R	12.75	12.00	10.50
+A	27	Burrowing	R	ECr	U	3.00	2.50	2.00
+A	28	Camouflage	G	Ins	U	12.25	10.00	8.90
+A	29	Castle	W	E	U	3.80	2.80	2.10
+A	30	Celestial Prism	A	M	U	4.80	3.50	3.00
+A	31	Channel	G	Sor	U	6.00	5.00	3.50
+A	32	Chaos Orb	A	M	R	61.25	50.00	37.50
+A	33	Chaoslace	R	Int	R	8.80	5.00	4.30
+A	34	CoP:Blue	W	E	C	1.10	1.00	0.90
+A	35	CoP:Green	W	E	C	1.10	1.00	0.90
+A	36	CoP:Red	W	E	C	1.50	1.00	1.00
+A	37	CoP:White	W	E	C	1.10	1.00	0.90
+A	38	Clockwork Beast	A	Cr	R	11.50	10.50	9.30
+A	39	Clone	U	Sum	U	4.50	4.00	3.00
+A	40	Cockatrice	G	Sum	R	12.00	12.00	10.50
+A	41	Consecrate Land	W	EL	U	13.25	11.50	9.90
+A	42	Conservator	A	M	U	3.00	2.80	2.10
+A	43	Contract from Below	B	Sor	R	10.00	10.00	5.50
+A	44	Control Magic	U	ECr	U	4.80	3.50	2.60
+A	45	Conversion	W	E	U	3.50	3.00	2.50
+A	46	Copper Tablet	A	C	U	11.00	9.00	6.50
+A	47	Copy Artifact	U	E	R	9.50	8.00	5.80
+A	48	Counterspell	U	Int	U	4.80	4.00	3.30
+A	49	Craw Wurm	G	Sum	C	1.60	1.30	1.00
+A	50	Creature Bond	U	ECr	C	1.30	1.00	0.50
+A	51	Crusade	W	E	R	12.75	12.00	12.00
+A	52	Crystal Rod	A	P	U	4.00	3.00	2.00
+A	53	Cursed Land	B	EL	U	3.80	3.00	2.30
+A	54	Cyclopean Tomb	A	M	R	60.00	50.00	50.00
+A	55	Dark Ritual	B	Int	C	1.60	1.30	0.50
+A	56	Darkpact	B	Sor	R	10.00	10.00	5.50
+A	57	Death Ward	W	Ins	C	1.60	1.00	0.90
+A	58	Deathgrip	B	E	U	4.00	3.50	3.00
+A	59	Deathlace	B	Int	R	8.30	5.50	4.30
+A	60	Demonic Attorney	B	Sor	R	9.00	7.50	5.30
+A	61	Demonic Hordes	B	Sum	R	21.25	20.00	17.75
+A	62	Demonic Tutor	B	Sor	U	5.80	4.50	4.00
+A	63	Dingus Egg	A	C	R	12.00	9.50	6.30
+A	64	Disenchant	W	Ins	C	1.80	1.00	0.80
+A	65	Disintegrate	R	Sor	C	1.80	1.00	0.90
+A	66	Disrupting Scepter	A	M	R	9.50	7.50	6.30
+A	67	Dragon Whelp	R	Sum	U	5.50	5.00	3.00
+A	68	Drain Life	B	Sor	C	1.50	1.00	1.00
+A	69	Drain Power	U	Sor	R	11.00	10.00	9.50
+A	70	Drudge Skeletons	B	Sum	C	1.10	1.00	0.90
+A	71	Dwarven Demolition Team	R	Sum	U	10.50	8.00	7.00
+A	72	Dwarven Warriors	R	Sum	C	1.10	1.00	0.50
+A	73	Earth Elemental	R	Sum	U	3.50	3.00	2.50
+A	74	Earthbind	R	ECr	C	1.10	1.00	0.50
+A	75	Earthquake	R	Sor	R	11.75	10.50	10.00
+A	76	Elvish Archers	G	Sum	R	15.50	12.00	9.50
+A	77	Evil Presence	B	EL	U	3.00	3.00	2.00
+A	78	False Orders	R	Ins	C	8.00	5.00	3.90
+A	79	Farmstead	W	E	R	10.00	8.50	6.30
+A	80	Fastbond	G	E	R	9.00	9.00	8.30
+A	81	Fear	B	ECr	C	1.30	1.00	0.50
+A	82	Feedback	U	EE	U	3.80	2.50	2.00
+A	83	Fire Elemental	R	Sum	U	4.00	3.50	2.60
+A	84	Fireball	R	Sor	C	1.60	1.00	1.00
+A	85	Firebreathing	R	ECr	C	1.10	1.00	0.50
+A	86	Flashfires	R	Sor	U	3.50	3.00	2.50
+A	87	Flight	U	ECr	C	1.10	1.00	0.50
+A	88	Fog	G	Ins	C	1.10	1.00	0.60
+A	89	Force of Nature	G	Sum	R	25.00	25.00	20.00
+A	90	Forcefield	A	P	R	70.00	60.00	45.00
+A	91	Forest Path	G	L	C	0.50	0.20	0.20
+A	92	Forest Rocks	G	L	C	0.50	0.20	0.20
+A	93	Fork	R	Int	R	16.00	15.00	15.00
+A	94	Frozen Shade	B	Sum	C	1.10	1.00	0.50
+A	95	Fungusaur	G	Sum	R	12.00	11.50	10.25
+A	96	Gaea's Liege	G	Sum	R	20.00	20.00	17.00
+A	97	Gauntlet of Might	A	C	R	75.00	60.00	30.00
+A	98	Giant Growth	G	Ins	C	1.10	0.80	0.50
+A	99	Giant Spider	G	Sum	C	1.10	0.80	0.50
+A	100	Glasses of Urza	A	M	U	4.00	3.50	2.60
+A	101	Gloom	B	E	U	4.50	3.00	3.00
+A	102	Goblin Balloon Brigade	R	Sum	U	2.80	2.00	2.00
+A	103	Goblin King	R	Sum	R	15.75	15.00	14.25
+A	104	Granite Gargoyle	R	Sum	R	12.75	11.50	8.80
+A	105	Gray Ogre	R	Sum	C	1.10	1.00	0.50
+A	106	Green Ward	W	E	U	2.00	2.00	2.00
+A	107	Grizzly Bears	G	Sum	C	1.10	1.00	0.50
+A	108	Guardian Angel	W	Ins	C	1.30	1.00	0.50
+A	109	Healing Salve	W	Ins	C	1.30	1.00	0.50
+A	110	Helm of Chatzuk	A	M	R	12.00	9.50	5.50
+A	111	Hill Giant	R	Sum	C	1.30	1.00	0.50
+A	112	Holy Armor	W	ECr	C	1.30	1.00	0.50
+A	113	Holy Strength	W	ECr	C	1.30	1.00	0.50
+A	114	Howl from Beyond	B	Ins	C	1.10	1.00	0.50
+A	115	Howling Mine	A	C	R	13.00	10.00	8.00
+A	116	Hurloon Minotaur	R	Sum	C	1.10	0.80	0.50
+A	117	Hurricane	G	Sor	U	3.80	3.00	3.00
+A	118	Hypnotic Specter	B	Sum	U	6.00	5.00	4.00
+A	119	Ice Storm	G	Sor	U	12.50	10.00	9.30
+A	120	Icy Manipulator	A	M	U	50.00	40.00	34.00
+A	121	Illusionary Mask	A	P	R	40.00	40.00	35.75
+A	122	Instill Energy	G	ECr	U	4.30	3.00	2.00
+A	123	Invisibility	U	ECr	C	7.90	5.50	5.00
+A	124	Iron Star	A	P	U	3.00	2.50	2.00
+A	125	Ironclaw Orcs	R	Sum	C	4.00	3.00	2.40
+A	126	Ironroot Treefolk	G	Sum	C	1.10	1.00	0.50
+A	127	Island Sanctuary	W	E	R	14.00	12.00	7.50
+A	128	Island Blue	U	L	C	0.40	0.20	0.20
+A	129	Island Golden	U	L	C	0.60	0.40	0.20
+A	130	Ivory Cup	A	P	U	3.30	3.00	2.00
+A	131	Jade Monolith	A	P	R	10.00	10.00	8.00
+A	132	Jade Statue	A	M	U	14.25	11.00	9.60
+A	133	Jayemdae Tome	A	M	R	11.25	9.50	6.80
+A	134	Juggernaut	A	ACr	U	5.00	4.00	3.50
+A	135	Jump	U	Ins	C	1.10	1.00	0.50
+A	136	Karma	W	E	U	6.00	4.00	3.00
+A	137	Keldon Warlord	R	Sum	U	5.80	4.00	2.90
+A	138	Kormus Bell	A	C	R	10.00	10.00	7.00
+A	139	Kudzu	G	EL	R	10.00	8.00	5.30
+A	140	Lance	W	ECr	U	4.00	3.00	2.00
+A	141	Ley Druid	G	Sum	U	3.00	2.50	2.00
+A	142	Library of Leng	A	C	U	4.00	4.00	2.00
+A	143	Lich	B	E	R	50.00	40.00	35.00
+A	144	Lifeforce	G	E	U	3.30	3.00	2.00
+A	145	Lifelace	G	Int	R	9.00	8.00	6.50
+A	146	Lifetap	U	E	U	3.80	3.00	3.00
+A	147	Lightning Bolt	R	Ins	C	1.60	1.00	0.70
+A	148	Living Artifact	G	EArt	R	11.50	9.00	8.00
+A	149	Living Lands	G	EL	R	11.50	9.50	6.80
+A	150	Living Wall	A	ACr	U	4.00	4.00	2.80
+A	151	Llanowar Elves	G	Sum	C	1.10	1.00	0.50
+A	152	Lord of Atlantis	U	Sum	R	16.75	15.50	12.75
+A	153	Lord of the Pit	B	Sum	R	20.00	20.00	19.00
+A	154	Lure	G	ECr	U	4.60	3.30	2.30
+A	155	Magical Hack	U	Int	R	12.25	10.00	8.50
+A	156	Mahamoti Djinn	U	Sum	R	15.75	15.00	15.00
+A	157	Mana Flare	R	E	R	12.00	12.00	10.50
+A	158	Mana Short	U	Ins	R	14.00	10.00	8.50
+A	159	Mana Vault	A	M	R	10.00	9.50	8.30
+A	160	Manabarbs	R	E	R	10.00	10.00	7.00
+A	161	Meekstone	A	C	R	12.00	11.00	7.80
+A	162	Merfolk of the Pearl Tr	U	Sum	C	1.10	1.00	0.50
+A	163	Mesa Pegasus	W	Sum	C	1.30	1.00	0.50
+A	164	Mind Twist	B	Sor	R	12.50	11.50	10.25
+A	165	Mons's Goblin Raiders	R	Sum	C	1.10	1.00	0.50
+A	166	Mountain Blue	R	L	C	0.50	0.20	0.20
+A	167	Mountain Brown	R	L	C	0.50	0.20	0.20
+A	168	Mox Emerald	A	M	R	77.50	70.00	60.00
+A	169	Mox Jet	A	M	R	77.50	75.00	72.00
+A	170	Mox Pearl	A	M	R	77.50	75.00	70.00
+A	171	Mox Ruby	A	M	R	77.50	75.00	70.00
+A	172	Mox Sapphire	A	M	R	77.50	75.00	70.00
+A	173	Natural Selection	G	Ins	R	37.50	30.00	20.00
+A	174	Nether Shadow	B	Sum	R	10.00	9.50	6.80
+A	175	Nettling Imp	B	Sum	U	4.50	3.00	2.50
+A	176	Nevinyrral's Disk	A	M	R	11.75	11.00	8.80
+A	177	Nightmare	B	Sum	R	22.25	20.00	20.00
+A	178	Northern Paladin	W	Sum	R	19.50	17.50	16.25
+A	179	Obsianus Golem	A	ACr	U	3.80	3.00	3.00
+A	180	Orcish Artillery	R	Sum	U	10.00	6.00	3.50
+A	181	Orcish Oriflamme	R	E	U	15.00	15.00	8.00
+A	182	Paralyze	B	ECr	C	1.10	1.00	0.50
+A	183	Pearled Unicorn	W	Sum	C	1.10	1.00	0.50
+A	184	Personal Incarnation	W	Sum	R	15.75	14.50	12.50
+A	185	Pestilence	B	E	C	1.10	1.00	0.50
+A	186	Phantasmal Forces	U	Sum	U	4.00	4.00	3.00
+A	187	Phantasmal Terrain	U	Sum	C	1.10	1.00	0.50
+A	188	Phantom Monster	U	Sum	U	3.50	3.00	2.50
+A	189	Pirate Ship	U	Sum	R	11.50	10.00	6.80
+A	190	Plague Rats	B	Sum	C	1.10	1.00	0.90
+A	191	Plains No Trees	W	L	C	0.50	0.20	0.20
+A	192	Plains Trees	W	L	C	0.40	0.20	0.20
+A	193	Plateau	R/W	DL	R	14.50	13.00	12.25
+A	194	Power Leak	U	EE	C	1.10	1.00	0.50
+A	195	Power Sink	U	Int	C	1.10	1.00	0.50
+A	196	Power Surge	R	E	R	12.00	12.00	6.50
+A	197	Prodigal Sorcerer	U	Sum	C	1.60	1.00	1.00
+A	198	Psionic Blast	U	Ins	U	7.90	6.00	6.00
+A	199	Psychic Venom	U	EL	C	1.60	1.00	0.90
+A	200	Purelace	W	Int	R	8.50	5.00	4.00
+A	201	Raging River	R	E	R	41.25	40.00	33.75
+A	202	Raise Dead	B	Sor	C	1.10	1.00	0.50
+A	203	Red Elemental Blast	R	Ins	C	1.50	1.00	0.50
+A	204	Red Ward	W	ECr	U	2.30	2.00	2.00
+A	205	Regeneration	G	ECr	C	1.10	1.00	0.50
+A	206	Regrowth	G	Sor	U	3.00	3.00	2.30
+A	207	Resurrection	W	Sor	U	3.00	3.00	2.30
+A	208	Reverse Damage	W	Ins	R	13.75	12.00	8.80
+A	209	Righteousness	W	Ins	R	12.00	10.50	8.30
+A	210	Roc of Kher Ridges	R	Sum	R	10.00	9.50	8.30
+A	211	Rock Hydra	R	Sum	R	19.50	18.00	15.50
+A	212	Rod of Ruin	A	M	U	3.80	3.00	3.00
+A	213	Royal Assassin	B	Sum	R	24.00	22.00	20.50
+A	214	Sacrifice	B	Int	U	3.00	2.00	2.00
+A	215	Samite Healer	W	Sum	C	1.00	1.00	0.50
+A	216	Savannah	G/W	DL	R	14.50	13.00	12.25
+A	217	Savannah Lions	W	Sum	R	10.00	9.00	6.50
+A	218	Scathe Zombies	B	Sum	C	1.10	1.00	0.50
+A	219	Scavenging Ghoul	B	Sum	U	4.00	3.50	2.30
+A	220	Scrubland	B/W	DL	R	14.25	12.00	12.00
+A	221	Scryb Sprites	G	Sum	C	1.10	1.00	0.50
+A	222	Sea Serpent	U	Sum	C	1.10	1.00	0.50
+A	223	Sedge Troll	R	Sum	R	15.00	13.00	8.50
+A	224	Sengir Vampire	B	Sum	U	7.00	6.50	5.30
+A	225	Serra Angel	W	Sum	U	11.75	10.50	8.50
+A	226	Shanodin Dryads	G	Sum	C	1.10	1.00	0.50
+A	227	Shatter	R	Ins	C	1.30	1.00	0.50
+A	228	Shivan Dragon	R	Sum	R	37.50	29.00	25.75
+A	229	Simulacrum	B	Ins	U	3.00	2.50	2.00
+A	230	Sinkhole	B	Sor	C	7.90	7.00	5.30
+A	231	Siren's Call	U	Ins	U	3.00	2.50	2.00
+A	232	Sleight of Mind	U	Int	R	11.75	10.50	9.30
+A	233	Smoke	R	E	R	10.75	9.00	5.80
+A	234	Sol Ring	A	M	U	5.50	4.00	4.00
+A	235	Soul Net	A	P	U	4.00	4.00	3.00
+A	236	Spell Blast	U	Int	C	1.50	1.00	0.90
+A	237	Stasis	U	E	R	10.00	9.50	8.00
+A	238	Steal Artifact	U	EArt	U	3.50	3.00	2.80
+A	239	Stone Giant	R	Sum	U	3.00	2.50	2.00
+A	240	Stone Rain	R	Sor	C	1.60	1.00	0.90
+A	241	Stream of Life	G	Sor	C	1.00	1.00	0.80
+A	242	Sunglasses of Urza	A	C	R	11.75	9.80	9.00
+A	243	Swamp High Branch	B	L	C	0.40	0.20	0.20
+A	244	Swamp Low Branch	B	L	C	0.40	0.20	0.20
+A	245	Swords to Plowshares	W	Ins	U	3.80	3.00	2.60
+A	246	Taiga	G/R	DL	R	14.50	12.50	12.00
+A	247	Terror	B	Ins	C	1.60	1.00	0.60
+A	248	The Hive	A	M	R	12.25	10.00	8.50
+A	249	Thicket Basilisk	G	Sum	U	5.80	4.50	4.00
+A	250	Thoughtlace	U	Int	R	10.00	5.00	4.00
+A	251	Throne of Bone	A	P	U	3.00	2.50	2.00
+A	252	Timber Wolves	G	Sum	R	11.00	10.00	7.00
+A	253	Time Vault	A	M	R	60.00	52.50	40.00
+A	254	Time Walk	U	Sor	R	60.00	55.00	40.00
+A	255	Timetwister	U	Sor	R	60.00	50.00	40.00
+A	256	Tranquility	G	Sor	C	1.10	1.00	0.50
+A	257	Tropical Island	B/G	DL	R	15.00	13.00	12.00
+A	258	Tsunami	G	Sor	U	4.00	3.50	2.30
+A	259	Tundra	U/W	DL	R	14.50	12.50	12.00
+A	260	Tunnel	R	Ins	U	3.50	3.00	2.00
+A	261	Twiddle	U	Ins	C	9.00	8.00	5.80
+A	262	Two-Headed Giant 	R	Sum	R	47.50	35.00	25.50
+A	263	Underground Sea	B/U	DL	R	14.25	12.00	12.00
+A	264	Unholy Strength	B	ECr	C	1.30	1.00	0.50
+A	265	Unsummon	U	Ins	C	2.00	1.00	1.00
+A	266	Uthden Troll	R	Sum	U	4.80	4.00	3.30
+A	267	Verduran Enchantress	G	Sum	R	12.25	11.50	8.50
+A	268	Vesuvan Doppelganger	U	Sum	R	20.00	20.00	17.50
+A	269	Veteran Bodyguard	W	Sum	R	15.50	15.00	12.50
+A	270	Volcanic Eruption	U	Sor	R	13.50	10.00	8.50
+A	271	Wall of Air	U	Sum	U	3.40	3.00	2.30
+A	272	Wall of Bone	B	Sum	U	3.00	3.00	2.00
+A	273	Wall of Brambles	G	Sum	U	3.00	3.00	2.30
+A	274	Wall of Fire	R	Sum	U	3.00	3.00	2.00
+A	275	Wall of Ice	G	Sum	U	3.00	3.00	2.00
+A	276	Wall of Stone	R	Sum	U	3.00	3.00	2.60
+A	277	Wall of Swords	W	Sum	U	4.00	4.00	4.00
+A	278	Wall of Water	U	Sum	U	3.40	3.00	3.00
+A	279	Wall of Wood	G	Sum	C	1.40	1.00	0.60
+A	280	Wanderlust	G	ECr	U	3.00	2.50	2.00
+A	281	War Mammoth	G	Sum	C	1.30	1.00	0.50
+A	282	Warp Artifact	B	EArt	R	10.00	5.00	5.00
+A	283	Water Elemental	U	Sum	U	3.00	3.00	3.00
+A	284	Weakness	B	ECr	C	1.30	1.00	0.50
+A	285	Web	G	ECr	R	11.75	10.50	7.80
+A	286	Wheel of Fortune	R	Sor	R	11.00	11.00	10.25
+A	287	White Knight	W	Sum	U	5.00	4.00	4.00
+A	288	White Ward	W	ECr	U	2.00	2.00	2.00
+A	289	Wild Growth	G	EL	C	1.30	1.00	0.50
+A	290	Will-O-The-Wisp	B	Sum	R	15.00	13.00	12.00
+A	291	Winter Orb	A	C	R	11.00	11.00	8.00
+A	292	Wooden Sphere	A	P	U	3.00	2.50	2.00
+A	293	Word of Command	B	Ins	R	50.00	45.00	40.00
+A	294	Wrath of God	W	Sor	R	13.00	12.00	11.00
+A	295	Zombie Master	B	Sum	R	15.00	13.00	12.00

@@ -1,0 +1,190 @@
+ 	 	FALLEN EMPIRES - SCRYE #5
+ 	 	CARD NAME	COL	RARITY	UPPER	MEDIAN	LOWER
+F	1347	Aeolipile	Be	U1	4.30	3.00	1.70
+F	1348A	Armor Thrull (a)	B	C1	0.90	0.50	0.40
+F	1348B	Armor Thrull (b)	B	C1	0.90	0.50	0.40
+F	1348C	Armor Thrull (c)	B	C1	0.90	0.50	0.40
+F	1348D	Armor Thrull (d)	B	C1	0.90	0.50	0.40
+F	1349	Balm of Restoration	Be	U1	4.30	3.00	1.40
+F	1350A	Basal Thrull (a)	B	C1	1.00	0.50	0.40
+F	1350B	Basal Thrull (b)	B	C1	1.00	0.50	0.40
+F	1350C	Basal Thrull (c)	B	C1	1.00	0.50	0.40
+F	1350D	Basal Thrull (d)	B	C1	1.00	0.50	0.40
+F	1351	Bottomless Vault	L	U1	5.00	3.50	2.00
+F	1352A	Brassclaw Orcs (a)	R	C1	0.70	0.50	0.40
+F	1352B	Brassclaw Orcs (b)	R	C1	0.70	0.50	0.40
+F	1352C	Brassclaw Orcs (c)	R	C1	0.70	0.50	0.40
+F	1352D	Brassclaw Orcs (d)	R	C1	0.70	0.50	0.40
+F	1353	Breeding Pit	B	U3	3.00	2.00	1.80
+F	1354A	Combat Medic (a)	W	C1	1.00	0.50	0.50
+F	1354B	Combat Medic (b)	W	C1	1.00	0.50	0.50
+F	1354C	Combat Medic (c)	W	C1	1.00	0.50	0.50
+F	1354D	Combat Medic (d)	W	C1	1.00	0.50	0.50
+F	1355	Conch Horn	Be	U1	4.30	2.50	1.80
+F	1356	Deep Spawn	U	U3	3.30	2.00	1.00
+F	1357	Delif's Cone	Be	C1	2.50	2.00	1.50
+F	1358	Delif's Cube	Be	U1	4.50	4.00	2.10
+F	1359	Derelor	B	U1	4.30	3.00	1.50
+F	1360	Draconian Cylix	Be	U1	4.50	3.00	2.00
+F	1361	Dwarven Armorer	R	U1	4.50	3.00	1.60
+F	1362	Dwarven Catapult	R	U3	3.50	3.00	1.00
+F	1363	Dwarven Hold	L	U1	4.50	4.00	2.00
+F	1364	Dwarven Lieutenant	R	U3	2.50	1.00	0.50
+F	1365	Dwarven Ruins	L	U2	2.50	2.00	1.80
+F	1366A	Dwarven Soldier (a)	R	C1	0.90	0.50	0.40
+F	1366B	Dwarven Soldier (b)	R	C1	0.90	0.50	0.40
+F	1366C	Dwarven Soldier (c)	R	C1	0.90	0.50	0.40
+F	1367	Ebon Praetor	B	U1	5.80	4.50	3.40
+F	1368	Ebon Stronghold	L	U2	2.50	2.00	2.00
+F	1369A	Elven Fortress (a)	G	C1	0.90	0.50	0.40
+F	1369B	Elven Fortress (b)	G	C1	0.90	0.50	0.40
+F	1369C	Elven Fortress (c)	G	C1	0.90	0.50	0.40
+F	1369D	Elven Fortress (d)	G	C1	0.90	0.50	0.40
+F	1370	Elven Lyre	Be	U1	3.80	3.00	2.50
+F	1371	Elvish Farmer	G	U1	5.00	4.00	3.30
+F	1372A	Elvish Hunter (a)	G	C1	1.10	0.50	0.50
+F	1372B	Elvish Hunter (b)	G	C1	1.10	0.50	0.50
+F	1372C	Elvish Hunter (c)	G	C1	1.10	0.50	0.50
+F	1373A	Elvish Scout (a)	G	C1	0.90	0.50	0.50
+F	1373B	Elvish Scout (b)	G	C1	0.90	0.50	0.50
+F	1373C	Elvish Scout (c)	G	C1	0.90	0.50	0.50
+F	1374	Farrel's Mantle	W	U3	2.50	1.00	0.70
+F	1375A	Farrel's Zealot (a)	W	C1	1.10	0.50	0.50
+F	1375B	Farrel's Zealot (b)	W	C1	1.10	0.50	0.50
+F	1375C	Farrel's Zealot (c)	W	C1	1.10	0.50	0.50
+F	1376	Farrelite Priest	W	U3	2.30	1.30	0.70
+F	1377	Feral Thallid	G	U3	3.30	1.80	1.00
+F	1378	Fungal Bloom	G	U1	5.50	4.00	2.80
+F	1379A	Goblin Chirurgeon (a)	R	C1	0.90	0.50	0.50
+F	1379B	Goblin Chirurgeon (b)	R	C1	0.90	0.50	0.50
+F	1379C	Goblin Chirurgeon (c)	R	C1	0.90	0.50	0.50
+F	1380	Goblin Flotilla	R	U1	4.50	2.30	1.80
+F	1381A	Goblin Grenade (a)	R	C1	0.90	0.80	0.60
+F	1381B	Goblin Grenade (b)	R	C1	0.90	0.80	0.60
+F	1381C	Goblin Grenade (c)	R	C1	0.90	0.80	0.60
+F	1382	Goblin Kites	R	U3	2.30	1.30	0.50
+F	1383A	Goblin War Drums (a)	R	C1	1.00	0.50	0.50
+F	1383B	Goblin War Drums (b)	R	C1	1.00	0.50	0.50
+F	1383C	Goblin War Drums (c)	R	C1	1.00	0.50	0.50
+F	1383D	Goblin War Drums (d)	R	C1	1.00	0.50	0.50
+F	1384	Goblin Warrens	R	U1	3.50	2.00	1.30
+F	1385	Hand of Justice	W	U1	5.50	4.00	3.80
+F	1386	Havenwood Battleground	L	U2	3.50	3.00	2.00
+F	1387	Heroism	W	U3	2.00	1.00	0.70
+F	1388A	High Tide (a)	U	C1	0.80	0.50	0.50
+F	1388B	High Tide (b)	U	C1	0.80	0.50	0.50
+F	1388C	High Tide (c)	U	C1	0.80	0.50	0.50
+F	1389	Hollow Trees	L	U1	4.30	3.00	1.80
+F	1390A	Homarid (a)	U	C1	1.00	0.80	0.50
+F	1390B	Homarid (b)	U	C1	0.90	0.50	0.40
+F	1390C	Homarid (c)	U	C1	0.90	0.50	0.40
+F	1390D	Homarid (d)	U	C1	0.90	0.50	0.40
+F	1391	Homarid Shaman	U	C1	3.50	1.50	0.80
+F	1392	Homarid Spawning Bed	U	U3	2.80	1.80	1.10
+F	1393A	Homarid Warrior (a)	U	C1	1.10	0.60	0.50
+F	1393B	Homarid Warrior (b)	U	C1	1.10	0.60	0.50
+F	1393C	Homarid Warrior (c)	U	C1	1.10	0.60	0.50
+F	1394A	Hymn to Tourach (a)	B	C1	1.00	0.50	0.40
+F	1394B	Hymn to Tourach (b)	B	C1	1.00	0.50	0.40
+F	1394C	Hymn to Tourach (c)	B	C1	1.00	0.50	0.40
+F	1394D	Hymn to Tourach (d)	B	C1	1.00	0.50	0.40
+F	1395A	Icatian Infantry (a)	W	C1	0.80	0.50	0.40
+F	1395B	Icatian Infantry (b)	W	C1	0.80	0.50	0.40
+F	1395C	Icatian Infantry (c)	W	C1	0.80	0.50	0.40
+F	1395D	Icatian Infantry (d)	W	C1	0.80	0.50	0.40
+F	1396A	Icatian Javelineers (a)	W	C1	0.90	0.80	0.50
+F	1396B	Icatian Javelineers (b)	W	C1	0.90	0.80	0.50
+F	1396C	Icatian Javelineers(c)	W	C1	0.90	0.80	0.50
+F	1397	Icatian Lieutenant	R	U1	3.50	3.00	1.50
+F	1398A	Icatian Moneychanger (a)	W	C1	0.90	0.50	0.50
+F	1398B	Icatian Moneychanger (b)	W	C1	0.90	0.50	0.50
+F	1398C	Icatian Moneychanger (c)	W	C1	0.90	0.50	0.50
+F	1399	Icatian Phalanx	W	U3	2.50	1.00	0.70
+F	1400	Icatian Priest	W	U3	2.50	1.00	0.60
+F	1401A	Icatian Scout (a)	W	C1	0.80	0.60	0.50
+F	1401B	Icatian Scout (b)	W	C1	0.80	0.60	0.50
+F	1401C	Icatian Scout (c)	W	C1	0.80	0.60	0.50
+F	1401D	Icatian Scout (d)	W	C1	0.80	0.60	0.50
+F	1402	Icatian Skirmishes	W	U1	5.50	4.00	2.90
+F	1403	Icatian Store	W	C1	4.80	4.00	3.00
+F	1404	Icatian Town	W	U1	4.80	4.00	3.40
+F	1405	Implements of Sacrifice	Be	U1	4.30	3.30	2.80
+F	1406	Initiates of the Ebon Hand (a)	B	C1	0.90	0.50	0.50
+F	1407	Initiates of the Ebon Hand (b)	B	C1	0.90	0.50	0.50
+F	1408	Initiates of the Ebon Hand (c)	B	C1	0.90	0.50	0.50
+F	1409A	Merseine (a)	U	C1	1.10	0.50	0.40
+F	1409B	Merseine (b)	U	C1	1.10	0.50	0.40
+F	1409C	Merseine (c)	U	C1	1.10	0.50	0.40
+F	1409D	Merseine (d)	U	C1	1.10	0.50	0.40
+F	1410A	Mindstab Thrull (a)	B	C1	0.90	0.50	0.40
+F	1410B	Mindstab Thrull (b)	B	C1	0.90	0.50	0.40
+F	1410C	Mindstab Thrull (c)	B	C1	0.90	0.50	0.40
+F	1411A	Necrite (a)	B	C1	1.00	0.50	0.50
+F	1411B	Necrite (b)	B	C1	1.00	0.50	0.50
+F	1411C	Necrite (c)	B	C1	1.00	0.50	0.50
+F	1412A	Night Soil (a)	G	C1	1.10	0.50	0.50
+F	1412B	Night Soil (b)	G	C1	1.10	0.50	0.50
+F	1412C	Night Soil (c)	G	C1	1.10	0.50	0.50
+F	1413	Orcish Captain	R	U3	2.00	1.00	0.50
+F	1414A	Orcish Spy (a)	R	C1	0.80	0.50	0.50
+F	1414B	Orcish Spy (b)	R	C1	0.80	0.50	0.50
+F	1414C	Orcish Spy (c)	R	C1	0.80	0.50	0.50
+F	1415A	Orcish Veteran (a)	R	C1	0.60	0.50	0.40
+F	1415B	Orcish Veteran (b)	R	C1	0.60	0.50	0.40
+F	1415C	Orcish Veteran (c)	R	C1	0.60	0.50	0.40
+F	1415D	Orcish Veteran (d)	R	C1	0.60	0.50	0.40
+F	1416A	Order of Leitbur (a)	W	C1	1.10	0.50	0.50
+F	1416B	Order of Leitbur (b)	W	C1	1.10	0.50	0.50
+F	1416C	Order of Leitbur (c)	W	C1	1.10	0.50	0.50
+F	1417A	Order of the Ebon Hand (a)	B	C1	1.30	0.90	0.50
+F	1417B	Order of the Ebon Hand (b)	B	C1	1.30	0.90	0.50
+F	1417C	Order of the Ebon Hand (c)	B	C1	1.30	0.90	0.50
+F	1418	Orgg	R	U1	4.00	3.00	2.00
+F	1419	Raiding Party	R	U3	3.50	2.00	1.00
+F	1420	Rainbow Vale	L	U1	4.50	3.00	2.30
+F	1421	Ring of Renewal	Be	U1	4.30	3.50	2.40
+F	1422	River Merfolk	U	U1	4.50	4.00	4.00
+F	1423	Ruins of Trokair	L	U2	2.50	2.00	1.90
+F	1424	Sand Silos	L	U1	4.50	4.00	2.50
+F	1425	Seasinger	U	U3	3.60	2.50	1.80
+F	1426	Soul Exchange	B	U3	3.00	2.00	1.50
+F	1427	Spirit Shield	Be	U1	5.00	4.00	2.80
+F	1428A	Spore Cloud (a)	G	C1	0.80	0.50	0.50
+F	1428B	Spore Cloud (b)	G	C1	0.80	0.50	0.50
+F	1428C	Spore Cloud (c)	G	C1	0.80	0.50	0.50
+F	1429	Spore Flower	G	U3	2.50	2.00	0.70
+F	1430	Svyelunite Priest	U	U3	2.80	2.00	1.00
+F	1431	Svyelunite Temple	L	U2	2.50	2.00	1.80
+F	1432A	Thallid (a)	G	C1	1.20	0.50	0.50
+F	1432B	Thallid (b)	G	C1	1.20	0.50	0.50
+F	1432C	Thallid (c)	G	C1	1.20	0.50	0.50
+F	1432D	Thallid (d)	G	C1	1.20	0.50	0.50
+F	1433	Thallid Devourer	G	U3	2.80	2.00	0.80
+F	1434	Thelon's Chant	G	U3	2.50	2.00	0.80
+F	1435	Thelon's Curse	G	U1	5.00	4.00	2.50
+F	1436	Thelonite Druid	G	U3	3.50	2.50	1.40
+F	1437	Thelonite Monk	G	U1	4.80	3.00	2.00
+F	1438A	Thorn Thallid (a)	G	C1	0.90	0.50	0.40
+F	1438B	Thorn Thallid (b)	G	C1	0.90	0.50	0.40
+F	1438C	Thorn Thallid (c)	G	C1	0.90	0.50	0.40
+F	1438D	Thorn Thallid (d)	G	C1	0.90	0.50	0.40
+F	1439	Thrull Champion	B	U1	5.50	4.00	3.80
+F	1440	Thrull Retainer	B	U3	2.50	1.50	1.00
+F	1441	Thrull Wizards	B	U3	2.50	1.30	0.80
+F	1442A	Tidal Flats (a)	U	C1	0.90	0.50	0.40
+F	1442B	Tidal Flats (b)	U	C1	0.90	0.50	0.40
+F	1442C	Tidal Flats (c)	U	C1	0.90	0.50	0.40
+F	1443	Tidal Influence	U	U3	2.00	1.00	0.50
+F	1444	Tourach's Chant	B	U3	2.00	2.00	0.90
+F	1445	Tourach's Gate	B	U1	4.50	3.50	2.50
+F	1446	Vodalian Knights	U	U1	5.30	4.00	3.00
+F	1447A	Vodalian Mage (a)	U	C1	0.90	0.50	0.50
+F	1447B	Vodalian Mage (b)	U	C1	0.90	0.50	0.50
+F	1447C	Vodalian Mage (c)	U	C1	0.90	0.50	0.50
+F	1448A	Vodalian Soldiers (a)	U	C1	0.90	0.50	0.40
+F	1448B	Vodalian Soldiers (b)	U	C1	0.90	0.50	0.40
+F	1448C	Vodalian Soldiers (c)	U	C1	0.90	0.50	0.40
+F	1448D	Vodalian Soldiers (d)	U	C1	0.90	0.50	0.40
+F	1449	Vodalian War Machine	U	U1	5.00	4.00	3.10
+F	1450	Zelyon Sword	Be	U1	4.30	4.50	4.80
+ 	 	TOTAL	 	 	361.90	243.10	178.00

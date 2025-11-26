@@ -1,0 +1,113 @@
+BEGIN TEMPLATE
+Antiquities  Scrye on Disk #5
+Series=Antiquities
+Date=01 15 95
+Fields=9
+3=1
+4=2,Color
+5=3,Type
+6=4,Rarity
+7=10
+8=11
+9=12
+END TEMPLATE
+Q	380	Amulet of Kroog	A	M	C	1.00	1.00	0.60
+Q	381	Argivian Archaeologist	W	S	R	20.00	17.50	13.00
+Q	382	Argivian Blacksmith	W	S	U	1.00	1.00	0.60
+Q	383	Argothian Pixies 	G	S	C	1.00	1.00	0.60
+Q	384	Argothian Treefolk 	G	S	C	1.00	1.00	0.80
+Q	385	Armageddon Clock	A	C	R	6.00	5.00	4.30
+Q	386	Artifact Blast	R	Int	C	1.40	1.00	0.80
+Q	387	Artifact Possession	B	EArt	C	1.00	1.00	0.80
+Q	388	Artifact Ward	W	ECr	C	2.00	1.00	1.00
+Q	389	Ashnod's Altar	A	P	U	4.00	4.00	3.30
+Q	390	Ashnod's Battle Gear	A	M	U	4.00	4.00	3.80
+Q	391	Ashnod's Transmogrant	A	M	U	4.00	4.00	3.00
+Q	392	Atog 	R	S	C	1.00	0.90	0.50
+Q	393	Battering Ram	A	ACr	C	1.20	1.00	0.80
+Q	394	Bronze Tablet	A	M	R	11.00	9.00	7.30
+Q	395	Candelabra of Tawnos	A	M	R	17.25	15.00	12.00
+Q	396	Circle of Protection: Artifacts	W	E	U	13.00	7.50	5.30
+Q	397	Citanul Druid 	G	S	U	4.00	3.00	3.00
+Q	398	Clay Statue	A	ACr	C	1.80	1.00	1.00
+Q	399	Clockwork Avian	A	ACr	R	12.00	11.50	9.30
+Q	400	Colossus of Sardia	A	ACr	R	20.00	18.00	15.00
+Q	401	Coral Helm	A	P	R	8.00	8.00	6.50
+Q	402	Crumble	G	Ins	C	1.00	1.00	0.50
+Q	403	Cursed Rack	A	C	C	4.00	3.00	2.00
+Q	404	Damping Field	W	E	U	3.70	3.00	3.00
+Q	405	Detonate	R	Sor	U	4.00	4.00	3.00
+Q	406	Drafna's Restoration	U	Sor	C	1.00	1.00	0.80
+Q	407	Dragon Engine	A	ACr	C	1.40	1.00	0.80
+Q	408	Dwarven Weaponsmith	R	Sum	U	3.00	3.00	2.00
+Q	409	Energy Flux	U	E	U	3.00	2.80	1.60
+Q	410	Feldon's Cane	A	M	U	7.80	6.00	5.00
+Q	411	Gaea's Avenger	G	Sum	R	16.25	13.50	12.00
+Q	412	Gate to Phyrexia	B	E	U	3.80	3.00	3.00
+Q	413	Goblin Artisans	R	Sum	U	3.00	3.00	3.00
+Q	414	Golgothian Sylex	A	M	R	10.00	9.90	8.60
+Q	415	Grapeshot Catapult	A	ACr	C	1.00	1.00	0.80
+Q	416	Haunting Wind	B	E	U	3.00	3.00	2.60
+Q	417	Hurkyl's Recall	U	Ins	R	8.00	6.50	6.00
+Q	418	Ivory Tower	A	C	U	5.80	5.00	4.50
+Q	419	Jalum Tome	A	M	R	6.00	5.00	4.00
+Q	420	Martyrs of Korlis	W	Sum	U	5.00	5.00	4.30
+Q	421	Mightstone	A	C	U	4.00	3.80	3.00
+Q	422	Millstone	A	M	U	4.00	3.80	3.00
+Q	423	"Mishra's Factory, autumn"	Be	L	U	7.50	6.00	5.00
+Q	424	"Mishra's Factory, spring/blue balloon"	Be	L	U	6.80	6.00	5.00
+Q	425	"Mishra's Factory, summer"	Be	L	U	7.00	6.00	5.00
+Q	426	"Mishra's Factory, winter"	Be	L	U	7.50	6.00	5.50
+Q	427	Mishra's War Machine 	A	ACr	R	7.60	6.00	6.00
+Q	428	Mishra's Workshop	Be	L	R	13.50	10.00	7.40
+Q	429	Obelisk of Undoing	A	M	R	12.00	10.00	8.00
+Q	430	Onulet	A	ACr	U	3.30	3.00	2.30
+Q	431	Orcish Mechanics	R	Sum	C	1.00	1.00	0.80
+Q	432	Ornithopter	A	ACr	C	1.60	1.00	0.80
+Q	433	Phyrexian Gremlins	B	Sum	C	1.90	1.00	0.80
+Q	434	Power Artifact	U	EArt	U	3.80	3.00	3.00
+Q	435	Powerleech	G	E	U	4.00	3.50	3.00
+Q	436	Priest of Yawgmoth	B	Sum	C	1.00	1.00	0.60
+Q	437	Primal Clay	A	ACr	U	4.00	3.80	3.00
+Q	438	Rakalite	A	P	U	4.00	3.00	2.00
+Q	439	Reconstruction	U	Sor	C	1.00	1.00	0.60
+Q	440	Reverse Polarity	W	Ins	C	1.00	1.00	0.50
+Q	441	Rocket Launcher	A	P	U	3.80	3.00	3.00
+Q	442	Sage of Lat-Nam	U	Sum	C	1.00	1.00	0.80
+Q	443	Shapeshifter	A	ACr	R	12.00	10.50	10.00
+Q	444	Shatterstorm	R	Sor	R	7.00	5.00	4.30
+Q	445	Staff of Zegon	A	M	C	1.00	1.00	1.00
+Q	446	"Strip Mine, small tower in foreground"	Be	L	U	7.00	6.00	5.00	
+Q	447	"Strip Mine, no tower, no visible horizon"	Be	L	U	7.00	6.00	5.00	
+Q	448	"Strip Mine, visible horizon, evenly spaced terraces"	Be	L	U	7.00	6.00	6.00	
+Q	449	"Strip Mine, visible horizon, uneven terraces"	Be	L	U	7.00	6.00	6.00	
+Q	450	Su-Chi  	A	ACr	U	4.20	3.50	3.00	
+Q	451	Tablet of Epityr	A	P	C	1.20	1.00	0.80	
+Q	452	Tawnos's Coffin	A	M	R	15.00	12.00	12.00	
+Q	453	Tawnos's Wand	A	M	U	4.00	3.00	3.00	
+Q	454	Tawnos's Weaponry	A	M	U	4.00	3.00	3.00	
+Q	455	Tetravus		A	ACr	R	14.00	é	10
+Q	456	The Rack	A	C	U	4.00	3.00	3.00	
+Q	457	Titania's Song	G	E	U	4.00	3.00	3.00	
+Q	458	Transmute Artifact	U	Sor	U	3.90	3.00	2.00	
+Q	459	Triskelion	A	ACr	R	12.00	10.00	10.00	
+Q	460	Urza's Avenger	A	ACr	R	15.00	14.00	10.00	
+Q	461	Urza's Chalice	A	P	C	2.00	1.30	1.00	
+Q	462	"Urza's Mine, clawed sphere"	Be	L	C	3.00	2.00	2.00
+Q	463	"Urza's Mine, mouth"	Be	L	C	3.00	2.30	2.00
+Q	464	"Urza's Mine, pulley"	Be	L	C	3.00	2.50	2.00
+Q	465	"Urza's Mine, tower"	Be	L	C	3.00	2.00	2.00
+Q	466	Urza's Miter	A	P	R	8.00	6.50	5.30
+Q	467	"Urza's Power Plant, bug"	Be	L	C	3.00	2.00	2.00
+Q	468	"Urza's Power Plant, columns"	Be	L	C	3.00	2.00	2.00
+Q	469	"Urza's Power Plant, copper sphere"	Be	L	C	3.00	2.00	2.00
+Q	470	"Urza's Power Plant, rock in pot"	Be	L	C	3.00	2.00	2.00
+Q	471	"Urza's Tower, forest"	Be	L	C	3.00	2.00	2.00
+Q	472	"Urza's Tower, mountains"	Be	L	C	3.00	2.00	2.00
+Q	473	"Urza's Tower, plains"	Be	L	C	3.00	2.00	2.00
+Q	474	"Urza's Tower, shore"	Be	L	C	3.00	2.50	2.00
+Q	475	Wall of Spears	A	ACr	U	4.00	4.00	3.00
+Q	476	Weakstone	A	C	U	3.00	3.00	2.00
+Q	477	Xenic Poltergeist	B	Sum	U	3.00	3.00	2.50
+Q	478	Yawgmoth Demon	B	Sum	R	15.00	15.00	15.00
+Q	479	Yotian Soldier	A	ACr	C	2.00	2.00	1.00
