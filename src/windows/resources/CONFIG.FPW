@@ -1,0 +1,5 @@
+KEYCOMP = WINDOWS
+CATMAN=OFF
+TITLE = Startup
+MEMLIMIT = 80,6000,9000
+resource = off

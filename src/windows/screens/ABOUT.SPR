@@ -1,0 +1,142 @@
+* ABOUT.SPR
+* Deck Daemon for Windows, written by Dave Armga for Bard's Quest Software, 1995
+* MIT License, see LICENSE at the repository root.
+* Decompiled from DAEMON.EXE (module ABOUT.SPX, compiled 1995-06-26 22:55).
+* Comments and original layout are not stored in compiled FoxPro code
+* and could not be recovered. Lines marked '&& ?' use a keyword the
+* decompiler inferred from context; see ../README.md.
+
+PRIVATE m.currarea, m.talkstat, m.compstat
+IF SET("TALK") = "ON"
+	SET TALK OFF
+	m.talkstat = "ON"
+ELSE
+	m.talkstat = "OFF"
+ENDIF
+m.compstat = SET("COMPATIBLE")
+SET COMPATIBLE OFF
+m.rborder = SET("READBORDER")
+SET READBORDER ON
+IF NOT WEXIST("about") OR UPPER(WTITLE("ABOUT")) == "ABOUT.PJX" OR UPPER(WTITLE("ABOUT")) == "ABOUT.SCX" OR UPPER(WTITLE("ABOUT")) == "ABOUT.MNX" OR UPPER(WTITLE("ABOUT")) == "ABOUT.PRG" OR UPPER(WTITLE("ABOUT")) == "ABOUT.FRX" OR UPPER(WTITLE("ABOUT")) == "ABOUT.QPR"
+	DEFINE WINDOW about AT 0.000, 0.000 SIZE 24.154, 80.200 FONT "MS Sans Serif", 8 FLOAT CLOSE TITLE "Deck Daemon About" NOGROW SYSTEM    && ? decompiler guessed a keyword on this line
+	MOVE WINDOW about CENTER
+ENDIF
+DIMENSION a(59)
+a(1) = "As with any major project, lots of people"
+a(2) = "put forth effort towards its completion."
+a(3) = "This project, being no different, has"
+a(4) = "a list of people who needed to be credited"
+a(5) = "for their efforts in developing this"
+a(6) = "program."
+a(7) = ""
+a(8) = ""
+a(9) = "Dave Jordan:"
+a(10) = " Without his knowledge of Magic®, none"
+a(11) = "of this would have been possible.  He spent"
+a(12) = "many evenings typing in card names and"
+a(13) = "descriptions.  He was always checking over"
+a(14) = "the Daemon, and always making suggestions."
+a(15) = ""
+a(16) = "Richard Hundhausen:"
+a(17) = " The developer of Deck Daemon for DOS."
+a(18) = "His program was the template to which"
+a(19) = "Deck Daemon for Windows was designed,"
+a(20) = "and without his help, this project"
+a(21) = "would not have seen the light of day!"
+a(22) = ""
+a(23) = "My wife, for putting up with me those"
+a(24) = "long nights when the program just"
+a(25) = "didn't work the way it was supposed to!"
+a(26) = "And my Daughter, who made me realize that"
+a(27) = "I really did have a life outside my"
+a(28) = "computer."
+a(29) = ""
+a(30) = "Tom and Curt:"
+a(31) = " They always seemed to be Beta testing"
+a(32) = "the Daemon, and they really came up with"
+a(33) = "some great ideas."
+a(34) = ""
+a(35) = "Christopher Rush:"
+a(36) = " The artwork is beautiful!!!"
+a(37) = "{you should see the original}"
+a(38) = ""
+a(39) = "My ex-next door neighbor, for if he had"
+a(40) = "not broke into my apartment, and ripped off"
+a(41) = "my old computer, my insurance company would"
+a(42) = "never have purchased this nice new Pentium 90"
+a(43) = "computer I finished the Daemon on!"
+a(44) = ""
+a(45) = "And thanks to those too numerous to mention"
+a(46) = "   The Beta Testers."
+a(47) = "   Those who wrote in with thoughts and ideas"
+a(48) = "   The Staff at the Bard's Quest"
+a(49) = "      {Yes, its a real place}"
+a(50) = ""
+a(51) = "Deck Daemon For Windows"
+a(52) = "A product of Bard's Quest Software"
+a(53) = "(c) Bard's Quest 1995 All Rights Reserved"
+a(54) = "Windows is a trademark of Microsoft Corp."
+a(55) = "Magic® is a trademark of Wizards of the Coast."
+a(56) = ""
+a(57) = "Dave Armga 1995"
+a(58) = " "
+a(59) = " "
+IF WVISIBLE("about")
+	ACTIVATE WINDOW about SAME
+ELSE
+	ACTIVATE WINDOW about NOSHOW
+ENDIF
+@ 21.846, 30.000 GET m.but DEFAULT 1 FONT "MS Sans Serif", 8 STYLE "B" SIZE 1.769, 8.000, 0.667 PICTURE "@*HT \<DONE" VALID _r1e1d4x1c()
+@ 21.846, 40.800 GET m.but DEFAULT 1 FONT "MS Sans Serif", 8 STYLE "B" SIZE 1.769, 7.833, 0.667 PICTURE "@*HN \<INFO" VALID _r1e1d4x2x()
+@ 0.077, 16.200 COLOR RGB(0,0,0,,,) SAY "Deck Daemon " FONT "Times New Roman", 28 STYLE "BIT"
+@ 0.000, 16.800 COLOR RGB(255,0,0,255,0,0) SAY "Deck Daemon " FONT "Times New Roman", 28 STYLE "BIT"
+@ 0.615, 60.400 SAY "tm" FONT "Times New Roman", 8 STYLE "T"
+@ 6.846, 15.200 COLOR RGB(,,,0,0,0) TO 18.923, 65.800 PATTERN 1 PEN 1, 8
+@ 3.154, 20.600 SAY "A product of Bard's Quest Software Inc." FONT "Times New Roman", 9 STYLE "T"
+@ 4.231, 31.200 SAY "620 Vista Suite C" FONT "Times New Roman", 9 STYLE "T"
+@ 5.154, 30.200 SAY "Boise, Idaho 83705" FONT "Times New Roman", 9 STYLE "T"
+@ 19.385, 16.000 SAY "Phone (208)-336-9404 USA / Fax (208)-336-9315" FONT "Times New Roman", 9 STYLE "T"
+@ 20.462, 10.400 SAY "Internet:  ahbqs.com IP: 198.68.45.159 / BBS# (208)-345-6121" FONT "Times New Roman", 9 STYLE "T"
+@ 6.385, 14.200 COLOR RGB(,,,255,255,255) TO 18.462, 64.800 PATTERN 1 PEN 1, 8
+@ 9.308, 16.400 SAY "Program        Dave Armga" + CHR(13) + "Design           Dave Armga / Richard Hundhausen" + CHR(13) + "Consulting     Dave Jordan" + CHR(13) + "Art Work      Chris Rush" FONT "Times New Roman", 8 STYLE "T" SIZE 4.000, 58.250, 0.000
+@ 7.385, 35.400 SAY "Credits" FONT "Times New Roman", 10 STYLE "BT"
+@ 6.462, 14.400 GET m.but DEFAULT 0 FONT "MS Sans Serif", 8 SIZE 12.077, 50.600, 0.800 PICTURE "@*IHN " VALID _r1e1d4x7y()
+@ 1.923, 61.600 SAY ddversion FONT "Times New Roman", 8 STYLE "T" SIZE 1.000, 12.500
+IF NOT WVISIBLE("about")
+	ACTIVATE WINDOW about
+ENDIF
+READ CYCLE MODAL
+RELEASE WINDOW about
+SET READBORDER &rborder
+IF m.talkstat = "ON"
+	SET TALK ON
+ENDIF
+IF m.compstat = "ON"
+	SET COMPATIBLE ON
+ENDIF
+
+
+PROCEDURE _r1e1d4x1c
+IF m.but == 1
+	CLEAR READ
+ELSE
+	DO "sys.spr"
+ENDIF
+
+
+PROCEDURE _r1e1d4x2x
+DO "sys.spr"
+
+
+PROCEDURE _r1e1d4x7y
+SET NEAR OFF    && ? decompiler guessed a keyword on this line
+FOR x = 1 TO 59
+	FOR t = 1 TO 15
+		SCROLL 6.47, 14.41, 17.40, 62.60, 0.1
+		IF INKEY(0.03) = 27
+			CLEAR READ
+			RETURN
+		ENDIF
+	ENDFOR
+	@ 16.400, 17.000 SAY a(x) FONT "Times New Roman", 9
+ENDFOR

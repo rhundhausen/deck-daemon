@@ -1,0 +1,93 @@
+* TOOLS.SPR
+* Deck Daemon for Windows, written by Dave Armga for Bard's Quest Software, 1995
+* MIT License, see LICENSE at the repository root.
+* Decompiled from TOOLS.EXE (module TOOLS.SPX, compiled 1995-07-05 21:03).
+* Comments and original layout are not stored in compiled FoxPro code
+* and could not be recovered. Lines marked '&& ?' use a keyword the
+* decompiler inferred from context; see ../README.md.
+
+PRIVATE m.currarea, m.talkstat, m.compstat
+IF SET("TALK") = "ON"
+	SET TALK OFF
+	m.talkstat = "ON"
+ELSE
+	m.talkstat = "OFF"
+ENDIF
+m.compstat = SET("COMPATIBLE")
+SET COMPATIBLE OFF
+m.rborder = SET("READBORDER")
+SET READBORDER ON
+IF NOT WEXIST("_r1n194con")
+	DEFINE WINDOW _r1n194con AT 0.000, 0.000 SIZE 24.692, 93.800 FONT "MS Sans Serif", 8 POPUP OF NOGROW NOZOOM    && ? decompiler guessed a keyword on this line
+	MOVE WINDOW _r1n194con CENTER
+ENDIF
+IF WVISIBLE("_r1n194con")
+	ACTIVATE WINDOW _r1n194con SAME
+ELSE
+	ACTIVATE WINDOW _r1n194con NOSHOW
+ENDIF
+@ 4.615, 41.400 GET m.but DEFAULT 1 FONT "MS Sans Serif", 8 STYLE "B" SIZE 1.769, 8.833, 0.667 PICTURE "@*HN \<Index's" VALID _r1n194cw2()
+@ 0.615, 29.400 SAY "Deck Daemon System Tools" FONT "MS Sans Serif", 12 STYLE "T"
+@ 7.462, 21.200 SAY "This Function Will Fix database and indexing problems" + CHR(13) + "That the Rebuild Function was unable to.  It is " + CHR(13) + "Recomended that you ReRun Rebuild after using" + CHR(13) + "this option." FONT "MS Sans Serif", 8 STYLE "T" SIZE 4.000, 51.000, 0.000
+@ 13.154, 41.400 GET m.but DEFAULT 1 FONT "MS Sans Serif", 8 STYLE "B" SIZE 1.769, 8.833, 0.667 PICTURE "@*HN \<Reset" VALID _r1n194cyw()
+@ 15.231, 21.600 SAY "Reset's Deck Daemon to orginal defaults.   Warning," + CHR(13) + "This Will Destroy All Data, Cards, Decks, Price Lists!!" FONT "MS Sans Serif", 8 STYLE "T" SIZE 2.000, 50.400, 0.000
+@ 22.231, 26.600 GET m.but DEFAULT 1 FONT "MS Sans Serif", 8 STYLE "B" SIZE 1.769, 33.667, 0.667 PICTURE "@*HN \<Cancel" VALID _r1n194d1x()
+IF NOT WVISIBLE("_r1n194con")
+	ACTIVATE WINDOW _r1n194con
+ENDIF
+READ CYCLE
+RELEASE WINDOW _r1n194con
+SET READBORDER &rborder
+IF m.talkstat = "ON"
+	SET TALK ON
+ENDIF
+IF m.compstat = "ON"
+	SET COMPATIBLE ON
+ENDIF
+
+
+PROCEDURE tindex
+ERASE "daemon1.ddx"
+ERASE "daemon2.ddx"
+ERASE "daemon3.ddx"
+ERASE "daemon4.ddx"
+ERASE "daemon5.ddx"
+ERASE "daemon6.ddx"
+ERASE "daemon7.ddx"
+ERASE "daemon8.ddx"
+ERASE "daemonq.ddw"
+ERASE "daemonr.ddw"
+ERASE "daemonp.ddw"
+
+
+PROCEDURE _r1n194cw2
+DO tindex
+QUIT
+
+
+PROCEDURE _r1n194cyw
+DO tindex
+USE "daemon1.ddw"
+ZAP
+USE "daemon2.ddw"
+ZAP
+USE "daemon3.ddw"
+ZAP
+USE "daemon4.ddw"
+ZAP
+USE "daemon5.ddw"
+ZAP
+USE "daemon6.ddw"
+ZAP
+USE "daemon7.ddw"
+ZAP
+USE "daemon8.ddw"
+ZAP
+USE "daemon9.ddw"
+ZAP
+USE
+QUIT
+
+
+PROCEDURE _r1n194d1x
+QUIT

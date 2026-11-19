@@ -1,0 +1,22 @@
+# Keep the original DOS-era bytes exactly as they were.
+# The release data (.COD, .LST, .SOD, .REF, .TXT, .DD and friends) is read by
+# 16-bit DOS and Windows programs that expect CRLF line endings, and the
+# Clipper sources are CP437 with CRLF. Git must never convert any of them.
+releases/** -text
+src/**/*.prg -text
+images/** binary
+
+# Source recovered from the Windows release: ANSI (cp1252) with CRLF, plus
+# report tables and bitmaps copied byte for byte from DAEMON.EXE.
+src/windows/programs/** -text
+src/windows/screens/** -text
+src/windows/menus/** -text
+src/windows/tools/** -text
+src/windows/reports/** binary
+src/windows/resources/** -text
+
+# Repository documentation is ordinary text.
+*.md text
+LICENSE text
+NOTICE text
+.gitattributes text

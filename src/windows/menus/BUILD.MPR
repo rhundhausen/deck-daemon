@@ -1,0 +1,22 @@
+* BUILD.MPR
+* Deck Daemon for Windows, written by Dave Armga for Bard's Quest Software, 1995
+* MIT License, see LICENSE at the repository root.
+* Decompiled from DAEMON.EXE (module BUILD.MPX, compiled 1995-06-26 22:55).
+* Comments and original layout are not stored in compiled FoxPro code
+* and could not be recovered. Lines marked '&& ?' use a keyword the
+* decompiler inferred from context; see ../README.md.
+
+SET SYSMENU TO
+SET SYSMENU AUTOMATIC
+DEFINE PAD _r1e1d4t87 OF _MSYSMENU PROMPT "E\<xit" SKIP FOR m.run <> 3 COLOR SCHEME 3 KEY ALT+X, "ALT+X"
+DEFINE PAD _r1e1d4t9u OF _MSYSMENU PROMPT " F\<ilter" SKIP FOR m.run <> 3 COLOR SCHEME 3 KEY ALT+I, "ALT+I"
+DEFINE PAD _r1e1d4t9x OF _MSYSMENU PROMPT "\<View" SKIP FOR m.run <> 3 COLOR SCHEME 3 KEY ALT+V, "ALT+V"
+DEFINE PAD _r1e1d4t9z OF _MSYSMENU PROMPT "\<Zoom" SKIP FOR m.run <> 3 COLOR SCHEME 3 KEY ALT+Z, "ALT+Z"
+DEFINE PAD _r1e1d4ta3 OF _MSYSMENU PROMPT "\<Find" SKIP FOR m.run <> 3 COLOR SCHEME 3 KEY ALT+F, "ALT+F"
+DEFINE PAD _r1e1d4ta6 OF _MSYSMENU PROMPT " \<Help" SKIP FOR m.run <> 3 COLOR SCHEME 3 KEY F1, "F1"
+ON SELECTION PAD _r1e1d4t87 OF _MSYSMENU do select2 with 1
+ON SELECTION PAD _r1e1d4t9u OF _MSYSMENU do select2 with 2
+ON SELECTION PAD _r1e1d4t9x OF _MSYSMENU do select2 with 3
+ON SELECTION PAD _r1e1d4t9z OF _MSYSMENU do select2 with 4
+ON SELECTION PAD _r1e1d4ta3 OF _MSYSMENU do select2 with 5
+ON SELECTION PAD _r1e1d4ta6 OF _MSYSMENU do select2 with 6

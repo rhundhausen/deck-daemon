@@ -1,0 +1,39 @@
+* OPENING.SPR
+* Deck Daemon for Windows, written by Dave Armga for Bard's Quest Software, 1995
+* MIT License, see LICENSE at the repository root.
+* Decompiled from DAEMON.EXE (module OPENING.SPX, compiled 1995-06-26 22:55).
+* Comments and original layout are not stored in compiled FoxPro code
+* and could not be recovered. Lines marked '&& ?' use a keyword the
+* decompiler inferred from context; see ../README.md.
+
+PRIVATE m.currarea, m.talkstat, m.compstat
+IF SET("TALK") = "ON"
+	SET TALK OFF
+	m.talkstat = "ON"
+ELSE
+	m.talkstat = "OFF"
+ENDIF
+m.compstat = SET("COMPATIBLE")
+SET COMPATIBLE OFF
+m.rborder = SET("READBORDER")
+SET READBORDER ON
+IF NOT WEXIST("open") OR UPPER(WTITLE("OPEN")) == "OPEN.PJX" OR UPPER(WTITLE("OPEN")) == "OPEN.SCX" OR UPPER(WTITLE("OPEN")) == "OPEN.MNX" OR UPPER(WTITLE("OPEN")) == "OPEN.PRG" OR UPPER(WTITLE("OPEN")) == "OPEN.FRX" OR UPPER(WTITLE("OPEN")) == "OPEN.QPR"
+	DEFINE WINDOW open AT 0.000, 0.000 SIZE 18.087, 79.000 FONT "Times New Roman", 14 STYLE "BI" POPUP OF NOGROW NOZOOM    && ? decompiler guessed a keyword on this line
+	MOVE WINDOW open CENTER
+ENDIF
+IF WVISIBLE("open")
+	ACTIVATE WINDOW open SAME
+ELSE
+	ACTIVATE WINDOW open NOSHOW
+ENDIF
+@ 0.435, 0.750 SAY (LOCFILE("daemon.rsh", "BMP|ICO|PCT|ICN", "Where is daemon?")) BITMAP STYLE "T" SIZE 17.391, 77.500
+IF NOT WVISIBLE("open")
+	ACTIVATE WINDOW open
+ENDIF
+SET READBORDER &rborder
+IF m.talkstat = "ON"
+	SET TALK ON
+ENDIF
+IF m.compstat = "ON"
+	SET COMPATIBLE ON
+ENDIF

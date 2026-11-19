@@ -1,0 +1,34 @@
+Deck Daemon archive - notice of third-party material
+====================================================
+
+The MIT License in LICENSE applies only to:
+
+  - the DOS source code in src/dos/, written by Richard Hundhausen
+  - the Windows source code in src/windows/, written by Dave Armga in 1995 as
+    a work made for hire for Bard's Quest Software, Inc., Richard Hundhausen's
+    company, and recovered by decompiling the released DAEMON.EXE
+  - the repository documentation written for this archive (README.md,
+    src/dos/readme.md, src/windows/README.md, this NOTICE)
+
+Everything else in releases/ and images/ is included for historical
+preservation. It is not covered by the MIT License, and each item remains
+the property of its owner, including:
+
+  - Magic: The Gathering card names, card text, set names and trademarks:
+    Wizards of the Coast LLC. Deck Daemon was never affiliated with or
+    endorsed by Wizards of the Coast.
+  - Conjure magazine and Conjure on Disk price guide data (MAGIC.COD and
+    related files): Conjure Press.
+  - Scrye magazine and Scrye on Disk price guide data (.SOD files and their
+    text versions): ILM International, Inc. and successors.
+  - The Duelist magazine: Wizards of the Coast LLC.
+  - Microsoft FoxPro 2.6 for Windows runtime and fonts (FOXW2600.ESL,
+    FOXFONT.FON, FOXFONT.850, FOXFONT.852): Microsoft Corporation.
+  - Logo artwork credited to Christopher Rush and Brian Jackson in images/:
+    the respective artists.
+  - Deck Daemon, Daemon Decks, Bard's Quest Software names and logos, the
+    compiled programs and their bundled data, as originally published by
+    Bard's Quest Software, Inc.
+
+If you own rights to any of this material and want it removed or credited
+differently, please open an issue on the repository.

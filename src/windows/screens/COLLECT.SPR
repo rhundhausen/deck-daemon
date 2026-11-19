@@ -1,0 +1,128 @@
+* COLLECT.SPR
+* Deck Daemon for Windows, written by Dave Armga for Bard's Quest Software, 1995
+* MIT License, see LICENSE at the repository root.
+* Decompiled from DAEMON.EXE (module COLLECT.SPX, compiled 1995-06-26 22:55).
+* Comments and original layout are not stored in compiled FoxPro code
+* and could not be recovered. Lines marked '&& ?' use a keyword the
+* decompiler inferred from context; see ../README.md.
+
+PRIVATE m.currarea, m.talkstat, m.compstat
+IF SET("TALK") = "ON"
+	SET TALK OFF
+	m.talkstat = "ON"
+ELSE
+	m.talkstat = "OFF"
+ENDIF
+m.compstat = SET("COMPATIBLE")
+SET COMPATIBLE OFF
+m.rborder = SET("READBORDER")
+SET READBORDER ON
+IF NOT WEXIST("collector") OR UPPER(WTITLE("COLLECTOR")) == "COLLECTOR.PJX" OR UPPER(WTITLE("COLLECTOR")) == "COLLECTOR.SCX" OR UPPER(WTITLE("COLLECTOR")) == "COLLECTOR.MNX" OR UPPER(WTITLE("COLLECTOR")) == "COLLECTOR.PRG" OR UPPER(WTITLE("COLLECTOR")) == "COLLECTOR.FRX" OR UPPER(WTITLE("COLLECTOR")) == "COLLECTOR.QPR"
+	DEFINE WINDOW collector AT 0.000, 0.000 SIZE 18.938, 97.600 FONT "Times New Roman", 10 STYLE "I" FLOAT OF NOGROW ZOOM    && ? decompiler guessed a keyword on this line
+	MOVE WINDOW collector CENTER
+ENDIF
+SELECT cards
+oldfilt = FILTER()
+oldrec = RECNO()
+SET FILTER TO
+USE IN 0 "daemon6.ddw" INDEX "daemon6.ddx"
+DIMENSION a_collecto(1)
+a_collecto(1) = "Not computed"
+date2 = DATE()
+date1 = DATE() - 30
+DIMENSION a_cdealer(1, 5)
+cdealer = 0
+collector = 0
+sold = 0
+soldd = 0
+purchased = 0
+purchasedd = 0
+smint = 0
+smintd = 0
+svfine = 0
+svfined = 0
+sfine = 0
+sfined = 0
+sused = 0
+susedd = 0
+svused = 0
+svusedd = 0
+pmint = 0
+pmintd = 0
+pvfine = 0
+pvfined = 0
+pfine = 0
+pfined = 0
+pused = 0
+pusedd = 0
+pvused = 0
+pvusedd = 0
+IF WVISIBLE("collector")
+	ACTIVATE WINDOW collector SAME
+ELSE
+	ACTIVATE WINDOW collector NOSHOW
+ENDIF
+@ 1.063, 33.800 SAY "Collector's Trivia" FONT "Times New Roman", 16 STYLE "BIT"
+@ 3.563, 30.000 GET m.date1 DEFAULT {} FONT "Times New Roman", 10 STYLE "IT" SIZE 0.938, 13.600 VALID cursoroff() WHEN cursoron()
+@ 3.563, 46.800 SAY "TO" FONT "Times New Roman", 10 STYLE "IT"
+@ 3.563, 53.600 GET m.date2 DEFAULT {} FONT "Times New Roman", 10 STYLE "IT" SIZE 0.938, 13.600 VALID cursoroff() WHEN cursoron()
+@ 17.250, 7.600 GET m.but DEFAULT 1 FONT "MS Sans Serif", 8 STYLE "B" SIZE 1.769, 16.667, 0.667 PICTURE "@*HN \<Compute Trivia;\<Display Detail;\<Print Detail;E\<xit" VALID _r1e1d56qy()
+@ 5.313,2.600 GET m.collector  PICTURE "@&N"  FROM a_collector  SIZE 20.222,66.143  DEFAULT 1  FONT "FoxFont", 7  COLOR RGB(0,0,0,255,255,255),RGB(0,0,0,255,255,255)
+IF NOT WVISIBLE("collector")
+	ACTIVATE WINDOW collector
+ENDIF
+READ CYCLE MODAL
+RELEASE WINDOW collector
+SET READBORDER &rborder
+IF m.talkstat = "ON"
+	SET TALK ON
+ENDIF
+IF m.compstat = "ON"
+	SET COMPATIBLE ON
+ENDIF
+SELECT daemon6
+USE
+SELECT cards
+GO (oldrec)
+IF NOT EMPTY(oldfilt)
+	SET FILTER TO &oldfilt
+ENDIF
+
+
+PROCEDURE cursoron
+SET NEAR ON    && ? decompiler guessed a keyword on this line
+RETURN .T.
+
+
+PROCEDURE cursoroff
+SET NEAR OFF    && ? decompiler guessed a keyword on this line
+RETURN .T.
+
+
+PROCEDURE _r1e1d56qy
+DO CASE
+	CASE m.but == 1
+		DO ctrivia
+	CASE m.but == 2
+		IF ctrivia()
+			DO queries
+			SELECT purchases
+			REPORT FORM "purchases" PREVIEW NOCONSOLE
+			SELECT sales
+			REPORT FORM "sales" PREVIEW NOCONSOLE
+			DO closeq
+		ENDIF
+	CASE m.but == 3
+		IF ctrivia()
+			DO queries
+			SELECT purchases
+			REPORT FORM "purchases" TO PRINTER PROMPT NOCONSOLE
+			SELECT sales
+			REPORT FORM "sales" TO PRINTER NOCONSOLE
+			SELECT list
+			REPORT FORM "detail" TO PRINTER NOCONSOLE
+			DO closeq
+		ENDIF
+	CASE m.but == 4
+		CLEAR READ
+ENDCASE

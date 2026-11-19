@@ -1,0 +1,51 @@
+* SYS.SPR
+* Deck Daemon for Windows, written by Dave Armga for Bard's Quest Software, 1995
+* MIT License, see LICENSE at the repository root.
+* Decompiled from DAEMON.EXE (module SYS.SPX, compiled 1995-06-26 22:55).
+* Comments and original layout are not stored in compiled FoxPro code
+* and could not be recovered. Lines marked '&& ?' use a keyword the
+* decompiler inferred from context; see ../README.md.
+
+PRIVATE m.currarea, m.talkstat, m.compstat
+IF SET("TALK") = "ON"
+	SET TALK OFF
+	m.talkstat = "ON"
+ELSE
+	m.talkstat = "OFF"
+ENDIF
+m.compstat = SET("COMPATIBLE")
+SET COMPATIBLE OFF
+m.rborder = SET("READBORDER")
+SET READBORDER ON
+IF NOT WEXIST("_r1e1d5cti")
+	DEFINE WINDOW _r1e1d5cti AT 0.000, 0.000 SIZE 15.050, 44.500 FONT "MS Sans Serif", 12 FLOAT OF TITLE "System Information" NOGROW DOUBLE    && ? decompiler guessed a keyword on this line
+	MOVE WINDOW _r1e1d5cti CENTER
+ENDIF
+IF WVISIBLE("_r1e1d5cti")
+	ACTIVATE WINDOW _r1e1d5cti SAME
+ELSE
+	ACTIVATE WINDOW _r1e1d5cti NOSHOW
+ENDIF
+@ 1.000, 2.750 SAY "Processor" FONT "MS Sans Serif", 12 STYLE "T"
+@ 1.000, 13.750 SAY SYS(17) FONT "MS Sans Serif", 12 STYLE "T" SIZE 1.000, 6.375
+@ 3.400, 2.750 SAY "Display" FONT "MS Sans Serif", 12 STYLE "T"
+@ 3.400, 13.750 SAY SYS(2006) FONT "MS Sans Serif", 12 STYLE "T" SIZE 1.000, 11.875
+@ 5.200, 2.750 SAY "Avail." + CHR(13) + "Memory" FONT "MS Sans Serif", 12 STYLE "T" SIZE 2.000, 7.625, 0.000
+@ 5.800, 13.750 SAY ALLTRIM(TRANSFORM((VAL(SYS(1001)) / 1000000) - (VAL(SYS(1016)) / 1000000), "999,999.99MB")) FONT "MS Sans Serif", 12 STYLE "T" SIZE 1.000, 13.250    && ? decompiler guessed a keyword on this line
+@ 8.200, 2.750 SAY "Daemon" + CHR(13) + "Directory" FONT "MS Sans Serif", 12 STYLE "T" SIZE 2.000, 8.500, 0.000
+@ 8.800, 14.000 SAY SYS(2004) FONT "MS Sans Serif", 12 STYLE "T" SIZE 1.000, 29.125
+@ 11.200, 2.750 SAY "Current" + CHR(13) + "Directory" FONT "MS Sans Serif", 12 STYLE "T" SIZE 2.000, 8.500, 0.000
+@ 11.800, 13.750 SAY SYS(2003) FONT "MS Sans Serif", 12 STYLE "T" SIZE 1.000, 29.375
+@ 13.200, 19.250 GET m.but DEFAULT 1 FONT "MS Sans Serif", 8 STYLE "B" SIZE 1.769, 7.167, 0.667 PICTURE "@*HT \<Done"
+IF NOT WVISIBLE("_r1e1d5cti")
+	ACTIVATE WINDOW _r1e1d5cti
+ENDIF
+READ CYCLE MODAL
+RELEASE WINDOW _r1e1d5cti
+SET READBORDER &rborder
+IF m.talkstat = "ON"
+	SET TALK ON
+ENDIF
+IF m.compstat = "ON"
+	SET COMPATIBLE ON
+ENDIF
